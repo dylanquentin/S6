@@ -1,0 +1,2163 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<isf>
+  <region nom="ILE-DE-FRANCE">
+    <departement nom="YVELINES">
+      <commune nom="78 297 GUYANCOURT">
+        <nbDeRedevables>66</nbDeRedevables>
+        <patrimoineMoyen>1948231</patrimoineMoyen>
+        <impotMoyen>4879</impotMoyen>
+      </commune>
+      <commune nom="78 208 ELANCOURT">
+        <nbDeRedevables>68</nbDeRedevables>
+        <patrimoineMoyen>2042951</patrimoineMoyen>
+        <impotMoyen>6343</impotMoyen>
+      </commune>
+      <commune nom="78 423 MONTIGNY-LE-BRETONNEUX">
+        <nbDeRedevables>125</nbDeRedevables>
+        <patrimoineMoyen>2054909</patrimoineMoyen>
+        <impotMoyen>6484</impotMoyen>
+      </commune>
+      <commune nom="78 640 VELIZY-VILLACOUBLAY">
+        <nbDeRedevables>132</nbDeRedevables>
+        <patrimoineMoyen>2029017</patrimoineMoyen>
+        <impotMoyen>6822</impotMoyen>
+      </commune>
+      <commune nom="78 311 HOUILLES">
+        <nbDeRedevables>152</nbDeRedevables>
+        <patrimoineMoyen>2068877</patrimoineMoyen>
+        <impotMoyen>7120</impotMoyen>
+      </commune>
+      <commune nom="78 586 SARTROUVILLE">
+        <nbDeRedevables>170</nbDeRedevables>
+        <patrimoineMoyen>2170122</patrimoineMoyen>
+        <impotMoyen>7289</impotMoyen>
+      </commune>
+      <commune nom="78 490 PLAISIR">
+        <nbDeRedevables>119</nbDeRedevables>
+        <patrimoineMoyen>2322430</patrimoineMoyen>
+        <impotMoyen>7536</impotMoyen>
+      </commune>
+      <commune nom="78 172 CONFLANS-SAINTE-HONORINE">
+        <nbDeRedevables>115</nbDeRedevables>
+        <patrimoineMoyen>2327748</patrimoineMoyen>
+        <impotMoyen>8190</impotMoyen>
+      </commune>
+      <commune nom="78 498 POISSY">
+        <nbDeRedevables>151</nbDeRedevables>
+        <patrimoineMoyen>2255603</patrimoineMoyen>
+        <impotMoyen>8424</impotMoyen>
+      </commune>
+      <commune nom="78 517 RAMBOUILLET">
+        <nbDeRedevables>246</nbDeRedevables>
+        <patrimoineMoyen>2395477</patrimoineMoyen>
+        <impotMoyen>8503</impotMoyen>
+      </commune>
+      <commune nom="78 358 MAISONS-LAFFITTE">
+        <nbDeRedevables>631</nbDeRedevables>
+        <patrimoineMoyen>2571855</patrimoineMoyen>
+        <impotMoyen>9763</impotMoyen>
+      </commune>
+      <commune nom="78 158 LE CHESNAY">
+        <nbDeRedevables>744</nbDeRedevables>
+        <patrimoineMoyen>2599059</patrimoineMoyen>
+        <impotMoyen>10539</impotMoyen>
+      </commune>
+      <commune nom="78 146 CHATOU">
+        <nbDeRedevables>702</nbDeRedevables>
+        <patrimoineMoyen>2620758</patrimoineMoyen>
+        <impotMoyen>11152</impotMoyen>
+      </commune>
+      <commune nom="78 551 SAINT-GERMAIN-EN-LAYE">
+        <nbDeRedevables>1255</nbDeRedevables>
+        <patrimoineMoyen>2804097</patrimoineMoyen>
+        <impotMoyen>11332</impotMoyen>
+      </commune>
+      <commune nom="78 126 LA CELLE-SAINT-CLOUD">
+        <nbDeRedevables>520</nbDeRedevables>
+        <patrimoineMoyen>2918023</patrimoineMoyen>
+        <impotMoyen>11347</impotMoyen>
+      </commune>
+      <commune nom="78 361 MANTES-LA-JOLIE">
+        <nbDeRedevables>91</nbDeRedevables>
+        <patrimoineMoyen>2592839</patrimoineMoyen>
+        <impotMoyen>11643</impotMoyen>
+      </commune>
+      <commune nom="78 646 VERSAILLES">
+        <nbDeRedevables>2728</nbDeRedevables>
+        <patrimoineMoyen>2851063</patrimoineMoyen>
+        <impotMoyen>11761</impotMoyen>
+      </commune>
+    </departement>
+    <departement nom="ESSONNE">
+      <commune nom="91 687 VIRY CHATILLON">
+        <nbDeRedevables>64</nbDeRedevables>
+        <patrimoineMoyen>1983768</patrimoineMoyen>
+        <impotMoyen>5987</impotMoyen>
+      </commune>
+      <commune nom="91 272 GIF SUR YVETTE">
+        <nbDeRedevables>385</nbDeRedevables>
+        <patrimoineMoyen>2243196</patrimoineMoyen>
+        <impotMoyen>7135</impotMoyen>
+      </commune>
+      <commune nom="91 589 SAVIGNY SUR ORGE">
+        <nbDeRedevables>124</nbDeRedevables>
+        <patrimoineMoyen>2138970</patrimoineMoyen>
+        <impotMoyen>7490</impotMoyen>
+      </commune>
+      <commune nom="91 377 MASSY">
+        <nbDeRedevables>102</nbDeRedevables>
+        <patrimoineMoyen>2142458</patrimoineMoyen>
+        <impotMoyen>7697</impotMoyen>
+      </commune>
+      <commune nom="91 691 YERRES">
+        <nbDeRedevables>131</nbDeRedevables>
+        <patrimoineMoyen>2243349</patrimoineMoyen>
+        <impotMoyen>7905</impotMoyen>
+      </commune>
+      <commune nom="91 421 MONTGERON">
+        <nbDeRedevables>162</nbDeRedevables>
+        <patrimoineMoyen>2462693</patrimoineMoyen>
+        <impotMoyen>8093</impotMoyen>
+      </commune>
+      <commune nom="91 549 STE GENEVIEVE DES BOIS">
+        <nbDeRedevables>154</nbDeRedevables>
+        <patrimoineMoyen>2385924</patrimoineMoyen>
+        <impotMoyen>8417</impotMoyen>
+      </commune>
+      <commune nom="91 201 DRAVEIL">
+        <nbDeRedevables>128</nbDeRedevables>
+        <patrimoineMoyen>2474554</patrimoineMoyen>
+        <impotMoyen>8964</impotMoyen>
+      </commune>
+      <commune nom="91 103 BRETIGNY SUR ORGE">
+        <nbDeRedevables>51</nbDeRedevables>
+        <patrimoineMoyen>2307521</patrimoineMoyen>
+        <impotMoyen>9127</impotMoyen>
+      </commune>
+      <commune nom="91 434 MORSANG SUR ORGE">
+        <nbDeRedevables>75</nbDeRedevables>
+        <patrimoineMoyen>2431240</patrimoineMoyen>
+        <impotMoyen>9341</impotMoyen>
+      </commune>
+      <commune nom="91 114 BRUNOY">
+        <nbDeRedevables>166</nbDeRedevables>
+        <patrimoineMoyen>2401319</patrimoineMoyen>
+        <impotMoyen>9882</impotMoyen>
+      </commune>
+      <commune nom="91 174 CORBEIL ESSONNES">
+        <nbDeRedevables>53</nbDeRedevables>
+        <patrimoineMoyen>2803198</patrimoineMoyen>
+        <impotMoyen>10127</impotMoyen>
+      </commune>
+      <commune nom="91 223 ETAMPES">
+        <nbDeRedevables>66</nbDeRedevables>
+        <patrimoineMoyen>2533716</patrimoineMoyen>
+        <impotMoyen>10541</impotMoyen>
+      </commune>
+      <commune nom="91 477 PALAISEAU">
+        <nbDeRedevables>249</nbDeRedevables>
+        <patrimoineMoyen>3663182</patrimoineMoyen>
+        <impotMoyen>10959</impotMoyen>
+      </commune>
+      <commune nom="91 027 ATHIS MONS">
+        <nbDeRedevables>73</nbDeRedevables>
+        <patrimoineMoyen>2441131</patrimoineMoyen>
+        <impotMoyen>10964</impotMoyen>
+      </commune>
+      <commune nom="91 345 LONGJUMEAU">
+        <nbDeRedevables>51</nbDeRedevables>
+        <patrimoineMoyen>3033181</patrimoineMoyen>
+        <impotMoyen>15381</impotMoyen>
+      </commune>
+    </departement>
+    <departement nom="VAL-DE-MARNE">
+      <commune nom="94 043 LE KREMLIN BICETRE">
+        <nbDeRedevables>66</nbDeRedevables>
+        <patrimoineMoyen>2022728</patrimoineMoyen>
+        <impotMoyen>6069</impotMoyen>
+      </commune>
+      <commune nom="94 028 CRETEIL">
+        <nbDeRedevables>244</nbDeRedevables>
+        <patrimoineMoyen>2171684</patrimoineMoyen>
+        <impotMoyen>7142</impotMoyen>
+      </commune>
+      <commune nom="94 041 IVRY SUR SEINE">
+        <nbDeRedevables>114</nbDeRedevables>
+        <patrimoineMoyen>2134149</patrimoineMoyen>
+        <impotMoyen>7221</impotMoyen>
+      </commune>
+      <commune nom="94 081 VITRY SUR SEINE">
+        <nbDeRedevables>139</nbDeRedevables>
+        <patrimoineMoyen>2155035</patrimoineMoyen>
+        <impotMoyen>7228</impotMoyen>
+      </commune>
+      <commune nom="94 079 VILLIERS SUR MARNE">
+        <nbDeRedevables>80</nbDeRedevables>
+        <patrimoineMoyen>2164832</patrimoineMoyen>
+        <impotMoyen>7487</impotMoyen>
+      </commune>
+      <commune nom="94 034 FRESNES">
+        <nbDeRedevables>64</nbDeRedevables>
+        <patrimoineMoyen>2201585</patrimoineMoyen>
+        <impotMoyen>7492</impotMoyen>
+      </commune>
+      <commune nom="94 038 L'HAY LES ROSES">
+        <nbDeRedevables>199</nbDeRedevables>
+        <patrimoineMoyen>2164239</patrimoineMoyen>
+        <impotMoyen>7552</impotMoyen>
+      </commune>
+      <commune nom="94 016 CACHAN">
+        <nbDeRedevables>166</nbDeRedevables>
+        <patrimoineMoyen>2347531</patrimoineMoyen>
+        <impotMoyen>7601</impotMoyen>
+      </commune>
+      <commune nom="94 003 ARCUEIL">
+        <nbDeRedevables>66</nbDeRedevables>
+        <patrimoineMoyen>2225945</patrimoineMoyen>
+        <impotMoyen>7652</impotMoyen>
+      </commune>
+      <commune nom="94 002 ALFORTVILLE">
+        <nbDeRedevables>78</nbDeRedevables>
+        <patrimoineMoyen>2146878</patrimoineMoyen>
+        <impotMoyen>7735</impotMoyen>
+      </commune>
+      <commune nom="94 046 MAISONS ALFORT">
+        <nbDeRedevables>314</nbDeRedevables>
+        <patrimoineMoyen>2380643</patrimoineMoyen>
+        <impotMoyen>8114</impotMoyen>
+      </commune>
+      <commune nom="94 071 SUCY EN BRIE">
+        <nbDeRedevables>201</nbDeRedevables>
+        <patrimoineMoyen>2259509</patrimoineMoyen>
+        <impotMoyen>8335</impotMoyen>
+      </commune>
+      <commune nom="94 076 VILLEJUIF">
+        <nbDeRedevables>110</nbDeRedevables>
+        <patrimoineMoyen>2347383</patrimoineMoyen>
+        <impotMoyen>8389</impotMoyen>
+      </commune>
+      <commune nom="94 018 CHARENTON LE PONT">
+        <nbDeRedevables>475</nbDeRedevables>
+        <patrimoineMoyen>2363337</patrimoineMoyen>
+        <impotMoyen>8610</impotMoyen>
+      </commune>
+      <commune nom="94 058 LE PERREUX SUR MARNE">
+        <nbDeRedevables>464</nbDeRedevables>
+        <patrimoineMoyen>2408563</patrimoineMoyen>
+        <impotMoyen>8765</impotMoyen>
+      </commune>
+      <commune nom="94 080 VINCENNES">
+        <nbDeRedevables>1082</nbDeRedevables>
+        <patrimoineMoyen>2422250</patrimoineMoyen>
+        <impotMoyen>9172</impotMoyen>
+      </commune>
+      <commune nom="94 073 THIAIS">
+        <nbDeRedevables>133</nbDeRedevables>
+        <patrimoineMoyen>2364987</patrimoineMoyen>
+        <impotMoyen>9203</impotMoyen>
+      </commune>
+      <commune nom="94 022 CHOISY LE ROI">
+        <nbDeRedevables>77</nbDeRedevables>
+        <patrimoineMoyen>2423825</patrimoineMoyen>
+        <impotMoyen>9593</impotMoyen>
+      </commune>
+      <commune nom="94 017 CHAMPIGNY SUR MARNE">
+        <nbDeRedevables>161</nbDeRedevables>
+        <patrimoineMoyen>2536146</patrimoineMoyen>
+        <impotMoyen>10167</impotMoyen>
+      </commune>
+      <commune nom="94 068 SAINT MAUR DES FOSSES">
+        <nbDeRedevables>1678</nbDeRedevables>
+        <patrimoineMoyen>2697372</patrimoineMoyen>
+        <impotMoyen>10709</impotMoyen>
+      </commune>
+      <commune nom="94 033 FONTENAY SOUS BOIS">
+        <nbDeRedevables>607</nbDeRedevables>
+        <patrimoineMoyen>2787057</patrimoineMoyen>
+        <impotMoyen>11184</impotMoyen>
+      </commune>
+      <commune nom="94 052 NOGENT SUR MARNE">
+        <nbDeRedevables>760</nbDeRedevables>
+        <patrimoineMoyen>2844134</patrimoineMoyen>
+        <impotMoyen>11372</impotMoyen>
+      </commune>
+      <commune nom="94 067 SAINT MANDE">
+        <nbDeRedevables>821</nbDeRedevables>
+        <patrimoineMoyen>2976369</patrimoineMoyen>
+        <impotMoyen>13085</impotMoyen>
+      </commune>
+    </departement>
+    <departement nom="HAUTS-DE-SEINE">
+      <commune nom="92 007 BAGNEUX">
+        <nbDeRedevables>69</nbDeRedevables>
+        <patrimoineMoyen>2059583</patrimoineMoyen>
+        <impotMoyen>6275</impotMoyen>
+      </commune>
+      <commune nom="92 050 NANTERRE">
+        <nbDeRedevables>263</nbDeRedevables>
+        <patrimoineMoyen>2154642</patrimoineMoyen>
+        <impotMoyen>6608</impotMoyen>
+      </commune>
+      <commune nom="92 032 FONTENAY AUX ROSES">
+        <nbDeRedevables>281</nbDeRedevables>
+        <patrimoineMoyen>2136306</patrimoineMoyen>
+        <impotMoyen>6936</impotMoyen>
+      </commune>
+      <commune nom="92 002 ANTONY">
+        <nbDeRedevables>860</nbDeRedevables>
+        <patrimoineMoyen>2307096</patrimoineMoyen>
+        <impotMoyen>8082</impotMoyen>
+      </commune>
+      <commune nom="92 009 BOIS-COLOMBES">
+        <nbDeRedevables>354</nbDeRedevables>
+        <patrimoineMoyen>2387518</patrimoineMoyen>
+        <impotMoyen>8154</impotMoyen>
+      </commune>
+      <commune nom="92 020 CHATILLON">
+        <nbDeRedevables>261</nbDeRedevables>
+        <patrimoineMoyen>2395131</patrimoineMoyen>
+        <impotMoyen>8330</impotMoyen>
+      </commune>
+      <commune nom="92 046 MALAKOFF">
+        <nbDeRedevables>161</nbDeRedevables>
+        <patrimoineMoyen>2391552</patrimoineMoyen>
+        <impotMoyen>8445</impotMoyen>
+      </commune>
+      <commune nom="92 024 CLICHY">
+        <nbDeRedevables>131</nbDeRedevables>
+        <patrimoineMoyen>2263898</patrimoineMoyen>
+        <impotMoyen>8517</impotMoyen>
+      </commune>
+      <commune nom="92 060 LE PLESSIS ROBINSON">
+        <nbDeRedevables>203</nbDeRedevables>
+        <patrimoineMoyen>2316036</patrimoineMoyen>
+        <impotMoyen>8535</impotMoyen>
+      </commune>
+      <commune nom="92 062 PUTEAUX">
+        <nbDeRedevables>371</nbDeRedevables>
+        <patrimoineMoyen>2446901</patrimoineMoyen>
+        <impotMoyen>8671</impotMoyen>
+      </commune>
+      <commune nom="92 075 VANVES">
+        <nbDeRedevables>383</nbDeRedevables>
+        <patrimoineMoyen>2369636</patrimoineMoyen>
+        <impotMoyen>8747</impotMoyen>
+      </commune>
+      <commune nom="92 040 ISSY LES MOULINEAUX">
+        <nbDeRedevables>911</nbDeRedevables>
+        <patrimoineMoyen>2484814</patrimoineMoyen>
+        <impotMoyen>8867</impotMoyen>
+      </commune>
+      <commune nom="92 026 COURBEVOIE">
+        <nbDeRedevables>1137</nbDeRedevables>
+        <patrimoineMoyen>2361265</patrimoineMoyen>
+        <impotMoyen>9045</impotMoyen>
+      </commune>
+      <commune nom="92 004 ASNIERES">
+        <nbDeRedevables>807</nbDeRedevables>
+        <patrimoineMoyen>2502598</patrimoineMoyen>
+        <impotMoyen>9209</impotMoyen>
+      </commune>
+      <commune nom="92 035 LA GARENNE COLOMBES">
+        <nbDeRedevables>353</nbDeRedevables>
+        <patrimoineMoyen>2427495</patrimoineMoyen>
+        <impotMoyen>9211</impotMoyen>
+      </commune>
+      <commune nom="92 014 BOURG LA REINE">
+        <nbDeRedevables>483</nbDeRedevables>
+        <patrimoineMoyen>2622848</patrimoineMoyen>
+        <impotMoyen>9392</impotMoyen>
+      </commune>
+      <commune nom="92 023 CLAMART">
+        <nbDeRedevables>701</nbDeRedevables>
+        <patrimoineMoyen>2600416</patrimoineMoyen>
+        <impotMoyen>9811</impotMoyen>
+      </commune>
+      <commune nom="92 063 RUEIL MALMAISON">
+        <nbDeRedevables>1638</nbDeRedevables>
+        <patrimoineMoyen>2648842</patrimoineMoyen>
+        <impotMoyen>9940</impotMoyen>
+      </commune>
+      <commune nom="92 025 COLOMBES">
+        <nbDeRedevables>463</nbDeRedevables>
+        <patrimoineMoyen>2470270</patrimoineMoyen>
+        <impotMoyen>10353</impotMoyen>
+      </commune>
+      <commune nom="92 073 SURESNES">
+        <nbDeRedevables>643</nbDeRedevables>
+        <patrimoineMoyen>2600892</patrimoineMoyen>
+        <impotMoyen>10454</impotMoyen>
+      </commune>
+      <commune nom="92 048 MEUDON">
+        <nbDeRedevables>1015</nbDeRedevables>
+        <patrimoineMoyen>2710995</patrimoineMoyen>
+        <impotMoyen>10517</impotMoyen>
+      </commune>
+      <commune nom="92 049 MONTROUGE">
+        <nbDeRedevables>454</nbDeRedevables>
+        <patrimoineMoyen>2558496</patrimoineMoyen>
+        <impotMoyen>10532</impotMoyen>
+      </commune>
+      <commune nom="92 019 CHATENAY MALABRY">
+        <nbDeRedevables>317</nbDeRedevables>
+        <patrimoineMoyen>2618242</patrimoineMoyen>
+        <impotMoyen>10802</impotMoyen>
+      </commune>
+      <commune nom="92 072 SEVRES">
+        <nbDeRedevables>662</nbDeRedevables>
+        <patrimoineMoyen>2742750</patrimoineMoyen>
+        <impotMoyen>10828</impotMoyen>
+      </commune>
+      <commune nom="92 044 LEVALLOIS-PERRET">
+        <nbDeRedevables>1374</nbDeRedevables>
+        <patrimoineMoyen>3105437</patrimoineMoyen>
+        <impotMoyen>10956</impotMoyen>
+      </commune>
+      <commune nom="92 012 BOULOGNE BILLANCOURT">
+        <nbDeRedevables>3914</nbDeRedevables>
+        <patrimoineMoyen>2954863</patrimoineMoyen>
+        <impotMoyen>12731</impotMoyen>
+      </commune>
+      <commune nom="92 064 SAINT CLOUD">
+        <nbDeRedevables>1358</nbDeRedevables>
+        <patrimoineMoyen>3272585</patrimoineMoyen>
+        <impotMoyen>14975</impotMoyen>
+      </commune>
+      <commune nom="92 051 NEUILLY SUR SEINE">
+        <nbDeRedevables>5834</nbDeRedevables>
+        <patrimoineMoyen>6026825</patrimoineMoyen>
+        <impotMoyen>27701</impotMoyen>
+      </commune>
+    </departement>
+    <departement nom="VAL-D'OISE">
+      <commune nom="95 127 CERGY">
+        <nbDeRedevables>93</nbDeRedevables>
+        <patrimoineMoyen>2073667</patrimoineMoyen>
+        <impotMoyen>6496</impotMoyen>
+      </commune>
+      <commune nom="95 219 ERMONT">
+        <nbDeRedevables>97</nbDeRedevables>
+        <patrimoineMoyen>2105383</patrimoineMoyen>
+        <impotMoyen>6866</impotMoyen>
+      </commune>
+      <commune nom="95 203 EAUBONNE">
+        <nbDeRedevables>136</nbDeRedevables>
+        <patrimoineMoyen>2116810</patrimoineMoyen>
+        <impotMoyen>7395</impotMoyen>
+      </commune>
+      <commune nom="95 197 DEUIL LA BARRE">
+        <nbDeRedevables>113</nbDeRedevables>
+        <patrimoineMoyen>2150035</patrimoineMoyen>
+        <impotMoyen>7416</impotMoyen>
+      </commune>
+      <commune nom="95 176 CORMEILLES EN PARISIS">
+        <nbDeRedevables>126</nbDeRedevables>
+        <patrimoineMoyen>2142129</patrimoineMoyen>
+        <impotMoyen>7694</impotMoyen>
+      </commune>
+      <commune nom="95 607 TAVERNY">
+        <nbDeRedevables>82</nbDeRedevables>
+        <patrimoineMoyen>2136790</patrimoineMoyen>
+        <impotMoyen>7838</impotMoyen>
+      </commune>
+      <commune nom="95 582 SANNOIS">
+        <nbDeRedevables>78</nbDeRedevables>
+        <patrimoineMoyen>2384576</patrimoineMoyen>
+        <impotMoyen>7886</impotMoyen>
+      </commune>
+      <commune nom="95 306 HERBLAY">
+        <nbDeRedevables>115</nbDeRedevables>
+        <patrimoineMoyen>2285068</patrimoineMoyen>
+        <impotMoyen>8953</impotMoyen>
+      </commune>
+      <commune nom="95 018 ARGENTEUIL">
+        <nbDeRedevables>137</nbDeRedevables>
+        <patrimoineMoyen>2506511</patrimoineMoyen>
+        <impotMoyen>9330</impotMoyen>
+      </commune>
+      <commune nom="95 555 ST GRATIEN">
+        <nbDeRedevables>129</nbDeRedevables>
+        <patrimoineMoyen>2521183</patrimoineMoyen>
+        <impotMoyen>9333</impotMoyen>
+      </commune>
+      <commune nom="95 500 PONTOISE">
+        <nbDeRedevables>98</nbDeRedevables>
+        <patrimoineMoyen>2469707</patrimoineMoyen>
+        <impotMoyen>9528</impotMoyen>
+      </commune>
+      <commune nom="95 252 FRANCONVILLE">
+        <nbDeRedevables>58</nbDeRedevables>
+        <patrimoineMoyen>3675783</patrimoineMoyen>
+        <impotMoyen>10441</impotMoyen>
+      </commune>
+      <commune nom="95 428 MONTMORENCY">
+        <nbDeRedevables>312</nbDeRedevables>
+        <patrimoineMoyen>3284745</patrimoineMoyen>
+        <impotMoyen>12998</impotMoyen>
+      </commune>
+    </departement>
+    <departement nom="SEINE-SAINT-DENIS">
+      <commune nom="93 032 GAGNY">
+        <nbDeRedevables>118</nbDeRedevables>
+        <patrimoineMoyen>2305261</patrimoineMoyen>
+        <impotMoyen>7310</impotMoyen>
+      </commune>
+      <commune nom="93 064 ROSNY SOUS BOIS">
+        <nbDeRedevables>86</nbDeRedevables>
+        <patrimoineMoyen>2155388</patrimoineMoyen>
+        <impotMoyen>7582</impotMoyen>
+      </commune>
+      <commune nom="93 006 BAGNOLET">
+        <nbDeRedevables>64</nbDeRedevables>
+        <patrimoineMoyen>2263788</patrimoineMoyen>
+        <impotMoyen>7588</impotMoyen>
+      </commune>
+      <commune nom="93 049 NEUILLY PLAISANCE">
+        <nbDeRedevables>75</nbDeRedevables>
+        <patrimoineMoyen>2141589</patrimoineMoyen>
+        <impotMoyen>7660</impotMoyen>
+      </commune>
+      <commune nom="93 031 EPINAY SUR SEINE">
+        <nbDeRedevables>53</nbDeRedevables>
+        <patrimoineMoyen>2191916</patrimoineMoyen>
+        <impotMoyen>7754</impotMoyen>
+      </commune>
+      <commune nom="93 046 LIVRY GARGAN">
+        <nbDeRedevables>106</nbDeRedevables>
+        <patrimoineMoyen>2130236</patrimoineMoyen>
+        <impotMoyen>7990</impotMoyen>
+      </commune>
+      <commune nom="93 005 AULNAY SOUS BOIS">
+        <nbDeRedevables>159</nbDeRedevables>
+        <patrimoineMoyen>2311056</patrimoineMoyen>
+        <impotMoyen>8053</impotMoyen>
+      </commune>
+      <commune nom="93 070 SAINT OUEN">
+        <nbDeRedevables>75</nbDeRedevables>
+        <patrimoineMoyen>2184032</patrimoineMoyen>
+        <impotMoyen>8255</impotMoyen>
+      </commune>
+      <commune nom="93 055 PANTIN">
+        <nbDeRedevables>78</nbDeRedevables>
+        <patrimoineMoyen>2182609</patrimoineMoyen>
+        <impotMoyen>8257</impotMoyen>
+      </commune>
+      <commune nom="93 057 LES PAVILLONS SOUS BOIS">
+        <nbDeRedevables>80</nbDeRedevables>
+        <patrimoineMoyen>2208801</patrimoineMoyen>
+        <impotMoyen>8266</impotMoyen>
+      </commune>
+      <commune nom="93 053 NOISY LE SEC">
+        <nbDeRedevables>53</nbDeRedevables>
+        <patrimoineMoyen>2264596</patrimoineMoyen>
+        <impotMoyen>8980</impotMoyen>
+      </commune>
+      <commune nom="93 029 DRANCY">
+        <nbDeRedevables>86</nbDeRedevables>
+        <patrimoineMoyen>2337646</patrimoineMoyen>
+        <impotMoyen>9115</impotMoyen>
+      </commune>
+      <commune nom="93 047 MONTFERMEIL">
+        <nbDeRedevables>53</nbDeRedevables>
+        <patrimoineMoyen>2307578</patrimoineMoyen>
+        <impotMoyen>9598</impotMoyen>
+      </commune>
+      <commune nom="93 048 MONTREUIL SOUS BOIS">
+        <nbDeRedevables>262</nbDeRedevables>
+        <patrimoineMoyen>2383076</patrimoineMoyen>
+        <impotMoyen>9726</impotMoyen>
+      </commune>
+      <commune nom="93 077 VILLEMOMBLE">
+        <nbDeRedevables>188</nbDeRedevables>
+        <patrimoineMoyen>2628013</patrimoineMoyen>
+        <impotMoyen>10178</impotMoyen>
+      </commune>
+      <commune nom="93 066 SAINT DENIS">
+        <nbDeRedevables>51</nbDeRedevables>
+        <patrimoineMoyen>2399702</patrimoineMoyen>
+        <impotMoyen>10191</impotMoyen>
+      </commune>
+      <commune nom="93 001 AUBERVILLIERS">
+        <nbDeRedevables>50</nbDeRedevables>
+        <patrimoineMoyen>2387678</patrimoineMoyen>
+        <impotMoyen>10624</impotMoyen>
+      </commune>
+      <commune nom="93 051 NOISY LE GRAND">
+        <nbDeRedevables>163</nbDeRedevables>
+        <patrimoineMoyen>2451070</patrimoineMoyen>
+        <impotMoyen>11762</impotMoyen>
+      </commune>
+      <commune nom="93 045 LES LILAS">
+        <nbDeRedevables>145</nbDeRedevables>
+        <patrimoineMoyen>2822833</patrimoineMoyen>
+        <impotMoyen>15409</impotMoyen>
+      </commune>
+    </departement>
+    <departement nom="SEINE-ET-MARNE">
+      <commune nom="77 108 CHELLES">
+        <nbDeRedevables>133</nbDeRedevables>
+        <patrimoineMoyen>2238734</patrimoineMoyen>
+        <impotMoyen>7978</impotMoyen>
+      </commune>
+      <commune nom="77 373 PONTAULT COMBAULT">
+        <nbDeRedevables>75</nbDeRedevables>
+        <patrimoineMoyen>2162208</patrimoineMoyen>
+        <impotMoyen>8218</impotMoyen>
+      </commune>
+      <commune nom="77 058 BUSSY ST GEORGES">
+        <nbDeRedevables>85</nbDeRedevables>
+        <patrimoineMoyen>2440053</patrimoineMoyen>
+        <impotMoyen>8980</impotMoyen>
+      </commune>
+      <commune nom="77 284 MEAUX">
+        <nbDeRedevables>132</nbDeRedevables>
+        <patrimoineMoyen>2425275</patrimoineMoyen>
+        <impotMoyen>9863</impotMoyen>
+      </commune>
+      <commune nom="77 243 LAGNY SUR MARNE">
+        <nbDeRedevables>96</nbDeRedevables>
+        <patrimoineMoyen>3168705</patrimoineMoyen>
+        <impotMoyen>11515</impotMoyen>
+      </commune>
+      <commune nom="77 350 OZOIR LA FERRIERE">
+        <nbDeRedevables>92</nbDeRedevables>
+        <patrimoineMoyen>2641116</patrimoineMoyen>
+        <impotMoyen>11815</impotMoyen>
+      </commune>
+      <commune nom="77 288 MELUN">
+        <nbDeRedevables>105</nbDeRedevables>
+        <patrimoineMoyen>2759449</patrimoineMoyen>
+        <impotMoyen>12051</impotMoyen>
+      </commune>
+    </departement>
+    <departement nom="PARIS">
+      <commune nom="75 120 PARIS">
+        <nbDeRedevables>1199</nbDeRedevables>
+        <patrimoineMoyen>2531889</patrimoineMoyen>
+        <impotMoyen>9257</impotMoyen>
+      </commune>
+      <commune nom="75 112 PARIS">
+        <nbDeRedevables>2495</nbDeRedevables>
+        <patrimoineMoyen>2514481</patrimoineMoyen>
+        <impotMoyen>9744</impotMoyen>
+      </commune>
+      <commune nom="75 119 PARIS">
+        <nbDeRedevables>1134</nbDeRedevables>
+        <patrimoineMoyen>2572157</patrimoineMoyen>
+        <impotMoyen>9961</impotMoyen>
+      </commune>
+      <commune nom="75 113 PARIS">
+        <nbDeRedevables>2204</nbDeRedevables>
+        <patrimoineMoyen>2600513</patrimoineMoyen>
+        <impotMoyen>10143</impotMoyen>
+      </commune>
+      <commune nom="75 111 PARIS">
+        <nbDeRedevables>2275</nbDeRedevables>
+        <patrimoineMoyen>2626143</patrimoineMoyen>
+        <impotMoyen>10160</impotMoyen>
+      </commune>
+      <commune nom="75 102 PARIS">
+        <nbDeRedevables>562</nbDeRedevables>
+        <patrimoineMoyen>2720931</patrimoineMoyen>
+        <impotMoyen>10911</impotMoyen>
+      </commune>
+      <commune nom="75 115 PARIS">
+        <nbDeRedevables>6998</nbDeRedevables>
+        <patrimoineMoyen>2751738</patrimoineMoyen>
+        <impotMoyen>11532</impotMoyen>
+      </commune>
+      <commune nom="75 110 PARIS">
+        <nbDeRedevables>1149</nbDeRedevables>
+        <patrimoineMoyen>2673428</patrimoineMoyen>
+        <impotMoyen>11640</impotMoyen>
+      </commune>
+      <commune nom="75 109 PARIS">
+        <nbDeRedevables>1977</nbDeRedevables>
+        <patrimoineMoyen>2873778</patrimoineMoyen>
+        <impotMoyen>11913</impotMoyen>
+      </commune>
+      <commune nom="75 114 PARIS">
+        <nbDeRedevables>3564</nbDeRedevables>
+        <patrimoineMoyen>3006125</patrimoineMoyen>
+        <impotMoyen>12330</impotMoyen>
+      </commune>
+      <commune nom="75 118 PARIS">
+        <nbDeRedevables>1663</nbDeRedevables>
+        <patrimoineMoyen>2910352</patrimoineMoyen>
+        <impotMoyen>12528</impotMoyen>
+      </commune>
+      <commune nom="75 105 PARIS">
+        <nbDeRedevables>2720</nbDeRedevables>
+        <patrimoineMoyen>3057294</patrimoineMoyen>
+        <impotMoyen>13114</impotMoyen>
+      </commune>
+      <commune nom="75 117 PARIS">
+        <nbDeRedevables>6340</nbDeRedevables>
+        <patrimoineMoyen>3340379</patrimoineMoyen>
+        <impotMoyen>14743</impotMoyen>
+      </commune>
+      <commune nom="75 103 PARIS">
+        <nbDeRedevables>1250</nbDeRedevables>
+        <patrimoineMoyen>3249056</patrimoineMoyen>
+        <impotMoyen>14927</impotMoyen>
+      </commune>
+      <commune nom="75 104 PARIS">
+        <nbDeRedevables>1333</nbDeRedevables>
+        <patrimoineMoyen>3731819</patrimoineMoyen>
+        <impotMoyen>18510</impotMoyen>
+      </commune>
+      <commune nom="75 101 PARIS">
+        <nbDeRedevables>833</nbDeRedevables>
+        <patrimoineMoyen>3587881</patrimoineMoyen>
+        <impotMoyen>19208</impotMoyen>
+      </commune>
+      <commune nom="75 108 PARIS">
+        <nbDeRedevables>3148</nbDeRedevables>
+        <patrimoineMoyen>4445890</patrimoineMoyen>
+        <impotMoyen>21425</impotMoyen>
+      </commune>
+      <commune nom="75 116 PARIS">
+        <nbDeRedevables>14361</nbDeRedevables>
+        <patrimoineMoyen>4469350</patrimoineMoyen>
+        <impotMoyen>21972</impotMoyen>
+      </commune>
+      <commune nom="75 106 PARIS">
+        <nbDeRedevables>4004</nbDeRedevables>
+        <patrimoineMoyen>4576866</patrimoineMoyen>
+        <impotMoyen>23029</impotMoyen>
+      </commune>
+      <commune nom="75 107 PARIS">
+        <nbDeRedevables>5795</nbDeRedevables>
+        <patrimoineMoyen>5749206</patrimoineMoyen>
+        <impotMoyen>28387</impotMoyen>
+      </commune>
+    </departement>
+  </region>
+  <region nom="OCCITANIE">
+    <departement nom="HAUTE-GARONNE">
+      <commune nom="31 149 COLOMIERS">
+        <nbDeRedevables>101</nbDeRedevables>
+        <patrimoineMoyen>2124628</patrimoineMoyen>
+        <impotMoyen>5959</impotMoyen>
+      </commune>
+      <commune nom="31 395 MURET">
+        <nbDeRedevables>91</nbDeRedevables>
+        <patrimoineMoyen>2439522</patrimoineMoyen>
+        <impotMoyen>8519</impotMoyen>
+      </commune>
+      <commune nom="31 069 BLAGNAC">
+        <nbDeRedevables>101</nbDeRedevables>
+        <patrimoineMoyen>2467963</patrimoineMoyen>
+        <impotMoyen>9413</impotMoyen>
+      </commune>
+      <commune nom="31 557 TOURNEFEUILLE">
+        <nbDeRedevables>197</nbDeRedevables>
+        <patrimoineMoyen>2595245</patrimoineMoyen>
+        <impotMoyen>9466</impotMoyen>
+      </commune>
+      <commune nom="31 555 TOULOUSE">
+        <nbDeRedevables>2904</nbDeRedevables>
+        <patrimoineMoyen>2531817</patrimoineMoyen>
+        <impotMoyen>9749</impotMoyen>
+      </commune>
+    </departement>
+    <departement nom="GERS">
+      <commune nom="32 013 AUCH">
+        <nbDeRedevables>82</nbDeRedevables>
+        <patrimoineMoyen>2140698</patrimoineMoyen>
+        <impotMoyen>6939</impotMoyen>
+      </commune>
+    </departement>
+    <departement nom="TARN">
+      <commune nom="81 065 CASTRES">
+        <nbDeRedevables>149</nbDeRedevables>
+        <patrimoineMoyen>2329801</patrimoineMoyen>
+        <impotMoyen>7022</impotMoyen>
+      </commune>
+      <commune nom="81 004 ALBI">
+        <nbDeRedevables>209</nbDeRedevables>
+        <patrimoineMoyen>2382995</patrimoineMoyen>
+        <impotMoyen>8558</impotMoyen>
+      </commune>
+    </departement>
+    <departement nom="HERAULT">
+      <commune nom="34 145 LUNEL">
+        <nbDeRedevables>63</nbDeRedevables>
+        <patrimoineMoyen>2253801</patrimoineMoyen>
+        <impotMoyen>7317</impotMoyen>
+      </commune>
+      <commune nom="34 108 FRONTIGNAN">
+        <nbDeRedevables>52</nbDeRedevables>
+        <patrimoineMoyen>2290860</patrimoineMoyen>
+        <impotMoyen>8468</impotMoyen>
+      </commune>
+      <commune nom="34 003 AGDE">
+        <nbDeRedevables>179</nbDeRedevables>
+        <patrimoineMoyen>2284252</patrimoineMoyen>
+        <impotMoyen>8572</impotMoyen>
+      </commune>
+      <commune nom="34 172 MONTPELLIER">
+        <nbDeRedevables>1218</nbDeRedevables>
+        <patrimoineMoyen>2516789</patrimoineMoyen>
+        <impotMoyen>8822</impotMoyen>
+      </commune>
+      <commune nom="34 301 SETE">
+        <nbDeRedevables>249</nbDeRedevables>
+        <patrimoineMoyen>2590709</patrimoineMoyen>
+        <impotMoyen>8826</impotMoyen>
+      </commune>
+      <commune nom="34 032 BEZIERS">
+        <nbDeRedevables>289</nbDeRedevables>
+        <patrimoineMoyen>2672889</patrimoineMoyen>
+        <impotMoyen>11112</impotMoyen>
+      </commune>
+    </departement>
+    <departement nom="HAUTES-PYRENEES">
+      <commune nom="65 440 TARBES">
+        <nbDeRedevables>102</nbDeRedevables>
+        <patrimoineMoyen>2332097</patrimoineMoyen>
+        <impotMoyen>7876</impotMoyen>
+      </commune>
+    </departement>
+    <departement nom="AUDE">
+      <commune nom="11 262 NARBONNE">
+        <nbDeRedevables>176</nbDeRedevables>
+        <patrimoineMoyen>2349912</patrimoineMoyen>
+        <impotMoyen>8459</impotMoyen>
+      </commune>
+      <commune nom="11 069 CARCASSONNE">
+        <nbDeRedevables>155</nbDeRedevables>
+        <patrimoineMoyen>2382226</patrimoineMoyen>
+        <impotMoyen>9982</impotMoyen>
+      </commune>
+    </departement>
+    <departement nom="GARD">
+      <commune nom="30 007 ALES">
+        <nbDeRedevables>124</nbDeRedevables>
+        <patrimoineMoyen>2321344</patrimoineMoyen>
+        <impotMoyen>8616</impotMoyen>
+      </commune>
+      <commune nom="30 189 NIMES">
+        <nbDeRedevables>701</nbDeRedevables>
+        <patrimoineMoyen>2424816</patrimoineMoyen>
+        <impotMoyen>9194</impotMoyen>
+      </commune>
+    </departement>
+    <departement nom="LOT">
+      <commune nom="46 042 CAHORS">
+        <nbDeRedevables>82</nbDeRedevables>
+        <patrimoineMoyen>2377561</patrimoineMoyen>
+        <impotMoyen>8909</impotMoyen>
+      </commune>
+    </departement>
+    <departement nom="PYRENEES-ORIENTALES">
+      <commune nom="66 136 PERPIGNAN">
+        <nbDeRedevables>502</nbDeRedevables>
+        <patrimoineMoyen>2536052</patrimoineMoyen>
+        <impotMoyen>9287</impotMoyen>
+      </commune>
+    </departement>
+    <departement nom="AVEYRON">
+      <commune nom="12 202 RODEZ">
+        <nbDeRedevables>147</nbDeRedevables>
+        <patrimoineMoyen>2465113</patrimoineMoyen>
+        <impotMoyen>10379</impotMoyen>
+      </commune>
+      <commune nom="12 145 MILLAU">
+        <nbDeRedevables>72</nbDeRedevables>
+        <patrimoineMoyen>2916430</patrimoineMoyen>
+        <impotMoyen>15312</impotMoyen>
+      </commune>
+    </departement>
+    <departement nom="TARN-ET-GARONNE">
+      <commune nom="82 121 MONTAUBAN">
+        <nbDeRedevables>257</nbDeRedevables>
+        <patrimoineMoyen>2584540</patrimoineMoyen>
+        <impotMoyen>10394</impotMoyen>
+      </commune>
+    </departement>
+  </region>
+  <region nom="AUVERGNE-RHONE-ALPES">
+    <departement nom="RHONE">
+      <commune nom="69 275 DECINES-CHARPIEU">
+        <nbDeRedevables>55</nbDeRedevables>
+        <patrimoineMoyen>2104158</patrimoineMoyen>
+        <impotMoyen>6289</impotMoyen>
+      </commune>
+      <commune nom="69 266 VILLEURBANNE">
+        <nbDeRedevables>274</nbDeRedevables>
+        <patrimoineMoyen>2211022</patrimoineMoyen>
+        <impotMoyen>6861</impotMoyen>
+      </commune>
+      <commune nom="69 149 OULLINS">
+        <nbDeRedevables>71</nbDeRedevables>
+        <patrimoineMoyen>2197514</patrimoineMoyen>
+        <impotMoyen>8058</impotMoyen>
+      </commune>
+      <commune nom="69 204 SAINT-GENIS-LAVAL">
+        <nbDeRedevables>182</nbDeRedevables>
+        <patrimoineMoyen>2416434</patrimoineMoyen>
+        <impotMoyen>8116</impotMoyen>
+      </commune>
+      <commune nom="69 264 VILLEFRANCHE-SUR-SAONE">
+        <nbDeRedevables>107</nbDeRedevables>
+        <patrimoineMoyen>2320604</patrimoineMoyen>
+        <impotMoyen>8760</impotMoyen>
+      </commune>
+      <commune nom="69 029 BRON">
+        <nbDeRedevables>172</nbDeRedevables>
+        <patrimoineMoyen>2431917</patrimoineMoyen>
+        <impotMoyen>8984</impotMoyen>
+      </commune>
+      <commune nom="69 244 TASSIN-LA-DEMI-LUNE">
+        <nbDeRedevables>269</nbDeRedevables>
+        <patrimoineMoyen>2654925</patrimoineMoyen>
+        <impotMoyen>9474</impotMoyen>
+      </commune>
+      <commune nom="69 034 CALUIRE ET CUIRE">
+        <nbDeRedevables>563</nbDeRedevables>
+        <patrimoineMoyen>2796882</patrimoineMoyen>
+        <impotMoyen>9611</impotMoyen>
+      </commune>
+      <commune nom="69 286 RILLIEUX LA PAPE">
+        <nbDeRedevables>105</nbDeRedevables>
+        <patrimoineMoyen>2458141</patrimoineMoyen>
+        <impotMoyen>10357</impotMoyen>
+      </commune>
+      <commune nom="69 123 LYON">
+        <nbDeRedevables>4718</nbDeRedevables>
+        <patrimoineMoyen>2740466</patrimoineMoyen>
+        <impotMoyen>10415</impotMoyen>
+      </commune>
+      <commune nom="69 290 SAINT-PRIEST">
+        <nbDeRedevables>81</nbDeRedevables>
+        <patrimoineMoyen>2844559</patrimoineMoyen>
+        <impotMoyen>10884</impotMoyen>
+      </commune>
+      <commune nom="69 202 STE FOY LES LYON">
+        <nbDeRedevables>411</nbDeRedevables>
+        <patrimoineMoyen>2882466</patrimoineMoyen>
+        <impotMoyen>11611</impotMoyen>
+      </commune>
+      <commune nom="69 282 MEYZIEU">
+        <nbDeRedevables>95</nbDeRedevables>
+        <patrimoineMoyen>2835529</patrimoineMoyen>
+        <impotMoyen>11687</impotMoyen>
+      </commune>
+    </departement>
+    <departement nom="DROME">
+      <commune nom="26 281 ROMANS">
+        <nbDeRedevables>100</nbDeRedevables>
+        <patrimoineMoyen>2330674</patrimoineMoyen>
+        <impotMoyen>7176</impotMoyen>
+      </commune>
+      <commune nom="26 198 MONTELIMAR">
+        <nbDeRedevables>170</nbDeRedevables>
+        <patrimoineMoyen>2694564</patrimoineMoyen>
+        <impotMoyen>10374</impotMoyen>
+      </commune>
+      <commune nom="26 362 VALENCE">
+        <nbDeRedevables>260</nbDeRedevables>
+        <patrimoineMoyen>2749326</patrimoineMoyen>
+        <impotMoyen>10698</impotMoyen>
+      </commune>
+    </departement>
+    <departement nom="ALLIER">
+      <commune nom="03 310 VICHY">
+        <nbDeRedevables>177</nbDeRedevables>
+        <patrimoineMoyen>2369664</patrimoineMoyen>
+        <impotMoyen>7316</impotMoyen>
+      </commune>
+      <commune nom="03 185 MONTLUCON">
+        <nbDeRedevables>111</nbDeRedevables>
+        <patrimoineMoyen>2591793</patrimoineMoyen>
+        <impotMoyen>9721</impotMoyen>
+      </commune>
+      <commune nom="03 190 MOULINS">
+        <nbDeRedevables>59</nbDeRedevables>
+        <patrimoineMoyen>2524509</patrimoineMoyen>
+        <impotMoyen>10026</impotMoyen>
+      </commune>
+    </departement>
+    <departement nom="SAVOIE">
+      <commune nom="73 008 AIX LES BAINS">
+        <nbDeRedevables>247</nbDeRedevables>
+        <patrimoineMoyen>2207023</patrimoineMoyen>
+        <impotMoyen>7418</impotMoyen>
+      </commune>
+      <commune nom="73 065 CHAMBERY">
+        <nbDeRedevables>346</nbDeRedevables>
+        <patrimoineMoyen>2659881</patrimoineMoyen>
+        <impotMoyen>10021</impotMoyen>
+      </commune>
+    </departement>
+    <departement nom="HAUTE-SAVOIE">
+      <commune nom="74 012 ANNEMASSE">
+        <nbDeRedevables>113</nbDeRedevables>
+        <patrimoineMoyen>2184705</patrimoineMoyen>
+        <impotMoyen>7509</impotMoyen>
+      </commune>
+      <commune nom="74 010 ANNECY">
+        <nbDeRedevables>1196</nbDeRedevables>
+        <patrimoineMoyen>2424021</patrimoineMoyen>
+        <impotMoyen>8938</impotMoyen>
+      </commune>
+      <commune nom="74 281 THONON-LES-BAINS">
+        <nbDeRedevables>245</nbDeRedevables>
+        <patrimoineMoyen>2528043</patrimoineMoyen>
+        <impotMoyen>11240</impotMoyen>
+      </commune>
+    </departement>
+    <departement nom="ISERE">
+      <commune nom="38 544 VIENNE">
+        <nbDeRedevables>146</nbDeRedevables>
+        <patrimoineMoyen>2378705</patrimoineMoyen>
+        <impotMoyen>8218</impotMoyen>
+      </commune>
+      <commune nom="38 185 GRENOBLE">
+        <nbDeRedevables>709</nbDeRedevables>
+        <patrimoineMoyen>2523982</patrimoineMoyen>
+        <impotMoyen>9452</impotMoyen>
+      </commune>
+      <commune nom="38 053 BOURGOIN JALLIEU">
+        <nbDeRedevables>86</nbDeRedevables>
+        <patrimoineMoyen>2538748</patrimoineMoyen>
+        <impotMoyen>9754</impotMoyen>
+      </commune>
+      <commune nom="38 563 VOIRON">
+        <nbDeRedevables>108</nbDeRedevables>
+        <patrimoineMoyen>2789975</patrimoineMoyen>
+        <impotMoyen>12176</impotMoyen>
+      </commune>
+    </departement>
+    <departement nom="AIN">
+      <commune nom="01 053 BOURG-EN-BRESSE">
+        <nbDeRedevables>157</nbDeRedevables>
+        <patrimoineMoyen>2261155</patrimoineMoyen>
+        <impotMoyen>8297</impotMoyen>
+      </commune>
+      <commune nom="01 283 OYONNAX">
+        <nbDeRedevables>88</nbDeRedevables>
+        <patrimoineMoyen>3236170</patrimoineMoyen>
+        <impotMoyen>12078</impotMoyen>
+      </commune>
+    </departement>
+    <departement nom="CANTAL">
+      <commune nom="15 014 AURILLAC">
+        <nbDeRedevables>118</nbDeRedevables>
+        <patrimoineMoyen>2606677</patrimoineMoyen>
+        <impotMoyen>9251</impotMoyen>
+      </commune>
+    </departement>
+    <departement nom="LOIRE">
+      <commune nom="42 187 ROANNE">
+        <nbDeRedevables>108</nbDeRedevables>
+        <patrimoineMoyen>2408761</patrimoineMoyen>
+        <impotMoyen>9623</impotMoyen>
+      </commune>
+      <commune nom="42 207 SAINT CHAMOND">
+        <nbDeRedevables>72</nbDeRedevables>
+        <patrimoineMoyen>2679118</patrimoineMoyen>
+        <impotMoyen>9681</impotMoyen>
+      </commune>
+      <commune nom="42 218 SAINT ETIENNE">
+        <nbDeRedevables>471</nbDeRedevables>
+        <patrimoineMoyen>2544960</patrimoineMoyen>
+        <impotMoyen>9989</impotMoyen>
+      </commune>
+    </departement>
+    <departement nom="PUY-DE-DOME">
+      <commune nom="63 113 CLERMONT-FERRAND">
+        <nbDeRedevables>484</nbDeRedevables>
+        <patrimoineMoyen>2503563</patrimoineMoyen>
+        <impotMoyen>10260</impotMoyen>
+      </commune>
+    </departement>
+  </region>
+  <region nom="NOUVELLE-AQUITAINE">
+    <departement nom="GIRONDE">
+      <commune nom="33 039 BEGLES">
+        <nbDeRedevables>50</nbDeRedevables>
+        <patrimoineMoyen>1936554</patrimoineMoyen>
+        <impotMoyen>6488</impotMoyen>
+      </commune>
+      <commune nom="33 162 EYSINES">
+        <nbDeRedevables>100</nbDeRedevables>
+        <patrimoineMoyen>2219534</patrimoineMoyen>
+        <impotMoyen>7336</impotMoyen>
+      </commune>
+      <commune nom="33 550 VILLENAVE-D'ORNON">
+        <nbDeRedevables>93</nbDeRedevables>
+        <patrimoineMoyen>2196370</patrimoineMoyen>
+        <impotMoyen>7914</impotMoyen>
+      </commune>
+      <commune nom="33 449 SAINT-MEDARD-EN-JALLES">
+        <nbDeRedevables>110</nbDeRedevables>
+        <patrimoineMoyen>2325787</patrimoineMoyen>
+        <impotMoyen>8014</impotMoyen>
+      </commune>
+      <commune nom="33 318 PESSAC">
+        <nbDeRedevables>266</nbDeRedevables>
+        <patrimoineMoyen>2335014</patrimoineMoyen>
+        <impotMoyen>8610</impotMoyen>
+      </commune>
+      <commune nom="33 192 GRADIGNAN">
+        <nbDeRedevables>166</nbDeRedevables>
+        <patrimoineMoyen>2400908</patrimoineMoyen>
+        <impotMoyen>8625</impotMoyen>
+      </commune>
+      <commune nom="33 199 GUJAN-MESTRAS">
+        <nbDeRedevables>102</nbDeRedevables>
+        <patrimoineMoyen>2312495</patrimoineMoyen>
+        <impotMoyen>8765</impotMoyen>
+      </commune>
+      <commune nom="33 529 LA TESTE DE BUCH">
+        <nbDeRedevables>332</nbDeRedevables>
+        <patrimoineMoyen>2479844</patrimoineMoyen>
+        <impotMoyen>8859</impotMoyen>
+      </commune>
+      <commune nom="33 243 LIBOURNE">
+        <nbDeRedevables>125</nbDeRedevables>
+        <patrimoineMoyen>2600354</patrimoineMoyen>
+        <impotMoyen>8958</impotMoyen>
+      </commune>
+      <commune nom="33 281 MERIGNAC">
+        <nbDeRedevables>293</nbDeRedevables>
+        <patrimoineMoyen>2387351</patrimoineMoyen>
+        <impotMoyen>9093</impotMoyen>
+      </commune>
+      <commune nom="33 522 TALENCE">
+        <nbDeRedevables>196</nbDeRedevables>
+        <patrimoineMoyen>2485543</patrimoineMoyen>
+        <impotMoyen>10985</impotMoyen>
+      </commune>
+      <commune nom="33 063 BORDEAUX">
+        <nbDeRedevables>2669</nbDeRedevables>
+        <patrimoineMoyen>2763813</patrimoineMoyen>
+        <impotMoyen>11027</impotMoyen>
+      </commune>
+      <commune nom="33 069 LE BOUSCAT">
+        <nbDeRedevables>363</nbDeRedevables>
+        <patrimoineMoyen>3334865</patrimoineMoyen>
+        <impotMoyen>12133</impotMoyen>
+      </commune>
+    </departement>
+    <departement nom="DORDOGNE">
+      <commune nom="24 037 BERGERAC">
+        <nbDeRedevables>120</nbDeRedevables>
+        <patrimoineMoyen>2091398</patrimoineMoyen>
+        <impotMoyen>7247</impotMoyen>
+      </commune>
+      <commune nom="24 322 PERIGUEUX">
+        <nbDeRedevables>110</nbDeRedevables>
+        <patrimoineMoyen>2457359</patrimoineMoyen>
+        <impotMoyen>9708</impotMoyen>
+      </commune>
+    </departement>
+    <departement nom="CHARENTE-MARITIME">
+      <commune nom="17 299 ROCHEFORT">
+        <nbDeRedevables>52</nbDeRedevables>
+        <patrimoineMoyen>2328288</patrimoineMoyen>
+        <impotMoyen>8243</impotMoyen>
+      </commune>
+      <commune nom="17 300 LA ROCHELLE">
+        <nbDeRedevables>619</nbDeRedevables>
+        <patrimoineMoyen>2585756</patrimoineMoyen>
+        <impotMoyen>10248</impotMoyen>
+      </commune>
+      <commune nom="17 415 SAINTES">
+        <nbDeRedevables>112</nbDeRedevables>
+        <patrimoineMoyen>2513451</patrimoineMoyen>
+        <impotMoyen>10671</impotMoyen>
+      </commune>
+    </departement>
+    <departement nom="LOT-ET-GARONNE">
+      <commune nom="47 323 VILLENEUVE SUR LOT">
+        <nbDeRedevables>62</nbDeRedevables>
+        <patrimoineMoyen>2318727</patrimoineMoyen>
+        <impotMoyen>8744</impotMoyen>
+      </commune>
+      <commune nom="47 001 AGEN">
+        <nbDeRedevables>119</nbDeRedevables>
+        <patrimoineMoyen>2647385</patrimoineMoyen>
+        <impotMoyen>10766</impotMoyen>
+      </commune>
+    </departement>
+    <departement nom="LANDES">
+      <commune nom="40 192 MONT-DE-MARSAN">
+        <nbDeRedevables>91</nbDeRedevables>
+        <patrimoineMoyen>2325564</patrimoineMoyen>
+        <impotMoyen>8761</impotMoyen>
+      </commune>
+      <commune nom="40 088 DAX">
+        <nbDeRedevables>105</nbDeRedevables>
+        <patrimoineMoyen>2639766</patrimoineMoyen>
+        <impotMoyen>9699</impotMoyen>
+      </commune>
+    </departement>
+    <departement nom="PYRENEES-ATLANTIQUES">
+      <commune nom="64 445 PAU">
+        <nbDeRedevables>451</nbDeRedevables>
+        <patrimoineMoyen>2395498</patrimoineMoyen>
+        <impotMoyen>9181</impotMoyen>
+      </commune>
+      <commune nom="64 024 ANGLET">
+        <nbDeRedevables>467</nbDeRedevables>
+        <patrimoineMoyen>2491208</patrimoineMoyen>
+        <impotMoyen>9360</impotMoyen>
+      </commune>
+      <commune nom="64 122 BIARRITZ">
+        <nbDeRedevables>612</nbDeRedevables>
+        <patrimoineMoyen>2529373</patrimoineMoyen>
+        <impotMoyen>9808</impotMoyen>
+      </commune>
+      <commune nom="64 102 BAYONNE">
+        <nbDeRedevables>269</nbDeRedevables>
+        <patrimoineMoyen>2609393</patrimoineMoyen>
+        <impotMoyen>10926</impotMoyen>
+      </commune>
+    </departement>
+    <departement nom="VIENNE">
+      <commune nom="86 066 CHATELLERAULT">
+        <nbDeRedevables>92</nbDeRedevables>
+        <patrimoineMoyen>2545732</patrimoineMoyen>
+        <impotMoyen>9396</impotMoyen>
+      </commune>
+      <commune nom="86 194 POITIERS">
+        <nbDeRedevables>310</nbDeRedevables>
+        <patrimoineMoyen>2543188</patrimoineMoyen>
+        <impotMoyen>9671</impotMoyen>
+      </commune>
+    </departement>
+    <departement nom="CHARENTE">
+      <commune nom="16 015 ANGOULEME">
+        <nbDeRedevables>137</nbDeRedevables>
+        <patrimoineMoyen>2611329</patrimoineMoyen>
+        <impotMoyen>9949</impotMoyen>
+      </commune>
+    </departement>
+    <departement nom="DEUX-SEVRES">
+      <commune nom="79 191 NIORT">
+        <nbDeRedevables>222</nbDeRedevables>
+        <patrimoineMoyen>2811166</patrimoineMoyen>
+        <impotMoyen>10774</impotMoyen>
+      </commune>
+    </departement>
+    <departement nom="CORREZE">
+      <commune nom="19 031 BRIVE">
+        <nbDeRedevables>228</nbDeRedevables>
+        <patrimoineMoyen>2692768</patrimoineMoyen>
+        <impotMoyen>11931</impotMoyen>
+      </commune>
+    </departement>
+    <departement nom="HAUTE-VIENNE">
+      <commune nom="87 085 LIMOGES">
+        <nbDeRedevables>500</nbDeRedevables>
+        <patrimoineMoyen>3118850</patrimoineMoyen>
+        <impotMoyen>12400</impotMoyen>
+      </commune>
+    </departement>
+  </region>
+  <region nom="PAYS DE LA LOIRE">
+    <departement nom="LOIRE-ATLANTIQUE">
+      <commune nom="44 143 REZE">
+        <nbDeRedevables>78</nbDeRedevables>
+        <patrimoineMoyen>2135667</patrimoineMoyen>
+        <impotMoyen>6488</impotMoyen>
+      </commune>
+      <commune nom="44 215 VERTOU">
+        <nbDeRedevables>187</nbDeRedevables>
+        <patrimoineMoyen>2602291</patrimoineMoyen>
+        <impotMoyen>7052</impotMoyen>
+      </commune>
+      <commune nom="44 162 ST HERBLAIN">
+        <nbDeRedevables>83</nbDeRedevables>
+        <patrimoineMoyen>2621292</patrimoineMoyen>
+        <impotMoyen>8211</impotMoyen>
+      </commune>
+      <commune nom="44 114 ORVAULT">
+        <nbDeRedevables>179</nbDeRedevables>
+        <patrimoineMoyen>2657146</patrimoineMoyen>
+        <impotMoyen>8361</impotMoyen>
+      </commune>
+      <commune nom="44 190 ST SEBASTIEN SUR LOIRE">
+        <nbDeRedevables>96</nbDeRedevables>
+        <patrimoineMoyen>2396001</patrimoineMoyen>
+        <impotMoyen>9605</impotMoyen>
+      </commune>
+      <commune nom="44 109 NANTES">
+        <nbDeRedevables>2188</nbDeRedevables>
+        <patrimoineMoyen>2769962</patrimoineMoyen>
+        <impotMoyen>10459</impotMoyen>
+      </commune>
+      <commune nom="44 184 ST NAZAIRE">
+        <nbDeRedevables>181</nbDeRedevables>
+        <patrimoineMoyen>2411712</patrimoineMoyen>
+        <impotMoyen>11006</impotMoyen>
+      </commune>
+    </departement>
+    <departement nom="MAINE-ET-LOIRE">
+      <commune nom="49 023 BEAUPREAU EN MAUGES">
+        <nbDeRedevables>57</nbDeRedevables>
+        <patrimoineMoyen>2273971</patrimoineMoyen>
+        <impotMoyen>7520</impotMoyen>
+      </commune>
+      <commune nom="49 328 SAUMUR">
+        <nbDeRedevables>120</nbDeRedevables>
+        <patrimoineMoyen>2488720</patrimoineMoyen>
+        <impotMoyen>7582</impotMoyen>
+      </commune>
+      <commune nom="49 007 ANGERS">
+        <nbDeRedevables>671</nbDeRedevables>
+        <patrimoineMoyen>2474303</patrimoineMoyen>
+        <impotMoyen>8942</impotMoyen>
+      </commune>
+      <commune nom="49 301 SEVREMOINE">
+        <nbDeRedevables>58</nbDeRedevables>
+        <patrimoineMoyen>2533187</patrimoineMoyen>
+        <impotMoyen>8965</impotMoyen>
+      </commune>
+      <commune nom="49 099 CHOLET">
+        <nbDeRedevables>196</nbDeRedevables>
+        <patrimoineMoyen>2490956</patrimoineMoyen>
+        <impotMoyen>9513</impotMoyen>
+      </commune>
+    </departement>
+    <departement nom="VENDEE">
+      <commune nom="85 047 CHALLANS">
+        <nbDeRedevables>138</nbDeRedevables>
+        <patrimoineMoyen>2558756</patrimoineMoyen>
+        <impotMoyen>9409</impotMoyen>
+      </commune>
+      <commune nom="85 191 LA ROCHE SUR YON">
+        <nbDeRedevables>174</nbDeRedevables>
+        <patrimoineMoyen>2668694</patrimoineMoyen>
+        <impotMoyen>10713</impotMoyen>
+      </commune>
+    </departement>
+    <departement nom="SARTHE">
+      <commune nom="72 181 LE MANS">
+        <nbDeRedevables>550</nbDeRedevables>
+        <patrimoineMoyen>2677459</patrimoineMoyen>
+        <impotMoyen>10714</impotMoyen>
+      </commune>
+    </departement>
+    <departement nom="MAYENNE">
+      <commune nom="53 130 LAVAL">
+        <nbDeRedevables>213</nbDeRedevables>
+        <patrimoineMoyen>3033284</patrimoineMoyen>
+        <impotMoyen>12238</impotMoyen>
+      </commune>
+    </departement>
+  </region>
+  <region nom="PROVENCE-ALPES-COTE D'AZUR">
+    <departement nom="VAR">
+      <commune nom="83 126 LA SEYNE SUR MER">
+        <nbDeRedevables>171</nbDeRedevables>
+        <patrimoineMoyen>2131870</patrimoineMoyen>
+        <impotMoyen>6719</impotMoyen>
+      </commune>
+      <commune nom="83 129 SIX-FOURS-LES-PLAGES">
+        <nbDeRedevables>259</nbDeRedevables>
+        <patrimoineMoyen>2139974</patrimoineMoyen>
+        <impotMoyen>7200</impotMoyen>
+      </commune>
+      <commune nom="83 144 LA VALETTE">
+        <nbDeRedevables>106</nbDeRedevables>
+        <patrimoineMoyen>2110101</patrimoineMoyen>
+        <impotMoyen>7625</impotMoyen>
+      </commune>
+      <commune nom="83 061 FREJUS">
+        <nbDeRedevables>400</nbDeRedevables>
+        <patrimoineMoyen>2349882</patrimoineMoyen>
+        <impotMoyen>8567</impotMoyen>
+      </commune>
+      <commune nom="83 050 DRAGUIGNAN">
+        <nbDeRedevables>207</nbDeRedevables>
+        <patrimoineMoyen>2277359</patrimoineMoyen>
+        <impotMoyen>8632</impotMoyen>
+      </commune>
+      <commune nom="83 062 LA GARDE">
+        <nbDeRedevables>102</nbDeRedevables>
+        <patrimoineMoyen>2341742</patrimoineMoyen>
+        <impotMoyen>8925</impotMoyen>
+      </commune>
+      <commune nom="83 069 HYERES">
+        <nbDeRedevables>554</nbDeRedevables>
+        <patrimoineMoyen>2372786</patrimoineMoyen>
+        <impotMoyen>8956</impotMoyen>
+      </commune>
+      <commune nom="83 137 TOULON">
+        <nbDeRedevables>692</nbDeRedevables>
+        <patrimoineMoyen>2413241</patrimoineMoyen>
+        <impotMoyen>8991</impotMoyen>
+      </commune>
+      <commune nom="83 118 SAINT-RAPHAEL">
+        <nbDeRedevables>823</nbDeRedevables>
+        <patrimoineMoyen>2534470</patrimoineMoyen>
+        <impotMoyen>9907</impotMoyen>
+      </commune>
+    </departement>
+    <departement nom="BOUCHES-DU-RHONE">
+      <commune nom="13 071 LES PENNES MIRABEAU">
+        <nbDeRedevables>71</nbDeRedevables>
+        <patrimoineMoyen>2334144</patrimoineMoyen>
+        <impotMoyen>6791</impotMoyen>
+      </commune>
+      <commune nom="13 056 MARTIGUES">
+        <nbDeRedevables>103</nbDeRedevables>
+        <patrimoineMoyen>2184086</patrimoineMoyen>
+        <impotMoyen>6985</impotMoyen>
+      </commune>
+      <commune nom="13 103 SALON DE PROVENCE">
+        <nbDeRedevables>167</nbDeRedevables>
+        <patrimoineMoyen>2234631</patrimoineMoyen>
+        <impotMoyen>8743</impotMoyen>
+      </commune>
+      <commune nom="13 047 ISTRES">
+        <nbDeRedevables>70</nbDeRedevables>
+        <patrimoineMoyen>2646607</patrimoineMoyen>
+        <impotMoyen>9034</impotMoyen>
+      </commune>
+      <commune nom="13 028 LA CIOTAT">
+        <nbDeRedevables>279</nbDeRedevables>
+        <patrimoineMoyen>2441527</patrimoineMoyen>
+        <impotMoyen>9311</impotMoyen>
+      </commune>
+      <commune nom="13 054 MARIGNANE">
+        <nbDeRedevables>71</nbDeRedevables>
+        <patrimoineMoyen>2333634</patrimoineMoyen>
+        <impotMoyen>9325</impotMoyen>
+      </commune>
+      <commune nom="13 004 ARLES">
+        <nbDeRedevables>198</nbDeRedevables>
+        <patrimoineMoyen>2448116</patrimoineMoyen>
+        <impotMoyen>9451</impotMoyen>
+      </commune>
+      <commune nom="13 005 AUBAGNE">
+        <nbDeRedevables>236</nbDeRedevables>
+        <patrimoineMoyen>2444431</patrimoineMoyen>
+        <impotMoyen>9474</impotMoyen>
+      </commune>
+      <commune nom="13 002 ALLAUCH">
+        <nbDeRedevables>129</nbDeRedevables>
+        <patrimoineMoyen>2376183</patrimoineMoyen>
+        <impotMoyen>10264</impotMoyen>
+      </commune>
+      <commune nom="13 001 AIX EN PROVENCE">
+        <nbDeRedevables>1959</nbDeRedevables>
+        <patrimoineMoyen>2807145</patrimoineMoyen>
+        <impotMoyen>10666</impotMoyen>
+      </commune>
+      <commune nom="13 055 MARSEILLE">
+        <nbDeRedevables>3972</nbDeRedevables>
+        <patrimoineMoyen>2814098</patrimoineMoyen>
+        <impotMoyen>11100</impotMoyen>
+      </commune>
+    </departement>
+    <departement nom="HAUTES-ALPES">
+      <commune nom="05 061 GAP">
+        <nbDeRedevables>222</nbDeRedevables>
+        <patrimoineMoyen>2365217</patrimoineMoyen>
+        <impotMoyen>7881</impotMoyen>
+      </commune>
+    </departement>
+    <departement nom="ALPES-MARITIMES">
+      <commune nom="06 083 MENTON">
+        <nbDeRedevables>225</nbDeRedevables>
+        <patrimoineMoyen>2269107</patrimoineMoyen>
+        <impotMoyen>8040</impotMoyen>
+      </commune>
+      <commune nom="06 027 CAGNES SUR MER">
+        <nbDeRedevables>407</nbDeRedevables>
+        <patrimoineMoyen>2309780</patrimoineMoyen>
+        <impotMoyen>8697</impotMoyen>
+      </commune>
+      <commune nom="06 079 MANDELIEU LA NAPOULE">
+        <nbDeRedevables>354</nbDeRedevables>
+        <patrimoineMoyen>2405839</patrimoineMoyen>
+        <impotMoyen>9718</impotMoyen>
+      </commune>
+      <commune nom="06 123 SAINT LAURENT DU VAR">
+        <nbDeRedevables>212</nbDeRedevables>
+        <patrimoineMoyen>2365713</patrimoineMoyen>
+        <impotMoyen>9871</impotMoyen>
+      </commune>
+      <commune nom="06 004 ANTIBES">
+        <nbDeRedevables>1019</nbDeRedevables>
+        <patrimoineMoyen>2545847</patrimoineMoyen>
+        <impotMoyen>9943</impotMoyen>
+      </commune>
+      <commune nom="06 069 GRASSE">
+        <nbDeRedevables>323</nbDeRedevables>
+        <patrimoineMoyen>2467098</patrimoineMoyen>
+        <impotMoyen>10536</impotMoyen>
+      </commune>
+      <commune nom="06 088 NICE">
+        <nbDeRedevables>3118</nbDeRedevables>
+        <patrimoineMoyen>2610132</patrimoineMoyen>
+        <impotMoyen>10877</impotMoyen>
+      </commune>
+      <commune nom="06 155 VALLAURIS">
+        <nbDeRedevables>337</nbDeRedevables>
+        <patrimoineMoyen>2571626</patrimoineMoyen>
+        <impotMoyen>10910</impotMoyen>
+      </commune>
+      <commune nom="06 030 LE CANNET">
+        <nbDeRedevables>382</nbDeRedevables>
+        <patrimoineMoyen>2550895</patrimoineMoyen>
+        <impotMoyen>11391</impotMoyen>
+      </commune>
+      <commune nom="06 029 CANNES">
+        <nbDeRedevables>1511</nbDeRedevables>
+        <patrimoineMoyen>3227873</patrimoineMoyen>
+        <impotMoyen>14476</impotMoyen>
+      </commune>
+      <commune nom="06 900 MONACO">
+        <nbDeRedevables>590</nbDeRedevables>
+        <patrimoineMoyen>3847898</patrimoineMoyen>
+        <impotMoyen>25669</impotMoyen>
+      </commune>
+    </departement>
+    <departement nom="VAUCLUSE">
+      <commune nom="84 035 CAVAILLON">
+        <nbDeRedevables>94</nbDeRedevables>
+        <patrimoineMoyen>2329990</patrimoineMoyen>
+        <impotMoyen>8960</impotMoyen>
+      </commune>
+      <commune nom="84 087 ORANGE">
+        <nbDeRedevables>100</nbDeRedevables>
+        <patrimoineMoyen>2232871</patrimoineMoyen>
+        <impotMoyen>8973</impotMoyen>
+      </commune>
+      <commune nom="84 007 AVIGNON">
+        <nbDeRedevables>341</nbDeRedevables>
+        <patrimoineMoyen>2607636</patrimoineMoyen>
+        <impotMoyen>10291</impotMoyen>
+      </commune>
+      <commune nom="84 031 CARPENTRAS">
+        <nbDeRedevables>136</nbDeRedevables>
+        <patrimoineMoyen>2759678</patrimoineMoyen>
+        <impotMoyen>10449</impotMoyen>
+      </commune>
+    </departement>
+    <departement nom="ALPES-DE-HAUTE-PROVENCE">
+      <commune nom="04 112 MANOSQUE">
+        <nbDeRedevables>127</nbDeRedevables>
+        <patrimoineMoyen>2587327</patrimoineMoyen>
+        <impotMoyen>12326</impotMoyen>
+      </commune>
+    </departement>
+  </region>
+  <region nom="BRETAGNE">
+    <departement nom="FINISTERE">
+      <commune nom="29 232 QUIMPER">
+        <nbDeRedevables>223</nbDeRedevables>
+        <patrimoineMoyen>2320167</patrimoineMoyen>
+        <impotMoyen>6776</impotMoyen>
+      </commune>
+      <commune nom="29 019 BREST">
+        <nbDeRedevables>276</nbDeRedevables>
+        <patrimoineMoyen>2706305</patrimoineMoyen>
+        <impotMoyen>8949</impotMoyen>
+      </commune>
+    </departement>
+    <departement nom="ILLE-ET-VILAINE">
+      <commune nom="35 115 FOUGERES">
+        <nbDeRedevables>76</nbDeRedevables>
+        <patrimoineMoyen>2312903</patrimoineMoyen>
+        <impotMoyen>8259</impotMoyen>
+      </commune>
+      <commune nom="35 288 SAINT MALO">
+        <nbDeRedevables>483</nbDeRedevables>
+        <patrimoineMoyen>2663816</patrimoineMoyen>
+        <impotMoyen>9443</impotMoyen>
+      </commune>
+      <commune nom="35 238 RENNES">
+        <nbDeRedevables>1277</nbDeRedevables>
+        <patrimoineMoyen>2757362</patrimoineMoyen>
+        <impotMoyen>11073</impotMoyen>
+      </commune>
+    </departement>
+    <departement nom="MORBIHAN">
+      <commune nom="56 121 LORIENT">
+        <nbDeRedevables>151</nbDeRedevables>
+        <patrimoineMoyen>2488651</patrimoineMoyen>
+        <impotMoyen>8418</impotMoyen>
+      </commune>
+      <commune nom="56 260 VANNES">
+        <nbDeRedevables>462</nbDeRedevables>
+        <patrimoineMoyen>2491242</patrimoineMoyen>
+        <impotMoyen>8814</impotMoyen>
+      </commune>
+    </departement>
+    <departement nom="COTES-D'ARMOR">
+      <commune nom="22 113 LANNION">
+        <nbDeRedevables>80</nbDeRedevables>
+        <patrimoineMoyen>2258484</patrimoineMoyen>
+        <impotMoyen>8777</impotMoyen>
+      </commune>
+      <commune nom="22 278 SAINT-BRIEUC">
+        <nbDeRedevables>172</nbDeRedevables>
+        <patrimoineMoyen>2409479</patrimoineMoyen>
+        <impotMoyen>8785</impotMoyen>
+      </commune>
+    </departement>
+  </region>
+  <region nom="CENTRE-VAL DE LOIRE">
+    <departement nom="LOIRET">
+      <commune nom="45 284 SAINT JEAN DE BRAYE">
+        <nbDeRedevables>68</nbDeRedevables>
+        <patrimoineMoyen>2109774</patrimoineMoyen>
+        <impotMoyen>6982</impotMoyen>
+      </commune>
+      <commune nom="45 234 ORLEANS">
+        <nbDeRedevables>587</nbDeRedevables>
+        <patrimoineMoyen>2439518</patrimoineMoyen>
+        <impotMoyen>9728</impotMoyen>
+      </commune>
+      <commune nom="45 232 OLIVET">
+        <nbDeRedevables>194</nbDeRedevables>
+        <patrimoineMoyen>2438391</patrimoineMoyen>
+        <impotMoyen>10489</impotMoyen>
+      </commune>
+    </departement>
+    <departement nom="CHER">
+      <commune nom="18 033 BOURGES">
+        <nbDeRedevables>249</nbDeRedevables>
+        <patrimoineMoyen>2313939</patrimoineMoyen>
+        <impotMoyen>8445</impotMoyen>
+      </commune>
+    </departement>
+    <departement nom="INDRE-ET-LOIRE">
+      <commune nom="37 122 JOUE LES TOURS">
+        <nbDeRedevables>89</nbDeRedevables>
+        <patrimoineMoyen>2406464</patrimoineMoyen>
+        <impotMoyen>8812</impotMoyen>
+      </commune>
+      <commune nom="37 261 TOURS">
+        <nbDeRedevables>691</nbDeRedevables>
+        <patrimoineMoyen>2452452</patrimoineMoyen>
+        <impotMoyen>9901</impotMoyen>
+      </commune>
+    </departement>
+    <departement nom="LOIR-ET-CHER">
+      <commune nom="41 018 BLOIS">
+        <nbDeRedevables>166</nbDeRedevables>
+        <patrimoineMoyen>2444366</patrimoineMoyen>
+        <impotMoyen>9501</impotMoyen>
+      </commune>
+    </departement>
+    <departement nom="EURE-ET-LOIR">
+      <commune nom="28 085 CHARTRES">
+        <nbDeRedevables>286</nbDeRedevables>
+        <patrimoineMoyen>2509646</patrimoineMoyen>
+        <impotMoyen>10285</impotMoyen>
+      </commune>
+      <commune nom="28 134 DREUX">
+        <nbDeRedevables>63</nbDeRedevables>
+        <patrimoineMoyen>2650964</patrimoineMoyen>
+        <impotMoyen>13062</impotMoyen>
+      </commune>
+    </departement>
+    <departement nom="INDRE">
+      <commune nom="36 044 CHATEAUROUX">
+        <nbDeRedevables>145</nbDeRedevables>
+        <patrimoineMoyen>2701742</patrimoineMoyen>
+        <impotMoyen>11201</impotMoyen>
+      </commune>
+    </departement>
+  </region>
+  <region nom="BOURGOGNE-FRANCHE-COMTE">
+    <departement nom="JURA">
+      <commune nom="39 198 DOLE">
+        <nbDeRedevables>65</nbDeRedevables>
+        <patrimoineMoyen>2397832</patrimoineMoyen>
+        <impotMoyen>7094</impotMoyen>
+      </commune>
+    </departement>
+    <departement nom="DOUBS">
+      <commune nom="25 388 MONTBELIARD">
+        <nbDeRedevables>58</nbDeRedevables>
+        <patrimoineMoyen>2117787</patrimoineMoyen>
+        <impotMoyen>7944</impotMoyen>
+      </commune>
+      <commune nom="25 056 BESANCON">
+        <nbDeRedevables>399</nbDeRedevables>
+        <patrimoineMoyen>2549941</patrimoineMoyen>
+        <impotMoyen>8757</impotMoyen>
+      </commune>
+    </departement>
+    <departement nom="SAONE-ET-LOIRE">
+      <commune nom="71 076 CHALON SUR SAONE">
+        <nbDeRedevables>145</nbDeRedevables>
+        <patrimoineMoyen>2482798</patrimoineMoyen>
+        <impotMoyen>9369</impotMoyen>
+      </commune>
+      <commune nom="71 270 MACON">
+        <nbDeRedevables>122</nbDeRedevables>
+        <patrimoineMoyen>2699017</patrimoineMoyen>
+        <impotMoyen>12991</impotMoyen>
+      </commune>
+    </departement>
+    <departement nom="COTE-D'OR">
+      <commune nom="21 054 BEAUNE">
+        <nbDeRedevables>159</nbDeRedevables>
+        <patrimoineMoyen>2813839</patrimoineMoyen>
+        <impotMoyen>9954</impotMoyen>
+      </commune>
+      <commune nom="21 231 DIJON">
+        <nbDeRedevables>705</nbDeRedevables>
+        <patrimoineMoyen>2742773</patrimoineMoyen>
+        <impotMoyen>10163</impotMoyen>
+      </commune>
+    </departement>
+    <departement nom="YONNE">
+      <commune nom="89 024 AUXERRE">
+        <nbDeRedevables>138</nbDeRedevables>
+        <patrimoineMoyen>2423777</patrimoineMoyen>
+        <impotMoyen>9957</impotMoyen>
+      </commune>
+      <commune nom="89 387 SENS">
+        <nbDeRedevables>104</nbDeRedevables>
+        <patrimoineMoyen>2736683</patrimoineMoyen>
+        <impotMoyen>10445</impotMoyen>
+      </commune>
+    </departement>
+    <departement nom="NIEVRE">
+      <commune nom="58 194 NEVERS">
+        <nbDeRedevables>93</nbDeRedevables>
+        <patrimoineMoyen>2697409</patrimoineMoyen>
+        <impotMoyen>11477</impotMoyen>
+      </commune>
+    </departement>
+    <departement nom="TERRITOIRE DE BELFORT">
+      <commune nom="90 010 BELFORT">
+        <nbDeRedevables>112</nbDeRedevables>
+        <patrimoineMoyen>2809208</patrimoineMoyen>
+        <impotMoyen>14028</impotMoyen>
+      </commune>
+    </departement>
+  </region>
+  <region nom="GRAND-EST">
+    <departement nom="BAS-RHIN">
+      <commune nom="67 218 ILLKIRCH GRAFFENSTADEN">
+        <nbDeRedevables>107</nbDeRedevables>
+        <patrimoineMoyen>2171732</patrimoineMoyen>
+        <impotMoyen>7297</impotMoyen>
+      </commune>
+      <commune nom="67 447 SCHILTIGHEIM">
+        <nbDeRedevables>71</nbDeRedevables>
+        <patrimoineMoyen>2539596</patrimoineMoyen>
+        <impotMoyen>9870</impotMoyen>
+      </commune>
+      <commune nom="67 180 HAGUENAU">
+        <nbDeRedevables>157</nbDeRedevables>
+        <patrimoineMoyen>2849602</patrimoineMoyen>
+        <impotMoyen>10249</impotMoyen>
+      </commune>
+      <commune nom="67 482 STRASBOURG">
+        <nbDeRedevables>1862</nbDeRedevables>
+        <patrimoineMoyen>3273344</patrimoineMoyen>
+        <impotMoyen>13247</impotMoyen>
+      </commune>
+    </departement>
+    <departement nom="MEURTHE-ET-MOSELLE">
+      <commune nom="54 547 VANDOEUVRE LES NANCY">
+        <nbDeRedevables>68</nbDeRedevables>
+        <patrimoineMoyen>2324338</patrimoineMoyen>
+        <impotMoyen>8064</impotMoyen>
+      </commune>
+      <commune nom="54 395 NANCY">
+        <nbDeRedevables>670</nbDeRedevables>
+        <patrimoineMoyen>2758052</patrimoineMoyen>
+        <impotMoyen>11831</impotMoyen>
+      </commune>
+    </departement>
+    <departement nom="ARDENNES">
+      <commune nom="08 105 CHARLEVILLE MEZIERES">
+        <nbDeRedevables>128</nbDeRedevables>
+        <patrimoineMoyen>2285146</patrimoineMoyen>
+        <impotMoyen>8364</impotMoyen>
+      </commune>
+    </departement>
+    <departement nom="MARNE">
+      <commune nom="51 108 CHALONS EN CHAMPAGNE">
+        <nbDeRedevables>121</nbDeRedevables>
+        <patrimoineMoyen>2350793</patrimoineMoyen>
+        <impotMoyen>8740</impotMoyen>
+      </commune>
+      <commune nom="51 454 REIMS">
+        <nbDeRedevables>823</nbDeRedevables>
+        <patrimoineMoyen>2638416</patrimoineMoyen>
+        <impotMoyen>10273</impotMoyen>
+      </commune>
+      <commune nom="51 230 EPERNAY">
+        <nbDeRedevables>91</nbDeRedevables>
+        <patrimoineMoyen>2825229</patrimoineMoyen>
+        <impotMoyen>11316</impotMoyen>
+      </commune>
+    </departement>
+    <departement nom="MOSELLE">
+      <commune nom="57 631 SARREGUEMINES">
+        <nbDeRedevables>68</nbDeRedevables>
+        <patrimoineMoyen>2699775</patrimoineMoyen>
+        <impotMoyen>9853</impotMoyen>
+      </commune>
+      <commune nom="57 672 THIONVILLE">
+        <nbDeRedevables>227</nbDeRedevables>
+        <patrimoineMoyen>2621327</patrimoineMoyen>
+        <impotMoyen>10470</impotMoyen>
+      </commune>
+      <commune nom="57 480 MONTIGNY LES METZ">
+        <nbDeRedevables>107</nbDeRedevables>
+        <patrimoineMoyen>2489913</patrimoineMoyen>
+        <impotMoyen>11003</impotMoyen>
+      </commune>
+      <commune nom="57 463 METZ">
+        <nbDeRedevables>404</nbDeRedevables>
+        <patrimoineMoyen>2799108</patrimoineMoyen>
+        <impotMoyen>12016</impotMoyen>
+      </commune>
+    </departement>
+    <departement nom="HAUTE-MARNE">
+      <commune nom="52 448 SAINT-DIZIER">
+        <nbDeRedevables>54</nbDeRedevables>
+        <patrimoineMoyen>3574163</patrimoineMoyen>
+        <impotMoyen>10334</impotMoyen>
+      </commune>
+    </departement>
+    <departement nom="HAUT-RHIN">
+      <commune nom="68 297 SAINT-LOUIS">
+        <nbDeRedevables>82</nbDeRedevables>
+        <patrimoineMoyen>2628951</patrimoineMoyen>
+        <impotMoyen>11125</impotMoyen>
+      </commune>
+      <commune nom="68 224 MULHOUSE">
+        <nbDeRedevables>367</nbDeRedevables>
+        <patrimoineMoyen>2877950</patrimoineMoyen>
+        <impotMoyen>12184</impotMoyen>
+      </commune>
+      <commune nom="68 066 COLMAR">
+        <nbDeRedevables>311</nbDeRedevables>
+        <patrimoineMoyen>2775376</patrimoineMoyen>
+        <impotMoyen>12232</impotMoyen>
+      </commune>
+    </departement>
+    <departement nom="VOSGES">
+      <commune nom="88 160 EPINAL">
+        <nbDeRedevables>123</nbDeRedevables>
+        <patrimoineMoyen>2977968</patrimoineMoyen>
+        <impotMoyen>12546</impotMoyen>
+      </commune>
+    </departement>
+    <departement nom="AUBE">
+      <commune nom="10 387 TROYES">
+        <nbDeRedevables>206</nbDeRedevables>
+        <patrimoineMoyen>2909408</patrimoineMoyen>
+        <impotMoyen>13247</impotMoyen>
+      </commune>
+    </departement>
+  </region>
+  <region nom="LA REUNION">
+    <departement nom="LA REUNION">
+      <commune nom="97408 LA POSSESSION">
+        <nbDeRedevables>80</nbDeRedevables>
+        <patrimoineMoyen>2063527</patrimoineMoyen>
+        <impotMoyen>7400</impotMoyen>
+      </commune>
+      <commune nom="97418 SAINTE MARIE">
+        <nbDeRedevables>74</nbDeRedevables>
+        <patrimoineMoyen>2117078</patrimoineMoyen>
+        <impotMoyen>8348</impotMoyen>
+      </commune>
+      <commune nom="97422 TAMPON">
+        <nbDeRedevables>149</nbDeRedevables>
+        <patrimoineMoyen>2261774</patrimoineMoyen>
+        <impotMoyen>9067</impotMoyen>
+      </commune>
+      <commune nom="97415 SAINT PAUL">
+        <nbDeRedevables>318</nbDeRedevables>
+        <patrimoineMoyen>2509763</patrimoineMoyen>
+        <impotMoyen>9170</impotMoyen>
+      </commune>
+      <commune nom="97414 SAINT-LOUIS">
+        <nbDeRedevables>51</nbDeRedevables>
+        <patrimoineMoyen>2464169</patrimoineMoyen>
+        <impotMoyen>9331</impotMoyen>
+      </commune>
+      <commune nom="97409 SAINT ANDRE">
+        <nbDeRedevables>59</nbDeRedevables>
+        <patrimoineMoyen>2679497</patrimoineMoyen>
+        <impotMoyen>10246</impotMoyen>
+      </commune>
+      <commune nom="97416 SAINT PIERRE">
+        <nbDeRedevables>166</nbDeRedevables>
+        <patrimoineMoyen>2678032</patrimoineMoyen>
+        <impotMoyen>10864</impotMoyen>
+      </commune>
+      <commune nom="97411 SAINT DENIS">
+        <nbDeRedevables>517</nbDeRedevables>
+        <patrimoineMoyen>2530939</patrimoineMoyen>
+        <impotMoyen>11143</impotMoyen>
+      </commune>
+    </departement>
+  </region>
+  <region nom="LES-HAUTS-DE-FRANCE">
+    <departement nom="SOMME">
+      <commune nom="80 001 ABBEVILLE">
+        <nbDeRedevables>72</nbDeRedevables>
+        <patrimoineMoyen>2594570</patrimoineMoyen>
+        <impotMoyen>7555</impotMoyen>
+      </commune>
+      <commune nom="80 021 AMIENS">
+        <nbDeRedevables>512</nbDeRedevables>
+        <patrimoineMoyen>2774534</patrimoineMoyen>
+        <impotMoyen>11065</impotMoyen>
+      </commune>
+    </departement>
+    <departement nom="NORD">
+      <commune nom="59 599 TOURCOING">
+        <nbDeRedevables>117</nbDeRedevables>
+        <patrimoineMoyen>2212724</patrimoineMoyen>
+        <impotMoyen>7711</impotMoyen>
+      </commune>
+      <commune nom="59 279 HALLUIN">
+        <nbDeRedevables>53</nbDeRedevables>
+        <patrimoineMoyen>2343109</patrimoineMoyen>
+        <impotMoyen>8025</impotMoyen>
+      </commune>
+      <commune nom="59 183 DUNKERQUE">
+        <nbDeRedevables>263</nbDeRedevables>
+        <patrimoineMoyen>2360639</patrimoineMoyen>
+        <impotMoyen>8222</impotMoyen>
+      </commune>
+      <commune nom="59 122 CAMBRAI">
+        <nbDeRedevables>156</nbDeRedevables>
+        <patrimoineMoyen>2667042</patrimoineMoyen>
+        <impotMoyen>8898</impotMoyen>
+      </commune>
+      <commune nom="59 606 VALENCIENNES">
+        <nbDeRedevables>188</nbDeRedevables>
+        <patrimoineMoyen>2364520</patrimoineMoyen>
+        <impotMoyen>9104</impotMoyen>
+      </commune>
+      <commune nom="59 178 DOUAI">
+        <nbDeRedevables>148</nbDeRedevables>
+        <patrimoineMoyen>2458772</patrimoineMoyen>
+        <impotMoyen>9626</impotMoyen>
+      </commune>
+      <commune nom="59 295 HAZEBROUCK">
+        <nbDeRedevables>100</nbDeRedevables>
+        <patrimoineMoyen>2476886</patrimoineMoyen>
+        <impotMoyen>10649</impotMoyen>
+      </commune>
+      <commune nom="59 350 LILLE">
+        <nbDeRedevables>973</nbDeRedevables>
+        <patrimoineMoyen>2705935</patrimoineMoyen>
+        <impotMoyen>10728</impotMoyen>
+      </commune>
+      <commune nom="59 368 LA MADELEINE">
+        <nbDeRedevables>169</nbDeRedevables>
+        <patrimoineMoyen>2806195</patrimoineMoyen>
+        <impotMoyen>10995</impotMoyen>
+      </commune>
+      <commune nom="59 328 LAMBERSART">
+        <nbDeRedevables>264</nbDeRedevables>
+        <patrimoineMoyen>2723507</patrimoineMoyen>
+        <impotMoyen>11483</impotMoyen>
+      </commune>
+      <commune nom="59 646 WASQUEHAL">
+        <nbDeRedevables>234</nbDeRedevables>
+        <patrimoineMoyen>3181588</patrimoineMoyen>
+        <impotMoyen>13831</impotMoyen>
+      </commune>
+      <commune nom="59 512 ROUBAIX">
+        <nbDeRedevables>137</nbDeRedevables>
+        <patrimoineMoyen>3123752</patrimoineMoyen>
+        <impotMoyen>14017</impotMoyen>
+      </commune>
+      <commune nom="59 378 MARCQ EN BAROEUL">
+        <nbDeRedevables>815</nbDeRedevables>
+        <patrimoineMoyen>3379017</patrimoineMoyen>
+        <impotMoyen>14382</impotMoyen>
+      </commune>
+      <commune nom="59 009 VILLENEUVE D'ASCQ">
+        <nbDeRedevables>379</nbDeRedevables>
+        <patrimoineMoyen>3471024</patrimoineMoyen>
+        <impotMoyen>15651</impotMoyen>
+      </commune>
+      <commune nom="59 163 CROIX">
+        <nbDeRedevables>284</nbDeRedevables>
+        <patrimoineMoyen>4230316</patrimoineMoyen>
+        <impotMoyen>18017</impotMoyen>
+      </commune>
+    </departement>
+    <departement nom="AISNE">
+      <commune nom="02 408 LAON">
+        <nbDeRedevables>64</nbDeRedevables>
+        <patrimoineMoyen>2364416</patrimoineMoyen>
+        <impotMoyen>7868</impotMoyen>
+      </commune>
+      <commune nom="02 722 SOISSONS">
+        <nbDeRedevables>165</nbDeRedevables>
+        <patrimoineMoyen>2525140</patrimoineMoyen>
+        <impotMoyen>11432</impotMoyen>
+      </commune>
+      <commune nom="02 691 SAINT QUENTIN">
+        <nbDeRedevables>156</nbDeRedevables>
+        <patrimoineMoyen>2635912</patrimoineMoyen>
+        <impotMoyen>12004</impotMoyen>
+      </commune>
+    </departement>
+    <departement nom="PAS-DE-CALAIS">
+      <commune nom="62 041 ARRAS">
+        <nbDeRedevables>178</nbDeRedevables>
+        <patrimoineMoyen>2370878</patrimoineMoyen>
+        <impotMoyen>8108</impotMoyen>
+      </commune>
+      <commune nom="62 160 BOULOGNE SUR MER">
+        <nbDeRedevables>73</nbDeRedevables>
+        <patrimoineMoyen>2437449</patrimoineMoyen>
+        <impotMoyen>9229</impotMoyen>
+      </commune>
+      <commune nom="62 193 CALAIS">
+        <nbDeRedevables>92</nbDeRedevables>
+        <patrimoineMoyen>2477918</patrimoineMoyen>
+        <impotMoyen>10303</impotMoyen>
+      </commune>
+      <commune nom="62 498 LENS">
+        <nbDeRedevables>60</nbDeRedevables>
+        <patrimoineMoyen>2617825</patrimoineMoyen>
+        <impotMoyen>10540</impotMoyen>
+      </commune>
+      <commune nom="62 119 BETHUNE">
+        <nbDeRedevables>107</nbDeRedevables>
+        <patrimoineMoyen>2591497</patrimoineMoyen>
+        <impotMoyen>11518</impotMoyen>
+      </commune>
+    </departement>
+    <departement nom="OISE">
+      <commune nom="60 159 COMPIEGNE">
+        <nbDeRedevables>340</nbDeRedevables>
+        <patrimoineMoyen>2769533</patrimoineMoyen>
+        <impotMoyen>10912</impotMoyen>
+      </commune>
+      <commune nom="60 057 BEAUVAIS">
+        <nbDeRedevables>168</nbDeRedevables>
+        <patrimoineMoyen>2818031</patrimoineMoyen>
+        <impotMoyen>11533</impotMoyen>
+      </commune>
+    </departement>
+  </region>
+  <region nom="NORMANDIE">
+    <departement nom="SEINE-MARITIME">
+      <commune nom="76 217 DIEPPE">
+        <nbDeRedevables>102</nbDeRedevables>
+        <patrimoineMoyen>2195137</patrimoineMoyen>
+        <impotMoyen>7666</impotMoyen>
+      </commune>
+      <commune nom="76 540 ROUEN">
+        <nbDeRedevables>518</nbDeRedevables>
+        <patrimoineMoyen>2483610</patrimoineMoyen>
+        <impotMoyen>9602</impotMoyen>
+      </commune>
+      <commune nom="76 351 LE HAVRE">
+        <nbDeRedevables>390</nbDeRedevables>
+        <patrimoineMoyen>2503817</patrimoineMoyen>
+        <impotMoyen>9636</impotMoyen>
+      </commune>
+    </departement>
+    <departement nom="MANCHE">
+      <commune nom="50 502 SAINT LO">
+        <nbDeRedevables>57</nbDeRedevables>
+        <patrimoineMoyen>2421166</patrimoineMoyen>
+        <impotMoyen>7810</impotMoyen>
+      </commune>
+      <commune nom="50 129 CHERBOURG-EN-COTENTIN">
+        <nbDeRedevables>162</nbDeRedevables>
+        <patrimoineMoyen>2450622</patrimoineMoyen>
+        <impotMoyen>8990</impotMoyen>
+      </commune>
+    </departement>
+    <departement nom="EURE">
+      <commune nom="27 681 VERNON">
+        <nbDeRedevables>99</nbDeRedevables>
+        <patrimoineMoyen>2168318</patrimoineMoyen>
+        <impotMoyen>8027</impotMoyen>
+      </commune>
+      <commune nom="27 229 EVREUX">
+        <nbDeRedevables>137</nbDeRedevables>
+        <patrimoineMoyen>2478401</patrimoineMoyen>
+        <impotMoyen>10847</impotMoyen>
+      </commune>
+    </departement>
+    <departement nom="ORNE">
+      <commune nom="61 001 ALENCON">
+        <nbDeRedevables>82</nbDeRedevables>
+        <patrimoineMoyen>2333240</patrimoineMoyen>
+        <impotMoyen>9328</impotMoyen>
+      </commune>
+    </departement>
+    <departement nom="CALVADOS">
+      <commune nom="14 118 CAEN">
+        <nbDeRedevables>581</nbDeRedevables>
+        <patrimoineMoyen>2773858</patrimoineMoyen>
+        <impotMoyen>11339</impotMoyen>
+      </commune>
+    </departement>
+  </region>
+  <region nom="CORSE">
+    <departement nom="HAUTE-CORSE">
+      <commune nom="2B 033 BASTIA">
+        <nbDeRedevables>120</nbDeRedevables>
+        <patrimoineMoyen>2501135</patrimoineMoyen>
+        <impotMoyen>10707</impotMoyen>
+      </commune>
+    </departement>
+    <departement nom="CORSE-DU-SUD">
+      <commune nom="2A 004 AJACCIO">
+        <nbDeRedevables>275</nbDeRedevables>
+        <patrimoineMoyen>2762103</patrimoineMoyen>
+        <impotMoyen>12167</impotMoyen>
+      </commune>
+    </departement>
+  </region>
+  <region nom="GUADELOUPE">
+    <departement nom="GUADELOUPE">
+      <commune nom="97113 LE GOSIER">
+        <nbDeRedevables>101</nbDeRedevables>
+        <patrimoineMoyen>2603757</patrimoineMoyen>
+        <impotMoyen>10851</impotMoyen>
+      </commune>
+    </departement>
+  </region>
+  <region nom="GUYANE">
+    <departement nom="GUYANE">
+      <commune nom="97309 REMIRE-MONTJOLY">
+        <nbDeRedevables>56</nbDeRedevables>
+        <patrimoineMoyen>2736079</patrimoineMoyen>
+        <impotMoyen>13468</impotMoyen>
+      </commune>
+      <commune nom="97302 CAYENNE">
+        <nbDeRedevables>60</nbDeRedevables>
+        <patrimoineMoyen>2722788</patrimoineMoyen>
+        <impotMoyen>14709</impotMoyen>
+      </commune>
+    </departement>
+  </region>
+  <region nom="MARTINIQUE">
+    <departement nom="MARTINIQUE">
+      <commune nom="97229 SCHOELCHER">
+        <nbDeRedevables>66</nbDeRedevables>
+        <patrimoineMoyen>2797612</patrimoineMoyen>
+        <impotMoyen>14089</impotMoyen>
+      </commune>
+      <commune nom="97209 FORT DE FRANCE">
+        <nbDeRedevables>85</nbDeRedevables>
+        <patrimoineMoyen>3254545</patrimoineMoyen>
+        <impotMoyen>14676</impotMoyen>
+      </commune>
+    </departement>
+  </region>
+</isf>
