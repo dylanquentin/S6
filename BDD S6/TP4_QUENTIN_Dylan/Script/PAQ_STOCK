@@ -1,0 +1,47 @@
+CREATE OR REPLACE 
+PACKAGE PAQ_STOCK AS 
+
+PARAMETRE_INDEFINI EXCEPTION ;
+  PRODUIT_INCONNU EXCEPTION ;
+  QUANTITE_NON_POSITIF EXCEPTION;
+  MAGASIN_INCONNU EXCEPTION ;
+  MENU_INCONNU EXCEPTION ;
+  QUANTITE_TROP_GRANDE EXCEPTION;
+
+
+  
+  PRAGMA exception_init(PARAMETRE_INDEFINI,-20102) ;
+  PRAGMA exception_init(PRODUIT_INCONNU,-20103);
+  PRAGMA exception_init(QUANTITE_NON_POSITIF,-20111) ;
+  PRAGMA exception_init(MAGASIN_INCONNU,-20112);
+  PRAGMA exception_init(MENU_INCONNU,-20113);
+  PRAGMA exception_init(QUANTITE_TROP_GRANDE,-20114);
+
+
+  
+  /* on ajoute un stock dans la base 
+   * Déclenche PARAMETRE_INDEFINI si l'un des paramètres vaut NULL
+   * Déclenche QUANTITE_NON_POSITIF, PRODUIT_INCONNU ou MAGASIN_INCONNU
+   * si les contraintes déclarées avec les tables ne sont pas respectées.
+   */
+  procedure ajouter_produitSimple(ref_produit ff_produit.p_ref%type, 
+                                  ref_magasin ff_magasin.m_ref%type, 
+                                  la_quantite ff_stock.quantite%type) ;
+                                  
+  /* On va appliquer la procédure ajouter_produitSimple à tous les produits du menu
+   * Déclenche PARAMETRE_INDEFINI si l'un des paramètres vaut NULL
+   * Déclenche MENU_INCONNU 
+   * si les contraintes déclarées avec les tables ne sont pas respectées.
+  */
+  procedure ajouter_menu(ref_menu ff_menu.m_ref%type);
+  
+   /* on ajoute un stock dans la base 
+   * Déclenche PARAMETRE_INDEFINI si l'un des paramètres vaut NULL
+   * Déclenche QUANTITE_NON_POSITIF, PRODUIT_INCONNU, QUANTITE_TROP_GRANDE ou MAGASIN_INCONNU
+   * si les contraintes déclarées avec les tables ne sont pas respectées.
+   */
+  procedure diminuerQuantite_produitSimple(ref_produit ff_produit.p_ref%type, 
+                                  ref_magasin ff_magasin.m_ref%type, 
+                                  la_quantite ff_stock.quantite%type) ; 
+   
+END PAQ_STOCK;

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT isf (region)>
+<!ELEMENT region (departement)>
+<!ELEMENT departement (commune)>
+<!ELEMENT commune (nbRedevable,patrimoinemoyen,impotmoyen)>
+
+<!ELEMENT region (#PCDATA)>
+<!ELEMENT departement (#PCDATA)>
+<!ELEMENT commune (#PCDATA)>
+<!ELEMENT nbRedevable (#PCDATA)>
+<!ELEMENT patrimoinemoyen (#PCDATA)>
+<!ELEMENT impotmoyen (#PCDATA)>

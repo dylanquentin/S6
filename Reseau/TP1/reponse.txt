@@ -1,0 +1,13 @@
+Exercice 2.
+
+Q1. Pour émettre ou recevoir un paquet en multicast il faut d'abord instancier un MulticastSocket sur le port voulu ensuite il faut joindre l'adresse à la socket.
+Une fois ces étapes faites nous pouvons envoyer un paquet avec la socket grâce à la méthode send et recevoir des paquets grâce à la méthode receive. 
+
+Q2. Il faut gérer des exceptions lors de la création de la socket et lorsqu'on essaye de joindre l'adresse. De plus lors de l'envoi et de la réception il y a une exception qui peut se produire.
+
+
+Exercice 3.
+
+Q1. Grâce à l'utilisation des threads nous pouvons gérer à la fois l'envoi et la réception dans le client. 
+
+Q2. Voir le code. On utilise la méthode getHostName sur une adresse. 

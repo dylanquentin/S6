@@ -1,0 +1,6 @@
+#page SetUp
+# les tables TP_livre et TP_Personne sont déjà peuplées
+# mais aucun livre n'est emprunte ni reserve
+!|dbfit.OracleTest|
+!|Connect|oracle.fil.univ-lille1.fr:1521|quentin|ENC(5VlSVtEcP5yzqSXmyKmnbw==)|filora|
+!|execute|update TP_LIVRE set id_emprunte=null, id_reserve=null|

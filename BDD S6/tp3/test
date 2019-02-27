@@ -1,0 +1,13 @@
+!1 tests du paquetage PAQ_BIBLIO
+!path lib/*.jar
+!contents -R2 -g -p -f -h
+
+#Biblio
+!path lib/*.jar
+#Connection 
+!|dbfit.OracleTest                                                                  |
+|Connect|oracle.fil.univ-lille1.fr:1521|quentin|ENC(5VlSVtEcP5yzqSXmyKmnbw==)|filora|
+
+#test
+!|query|
+

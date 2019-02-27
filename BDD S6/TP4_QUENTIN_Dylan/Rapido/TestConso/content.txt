@@ -1,0 +1,42 @@
+!3 Déclenche PARAMETRE_INDEFINI (-20102) si l'un des paramètres vaut NULL autre que une_estampille
+!|Execute procedure expect exception|PAQ_PRODUITS.ajouterConso|20102|
+|la_ref_produit|la_ref_magasin|une_estampille|
+|null|12|null|
+
+
+!|Execute procedure expect exception|PAQ_PRODUITS.ajouterConso|20102|
+|la_ref_produit|la_ref_magasin|une_estampille|
+|12|null|null|
+
+
+!3 On déclenche PRODUIT_INCONNU (-20103) si la ref produit n'existe pas.
+
+!|Query|select gen_clef.nextval as ref_produit from dual|
+|ref_produit?|
+|>>ref_produit|
+
+
+
+!|Query|select gen_clef.nextval as ref_magasin from dual|
+|ref_magasin?|
+|>>ref_magasin|
+
+!|execute|insert into FF_MAGASIN(m_ref,nom,ville) values (:ref_magasin,'nom','ville')|
+
+!|Execute procedure expect exception|PAQ_PRODUITS.ajouterConso|20103|
+|la_ref_produit|la_ref_magasin|une_estampille|
+|<<ref_produit|<<ref_magasin|null|
+
+
+!3 on teste un cas où ça marche bien
+
+!|execute|insert into FF_PRODUIT(p_ref,nom,prix,taille) values (:ref_produit,'nom','1.6','petit')|
+
+!|Execute procedure|PAQ_PRODUITS.ajouterConso|
+|la_ref_produit|la_ref_magasin|une_estampille|
+|<<ref_produit|<<ref_magasin|null|
+
+on vérifie que ça a marché :
+!|query|select count(*) as nb from ff_consommation where ref_produit=:ref_produit and ref_magasin=:ref_magasin|
+|nb|
+|1|
