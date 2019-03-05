@@ -1,0 +1,27 @@
+create or replace PACKAGE BODY PAQ_STOCK AS
+
+  procedure ajouter_produitSimple(ref_produit ff_produit.p_ref%type, 
+                                  ref_magasin ff_magasin.m_ref%type, 
+                                  la_quantite ff_stock.quantite%type)  AS
+  BEGIN
+    -- TODO: Implementation required for procedure PAQ_STOCK.ajouter_produitSimple
+    NULL;
+  END ajouter_produitSimple;
+
+  procedure ajouter_menu(ref_menu ff_menu.m_ref%type) AS
+  BEGIN
+    -- TODO: Implementation required for procedure PAQ_STOCK.ajouter_menu
+    NULL;
+  END ajouter_menu;
+
+  procedure diminuerQuantite_produitSimple(ref_produit ff_produit.p_ref%type, 
+                                  ref_magasin ff_magasin.m_ref%type, 
+                                  la_quantite ff_stock.quantite%type)  AS
+  BEGIN
+    -- TODO: Implementation required for procedure PAQ_STOCK.diminuerQuantite_produitSimple
+    
+    
+    NULL;
+  END diminuerQuantite_produitSimple;
+
+END PAQ_STOCK;

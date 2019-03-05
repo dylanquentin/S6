@@ -72,18 +72,18 @@ create table FF_STOCK(
 );
 /
 
-create or replace trigger triggerDeleteCoupleProduit
+create or replace trigger triggerInsertAfterProduit
   after insert on ff_simple 
   for each row
   begin
-    delete from ff_stock where ref_produit = :old.s_ref;
+    insert into ff_stock values(0,(select m_ref from ff_magasin), :new.s_ref);
   end;
 /
 
-create or replace trigger triggerDeleteCoupleMag 
-  after delete on ff_magasin for each row
+create or replace trigger triggerInsertAfterMag 
+  after insert on ff_magasin for each row
   begin 
-    delete from ff_stock where ref_magasin = :old.m_ref;
+    insert into ff_stock values(0, (select s_ref from ff_simple), :new.m_ref);
   end;
 /
 

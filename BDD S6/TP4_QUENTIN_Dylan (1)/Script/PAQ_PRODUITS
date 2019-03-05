@@ -1,0 +1,72 @@
+create or replace package PAQ_PRODUITS as
+  PARAMETRE_INDEFINI EXCEPTION ;
+  PRODUIT_INCONNU EXCEPTION ;
+  INCOHERENCE_TAILLES EXCEPTION ; 
+  PB_COMPOSITION EXCEPTION ;
+  PRIX_NON_POSITIF EXCEPTION ;
+  PB_VALEUR_TAILLE EXCEPTION ;
+  PB_VALEUR_CATEGORIE EXCEPTION ;
+  DOUBLON_NOM_PRODUIT EXCEPTION ;
+  PRODUIT_UTILISE EXCEPTION ;
+  
+  PRAGMA exception_init(PARAMETRE_INDEFINI,-20102) ;
+  PRAGMA exception_init(PRODUIT_INCONNU,-20103);
+  PRAGMA exception_init(INCOHERENCE_TAILLES,-20104);
+  PRAGMA exception_init(PB_COMPOSITION,-20105);
+  PRAGMA exception_init(PRIX_NON_POSITIF,-20106) ;
+  PRAGMA exception_init(PB_VALEUR_TAILLE,-20107) ;
+  PRAGMA exception_init(PB_VALEUR_CATEGORIE,-20108) ;
+  PRAGMA exception_init(DOUBLON_NOM_PRODUIT,-20109) ;
+  PRAGMA exception_init(PRODUIT_UTILISE,-20110) ;
+  
+  /* on ajoute un produit simple dans la base 
+   * Déclenche PARAMETRE_INDEFINI si l'un des paramètres vaut NULL
+   * Déclenche PB_VALEUR_TAILLE, PRIX_NON_POSITIF, DOUBLON_NOM_PRODUIT ou PB_VALEUR_CATEGORIE
+   * si les contraintes déclarées avec les tables ne sont pas respectées.
+   */
+  procedure ajouter_simple(le_nom ff_produit.nom%type, 
+                           le_prix ff_produit.prix%type, 
+                           la_taille ff_produit.taille%type, 
+                           la_categ ff_simple.categ%type) ;
+                           
+  /* on supprime un produit simple de la base 
+   * Déclenche PARAMETRE_INDEFINI si le paramètre vaut NULL
+   * Déclenche PRODUIT_INCONNU si ce produit simple n'existe pas
+   * Déclenche PRODUIT_UTILISE si ce produit entre dans la composition d'un menu
+   */
+  procedure supprimer_simple(la_ref ff_simple.s_ref%type) ;
+
+  /* on ajoute un menu dans la base 
+   * Déclenche PARAMETRE_INDEFINI si l'un des paramètres vaut NULL
+   * Déclenche PB_VALEUR_TAILLE, PRIX_NON_POSITIF ou  DOUBLON_NOM_PRODUIT
+   * si les contraintes déclarées avec les tables ne sont pas respectées.
+   */
+  procedure ajouter_menu(le_nom ff_produit.nom%type, 
+                         le_prix ff_produit.prix%type, 
+                         la_taille ff_produit.taille%type, 
+                         la_promo ff_menu.promo%type) ;
+  
+  /* on supprime un menu de la base 
+   * Déclenche PARAMETRE_INDEFINI si le paramètre vaut NULL
+   * Déclenche PRODUIT_INCONNU si ce menu n'existe pas
+   */
+  procedure supprimer_menu(la_ref ff_menu.m_ref%type) ;
+
+  /* Ajoute un produit simple dans la composition d'un menu
+   * Déclenche PARAMETRE_INDEFINI si l'un des paramètres vaut NULL
+   * Déclenche INCOHERENCE_TAILLES si le menu et le simple n'ont pas la même taille
+   * par exemple, mettre une petite frite dans un "grand" menu est une erreur.
+   * On déclenche PRODUIT_INCONNU si le menu ou le simple n'existe pas.
+   * si on veut mettre un produit simple deja present dans ce menu, ça ne declenche pas d'erreur (ça ne fait rien)
+   */
+  procedure enrichir_menu(la_ref_menu ff_menu.m_ref%type, la_ref_simple ff_simple.s_ref%type) ;
+
+  /* Enlève un produit simple de la constitution d'un menu.
+   * Déclenche PARAMETRE_INDEFINI si l'un des paramètres vaut NULL
+   * Déclenche PB_COMPOSITION si ce produit simple n'est pas dans ce menu.
+   */
+  procedure appauvrir_menu(la_ref_menu ff_menu.m_ref%type, la_ref_simple ff_simple.s_ref%type) ;
+
+
+  procedure ajouterConso(la_ref_produit ff_produit.p_ref%type, la_ref_magasin ff_magasin.m_ref%type, une_estampille ff_consommation.estampille%type);
+end;

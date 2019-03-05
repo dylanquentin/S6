@@ -40,4 +40,3 @@ on vérifie que ça a marché :
 !|query|select count(*) as nb from ff_consommation where ref_produit=:ref_produit and ref_magasin=:ref_magasin|
 |nb|
 |1|
-

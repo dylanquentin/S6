@@ -1,0 +1,193 @@
+create or replace PACKAGE BODY PAQ_PRODUITS AS
+
+    procedure ajouter_simple(le_nom ff_produit.nom%type, 
+                             le_prix ff_produit.prix%type, 
+                             la_taille ff_produit.taille%type, 
+                             la_categ ff_simple.categ%type)  AS
+      num1 NUMBER := gen_clef.nextval;
+    
+    BEGIN--
+    -- )
+      if le_nom is null or le_prix is null or la_taille is null or la_categ is null then
+        raise PARAMETRE_INDEFINI;
+      end if;
+      if la_taille  not in ('petit','moyen','grand') then 
+      raise PB_VALEUR_TAILLE;
+      end if;
+      if le_prix <= 0 then 
+      raise PRIX_NON_POSITIF;
+      end if;
+      if la_categ not in ('boisson','dessert','salade','accompagnement','sandwich') then
+      raise PB_VALEUR_CATEGORIE;
+      end if;
+      insert into ff_produit values (num1 , le_nom,le_prix,la_taille);
+      insert into ff_simple values (num1, la_categ);
+      
+    Exception 
+      when DUP_VAL_ON_INDEX then
+      raise DOUBLON_NOM_PRODUIT;
+    
+    
+    END ajouter_simple;
+
+  procedure supprimer_simple(la_ref ff_simple.s_ref%type)  AS
+    countt NUMBER;
+  BEGIN
+ -- 
+  if la_ref is null then raise PARAMETRE_INDEFINI ; end if;
+  select count(*) into countt from FF_CONSTITUE where la_ref=REF_SIMPLE;
+  if countt = 1 then 
+    raise PRODUIT_UTILISE; 
+  end if;
+
+  DELETE FROM FF_PRODUIT where p_ref = la_ref and la_ref IN ( SELECT s_ref from ff_simple);
+  if (SQL%notfound) then raise PRODUIT_INCONNU; end if; 
+
+ 
+    END supprimer_simple;
+
+ procedure ajouter_menu(le_nom ff_produit.nom%type, 
+                         le_prix ff_produit.prix%type, 
+                         la_taille ff_produit.taille%type, 
+                         la_promo ff_menu.promo%type)  AS
+  num1 NUMBER := gen_clef.nextval;
+  BEGIN
+    -- TODO: Implementation required for procedure PAQ_PRODUITS.ajouter_menu
+    if le_nom is null or la_taille is null or le_prix is null or la_promo is null then 
+      raise parametre_indefini;
+    end if;
+    if la_taille not in('petit','moyen','grand') then raise PB_VALEUR_TAILLE;
+    end if;
+    if le_prix<=0 then raise PRIX_NON_POSITIF;
+    end if;
+    insert into ff_produit values(num1, le_nom, le_prix, la_taille);
+    insert into ff_menu values(num1, la_promo);
+    
+  EXCEPTION 
+    when DUP_VAL_ON_INDEX then
+    raise DOUBLON_NOM_PRODUIT;
+  
+  END ajouter_menu;
+
+
+
+  procedure supprimer_menu(la_ref ff_menu.m_ref%type)  AS
+  testProduitInconnu ff_menu.m_ref%type;
+  
+  BEGIN
+    if la_ref is null then raise parametre_indefini;
+    end if;
+   
+    delete from ff_menu where m_ref=la_ref;
+    if sql%notfound then raise produit_inconnu;
+    end if;
+
+    -- TODO: Implementation required for procedure PAQ_PRODUITS.supprimer_menu
+
+  END supprimer_menu;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  procedure enrichir_menu(la_ref_menu ff_menu.m_ref%type, la_ref_simple ff_simple.s_ref%type)  AS
+  tailleRefMenu ff_produit.taille%type;
+  tailleRefSimple ff_produit.taille%type;
+
+  BEGIN
+    -- TODO: Implementation required for procedure PAQ_PRODUITS.enrichir_menu
+    if la_ref_menu is null or la_ref_simple is null then raise parametre_indefini;
+    end if; 
+    
+     
+    select taille into tailleRefMenu from ff_produit where p_ref = la_ref_menu;
+    select taille into tailleRefSimple from ff_produit where p_ref = la_ref_simple;
+     
+    if tailleRefMenu = tailleRefSimple then 
+      insert into ff_constitue values(la_ref_menu, la_ref_simple); 
+    else 
+     raise INCOHERENCE_TAILLES;
+    end if;
+    
+  
+  EXCEPTION 
+   when NO_DATA_FOUND then 
+       raise produit_inconnu;
+   when DUP_VAL_ON_INDEX then 
+    raise DOUBLON_NOM_PRODUIT;
+  END enrichir_menu;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  procedure appauvrir_menu(la_ref_menu ff_menu.m_ref%type, la_ref_simple ff_simple.s_ref%type)  AS
+  refM ff_constitue.ref_menu%type;
+  refS ff_constitue.ref_simple%type;
+  BEGIN
+    -- TODO: Implementation required for procedure PAQ_PRODUITS.appauvrir_menu
+    if la_ref_menu is null or la_ref_simple is null then raise parametre_indefini;
+    end if; 
+    
+    delete from ff_constitue where ref_simple = la_ref_simple;
+    
+    if sql%notfound then 
+      select ref_menu into refM from ff_constitue where ref_menu = la_ref_menu;
+      select ref_simple into refS from ff_constitue where ref_simple = la_ref_simple;
+    end if;
+    
+  EXCEPTION 
+    when NO_DATA_FOUND then raise PB_COMPOSITION;  
+    when PRODUIT_INCONNU then raise produit_inconnu;
+  
+  END appauvrir_menu;
+
+
+  procedure ajouterConso(la_ref_produit ff_produit.p_ref%type, la_ref_magasin ff_magasin.m_ref%type, une_estampille ff_consommation.estampille%type)  AS
+    
+    refM ff_magasin.m_ref%type;
+    refP ff_produit.p_ref%type;
+    
+    BEGIN
+    
+    if la_ref_produit is null or la_ref_magasin is null then 
+      raise parametre_indefini;
+    end if;
+    
+    
+    select m_ref into refM from ff_magasin where m_ref = la_ref_magasin;
+    select p_ref into refP from ff_produit where p_ref = la_ref_produit;
+    
+    if une_estampille is null then 
+      insert into ff_consommation values(sysdate, la_ref_produit, la_ref_magasin);
+    else 
+      insert into ff_consommation values(une_estampille, la_ref_produit, la_ref_magasin);
+    end if;
+      
+  EXCEPTION 
+    when NO_DATA_FOUND then raise produit_inconnu;
+  END ajouterConso;
+
+
+
+END PAQ_PRODUITS;

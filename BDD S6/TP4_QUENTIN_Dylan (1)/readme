@@ -1,0 +1,18 @@
+TP4 de BD 
+Travail de QUENTIN Dylan
+
+Dans le dossier /Rapido :
+
+- Les tests déjà fourni.
+- Dans TestConso il y a des tests pour la procédure ajouterConso.
+
+Dans le dossier /Script
+
+- Le fichier create.sql regroupe les différentes créations de table mais également les différents triggers.
+
+- Le fichier PAQ_PRODUITS correspond au paquetage de la gestion des produits et des menus mais également de la procédure ajouterConso.
+
+- Le fichier PAQ_PRODUITS_BODY correspond au corp de ce paquetage.
+
+- Le fichier PAQ_STOCK correspond au paquetage de la gestion du stock.
+
