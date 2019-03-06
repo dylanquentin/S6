@@ -39,8 +39,7 @@ public class ManagerLivre {
 	
 	public List <Livre> getLesLivres() throws AppliException {
 		ArrayList<Livre> res = new ArrayList<>();
-		ManagerPersonne mP = new ManagerPersonne();
-		List<Personne> personnes=mP.getLesPersonnes();
+	
 		try {
 			ResultSet rs = rechercherLesLivres.executeQuery();
 			
@@ -48,11 +47,7 @@ public class ManagerLivre {
 				int id = rs.getInt(1);
 				String nom = rs.getString(2);
 				Livre l = new Livre(id,nom);
-				for(Personne p : personnes){
-					if(p.getId() == rs.getInt(3)){
-						l.setEmprunte(p);
-					}
-				}
+				
 				res.add(l);
 				
 				
