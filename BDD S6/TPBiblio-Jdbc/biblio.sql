@@ -8,7 +8,7 @@ create sequence Seq_Personne ;
 create sequence Seq_livre ;
 
 create table TP_Personne (
-  id number(2) constraint Personne_pk primary key,
+  id number(2) constraint Personne_prkey primary key,
   nom varchar2(20) not null,
   prenom varchar2(20) not null
 ) ;
@@ -16,7 +16,7 @@ create table TP_Personne (
 -- id_emprunte is null si le tp_livre n'est pas emprunté
 -- idem pour id_reserve
 create table Tp_livre (
-  id number(2) constraint livre_pk primary key,
+  id number(2) constraint livre_prkey primary key,
   titre varchar2(50),
   id_emprunte constraint personne_emprunte_le_livre_fk references tp_Personne(id), 
   id_reserve  constraint personne_reserve_le_livre_fk references tp_Personne(id)

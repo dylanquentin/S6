@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with Altova MapForce 2017sp2 -->
+<mapping xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="22">
+	<resources/>
+	<component name="defaultmap1" uid="1" editable="1" blackbox="0">
+		<properties SelectedLanguage="xslt2"/>
+		<structure>
+			<children>
+				<component name="constant" library="core" uid="13" kind="2">
+					<properties/>
+					<targets>
+						<datapoint pos="0" key="4"/>
+					</targets>
+					<view ltx="217" lty="512" rbx="291" rby="530"/>
+					<data>
+						<constant value="Gazole" datatype="string"/>
+						<wsdl/>
+					</data>
+				</component>
+				<component name="constant" library="core" uid="12" kind="2">
+					<properties/>
+					<targets>
+						<datapoint pos="0" key="3"/>
+					</targets>
+					<view ltx="226" lty="418" rbx="291" rby="436"/>
+					<data>
+						<constant value="SP98" datatype="string"/>
+						<wsdl/>
+					</data>
+				</component>
+				<component name="constant" library="core" uid="6" kind="2">
+					<properties/>
+					<targets>
+						<datapoint pos="0" key="1"/>
+					</targets>
+					<view ltx="137" lty="100" rbx="202" rby="118"/>
+					<data>
+						<constant value="SP95" datatype="string"/>
+						<wsdl/>
+					</data>
+				</component>
+				<component name="equal" library="core" uid="8" kind="5">
+					<properties/>
+					<sources>
+						<datapoint pos="0" key="2"/>
+						<datapoint pos="1" key="5"/>
+					</sources>
+					<targets>
+						<datapoint pos="0" key="6"/>
+					</targets>
+					<view ltx="328" lty="118" rbx="381" rby="174"/>
+				</component>
+				<component name="equal" library="core" uid="14" kind="5">
+					<properties/>
+					<sources>
+						<datapoint pos="0" key="9"/>
+						<datapoint pos="1" key="11"/>
+					</sources>
+					<targets>
+						<datapoint pos="0" key="10"/>
+					</targets>
+					<view ltx="407" lty="380" rbx="460" rby="436"/>
+				</component>
+				<component name="equal" library="core" uid="15" kind="5">
+					<properties/>
+					<sources>
+						<datapoint pos="0" key="12"/>
+						<datapoint pos="1" key="14"/>
+					</sources>
+					<targets>
+						<datapoint pos="0" key="13"/>
+					</targets>
+					<view ltx="462" lty="474" rbx="515" rby="530"/>
+				</component>
+				<component name="prixcarburants" library="xml" uid="4" kind="14">
+					<properties XSLTTargetEncoding="UTF-8" XSLTDefaultOutput="1"/>
+					<view ltx="745" lty="170" rbx="1014" rby="370"/>
+					<data>
+						<root>
+							<header>
+								<namespaces>
+									<namespace/>
+									<namespace uid="http://www.altova.com/mapforce"/>
+								</namespaces>
+							</header>
+							<entry name="FileInstance" ns="1" expanded="1">
+								<entry name="document" ns="1" expanded="1" casttotargettypemode="cast-in-subtree">
+									<entry name="carburants" expanded="1">
+										<entry name="SP95" expanded="1">
+											<entry name="prix" inpkey="69" expanded="1">
+												<entry name="valeur" type="attribute" inpkey="17"/>
+											</entry>
+										</entry>
+										<entry name="SP98" expanded="1">
+											<entry name="prix" inpkey="70" expanded="1">
+												<entry name="valeur" type="attribute" inpkey="42"/>
+											</entry>
+										</entry>
+										<entry name="Gazole" expanded="1">
+											<entry name="prix" inpkey="71" expanded="1">
+												<entry name="valeur" type="attribute" inpkey="44"/>
+											</entry>
+										</entry>
+									</entry>
+								</entry>
+							</entry>
+						</root>
+						<document schema="prixcarburants.xsd" outputinstance="prixcarburants.xml" instanceroot="{}carburants"/>
+						<wsdl/>
+					</data>
+				</component>
+				<component name="prix" library="core" uid="20" kind="3">
+					<properties/>
+					<sources>
+						<datapoint pos="0" key="28"/>
+						<datapoint pos="1" key="27"/>
+					</sources>
+					<targets>
+						<datapoint pos="0" key="26"/>
+						<datapoint/>
+					</targets>
+					<view ltx="582" lty="490" rbx="685" rby="546"/>
+				</component>
+				<component name="prix" library="core" uid="23" kind="3">
+					<properties/>
+					<sources>
+						<datapoint pos="0" key="37"/>
+						<datapoint pos="1" key="36"/>
+					</sources>
+					<targets>
+						<datapoint pos="0" key="35"/>
+						<datapoint pos="1" key="72"/>
+					</targets>
+					<view ltx="532" lty="274" rbx="635" rby="330"/>
+				</component>
+				<component name="prix" library="core" uid="19" kind="3">
+					<properties/>
+					<sources>
+						<datapoint pos="0" key="38"/>
+						<datapoint pos="1" key="39"/>
+					</sources>
+					<targets>
+						<datapoint pos="0" key="40"/>
+						<datapoint pos="1" key="73"/>
+					</targets>
+					<view ltx="505" lty="160" rbx="608" rby="216"/>
+				</component>
+				<component name="carbu5962" library="xml" uid="2" kind="14">
+					<properties XSLTTargetEncoding="UTF-8"/>
+					<view ltx="6" lty="170" rbx="249" rby="370"/>
+					<data>
+						<root scrollposition="141">
+							<header>
+								<namespaces>
+									<namespace/>
+									<namespace uid="http://www.altova.com/mapforce"/>
+								</namespaces>
+							</header>
+							<entry name="FileInstance" ns="1" expanded="1">
+								<entry name="document" ns="1" expanded="1" casttotargettypemode="cast-in-subtree">
+									<entry name="pdv_liste" expanded="1">
+										<entry name="pdv" expanded="1">
+											<entry name="services" expanded="1"/>
+											<entry name="prix" outkey="74" expanded="1">
+												<entry name="nom" type="attribute" outkey="8"/>
+												<entry name="valeur" type="attribute" outkey="18"/>
+											</entry>
+										</entry>
+									</entry>
+								</entry>
+							</entry>
+						</root>
+						<document schema="carbu5962.xsd" inputinstance="carbu5962.xml" outputinstance="carbu5962.xml" instanceroot="{}pdv_liste"/>
+						<wsdl/>
+					</data>
+				</component>
+			</children>
+			<graph directed="1">
+				<edges/>
+				<vertices>
+					<vertex vertexkey="1">
+						<edges>
+							<edge vertexkey="2" edgekey="45"/>
+						</edges>
+					</vertex>
+					<vertex vertexkey="3">
+						<edges>
+							<edge vertexkey="11" edgekey="46"/>
+						</edges>
+					</vertex>
+					<vertex vertexkey="4">
+						<edges>
+							<edge vertexkey="14" edgekey="47"/>
+						</edges>
+					</vertex>
+					<vertex vertexkey="6">
+						<edges>
+							<edge vertexkey="39" edgekey="48"/>
+						</edges>
+					</vertex>
+					<vertex vertexkey="8">
+						<edges>
+							<edge vertexkey="5" edgekey="50"/>
+							<edge vertexkey="9" edgekey="51"/>
+							<edge vertexkey="12" edgekey="52"/>
+						</edges>
+					</vertex>
+					<vertex vertexkey="10">
+						<edges>
+							<edge vertexkey="36" edgekey="56"/>
+						</edges>
+					</vertex>
+					<vertex vertexkey="13">
+						<edges>
+							<edge vertexkey="27" edgekey="58"/>
+						</edges>
+					</vertex>
+					<vertex vertexkey="18">
+						<edges>
+							<edge vertexkey="17" edgekey="75"/>
+							<edge vertexkey="42" edgekey="76"/>
+							<edge vertexkey="44" edgekey="77"/>
+						</edges>
+					</vertex>
+					<vertex vertexkey="26">
+						<edges>
+							<edge vertexkey="71" edgekey="78"/>
+						</edges>
+					</vertex>
+					<vertex vertexkey="35">
+						<edges>
+							<edge vertexkey="70" edgekey="79"/>
+						</edges>
+					</vertex>
+					<vertex vertexkey="40">
+						<edges>
+							<edge vertexkey="69" edgekey="80"/>
+						</edges>
+					</vertex>
+					<vertex vertexkey="72">
+						<edges>
+							<edge vertexkey="28" edgekey="81"/>
+						</edges>
+					</vertex>
+					<vertex vertexkey="73">
+						<edges>
+							<edge vertexkey="37" edgekey="82"/>
+						</edges>
+					</vertex>
+					<vertex vertexkey="74">
+						<edges>
+							<edge vertexkey="38" edgekey="83"/>
+						</edges>
+					</vertex>
+				</vertices>
+			</graph>
+		</structure>
+	</component>
+</mapping>

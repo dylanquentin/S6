@@ -12,7 +12,6 @@ import java.util.List;
  * nécessite une connexion pour s'initialiser
  */
 
-@SuppressWarnings("unused")
 public class ManagerLivre {
 	private Connection connexion;
 	
@@ -23,8 +22,14 @@ public class ManagerLivre {
 	 * 
 	 */
 	public void setConnection (Connection c) throws AppliException {
-		// A FAIRE
-				
+		connexion = c;
+		try {
+			rechercherLesLivres = connexion.prepareStatement("SELECT * FROM TP_Livre l1 LEFT JOIN TP_Personne p1 ON l1.id_emprunte = p1.id LEFT JOIN TP_PERSONNE p2 ON l1.id_reserve = p2.id;");
+		} catch (SQLException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+
 	}
 	
 	/** 
@@ -33,8 +38,33 @@ public class ManagerLivre {
 	 */
 	
 	public List <Livre> getLesLivres() throws AppliException {
-		//A  Faire
-		return new ArrayList<Livre>();
+		ArrayList<Livre> res = new ArrayList<>();
+		ManagerPersonne mP = new ManagerPersonne();
+		List<Personne> personnes=mP.getLesPersonnes();
+		try {
+			ResultSet rs = rechercherLesLivres.executeQuery();
+			
+			while(rs.next()){
+				int id = rs.getInt(1);
+				String nom = rs.getString(2);
+				Livre l = new Livre(id,nom);
+				for(Personne p : personnes){
+					if(p.getId() == rs.getInt(3)){
+						l.setEmprunte(p);
+					}
+				}
+				res.add(l);
+				
+				
+			}
+		} catch (SQLException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
+		
+		
+		return res;
 		
 	}
 }

@@ -1,0 +1,2551 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<isf>
+  <region nom="AUVERGNE-RHONE-ALPES">
+    <departement nom="AIN">
+      <commune nom="BOURG-EN-BRESSE">
+        <nombre-redevable>157</nombre-redevable>
+        <patrimoine-moyen>2261155</patrimoine-moyen>
+        <impot-moyen>8297</impot-moyen>
+        <code-postale>01053</code-postale>
+      </commune>
+      <commune nom="OYONNAX">
+        <nombre-redevable>88</nombre-redevable>
+        <patrimoine-moyen>3236170</patrimoine-moyen>
+        <impot-moyen>12078</impot-moyen>
+        <code-postale>01283</code-postale>
+      </commune>
+    </departement>
+    <departement nom="ALLIER">
+      <commune nom="MONTLUCON">
+        <nombre-redevable>111</nombre-redevable>
+        <patrimoine-moyen>2591793</patrimoine-moyen>
+        <impot-moyen>9721</impot-moyen>
+        <code-postale>03185</code-postale>
+      </commune>
+      <commune nom="MOULINS">
+        <nombre-redevable>59</nombre-redevable>
+        <patrimoine-moyen>2524509</patrimoine-moyen>
+        <impot-moyen>10026</impot-moyen>
+        <code-postale>03190</code-postale>
+      </commune>
+      <commune nom="VICHY">
+        <nombre-redevable>177</nombre-redevable>
+        <patrimoine-moyen>2369664</patrimoine-moyen>
+        <impot-moyen>7316</impot-moyen>
+        <code-postale>03310</code-postale>
+      </commune>
+    </departement>
+    <departement nom="CANTAL">
+      <commune nom="AURILLAC">
+        <nombre-redevable>118</nombre-redevable>
+        <patrimoine-moyen>2606677</patrimoine-moyen>
+        <impot-moyen>9251</impot-moyen>
+        <code-postale>15014</code-postale>
+      </commune>
+    </departement>
+    <departement nom="DROME">
+      <commune nom="MONTELIMAR">
+        <nombre-redevable>170</nombre-redevable>
+        <patrimoine-moyen>2694564</patrimoine-moyen>
+        <impot-moyen>10374</impot-moyen>
+        <code-postale>26198</code-postale>
+      </commune>
+      <commune nom="ROMANS">
+        <nombre-redevable>100</nombre-redevable>
+        <patrimoine-moyen>2330674</patrimoine-moyen>
+        <impot-moyen>7176</impot-moyen>
+        <code-postale>26281</code-postale>
+      </commune>
+      <commune nom="VALENCE">
+        <nombre-redevable>260</nombre-redevable>
+        <patrimoine-moyen>2749326</patrimoine-moyen>
+        <impot-moyen>10698</impot-moyen>
+        <code-postale>26362</code-postale>
+      </commune>
+    </departement>
+    <departement nom="HAUTE-SAVOIE">
+      <commune nom="ANNECY">
+        <nombre-redevable>1196</nombre-redevable>
+        <patrimoine-moyen>2424021</patrimoine-moyen>
+        <impot-moyen>8938</impot-moyen>
+        <code-postale>74010</code-postale>
+      </commune>
+      <commune nom="ANNEMASSE">
+        <nombre-redevable>113</nombre-redevable>
+        <patrimoine-moyen>2184705</patrimoine-moyen>
+        <impot-moyen>7509</impot-moyen>
+        <code-postale>74012</code-postale>
+      </commune>
+      <commune nom="THONON-LES-BAINS">
+        <nombre-redevable>245</nombre-redevable>
+        <patrimoine-moyen>2528043</patrimoine-moyen>
+        <impot-moyen>11240</impot-moyen>
+        <code-postale>74281</code-postale>
+      </commune>
+    </departement>
+    <departement nom="ISERE">
+      <commune nom="BOURGOINJALLIEU">
+        <nombre-redevable>86</nombre-redevable>
+        <patrimoine-moyen>2538748</patrimoine-moyen>
+        <impot-moyen>9754</impot-moyen>
+        <code-postale>38053</code-postale>
+      </commune>
+      <commune nom="GRENOBLE">
+        <nombre-redevable>709</nombre-redevable>
+        <patrimoine-moyen>2523982</patrimoine-moyen>
+        <impot-moyen>9452</impot-moyen>
+        <code-postale>38185</code-postale>
+      </commune>
+      <commune nom="VIENNE">
+        <nombre-redevable>146</nombre-redevable>
+        <patrimoine-moyen>2378705</patrimoine-moyen>
+        <impot-moyen>8218</impot-moyen>
+        <code-postale>38544</code-postale>
+      </commune>
+      <commune nom="VOIRON">
+        <nombre-redevable>108</nombre-redevable>
+        <patrimoine-moyen>2789975</patrimoine-moyen>
+        <impot-moyen>12176</impot-moyen>
+        <code-postale>38563</code-postale>
+      </commune>
+    </departement>
+    <departement nom="LOIRE">
+      <commune nom="ROANNE">
+        <nombre-redevable>108</nombre-redevable>
+        <patrimoine-moyen>2408761</patrimoine-moyen>
+        <impot-moyen>9623</impot-moyen>
+        <code-postale>42187</code-postale>
+      </commune>
+      <commune nom="SAINTCHAMOND">
+        <nombre-redevable>72</nombre-redevable>
+        <patrimoine-moyen>2679118</patrimoine-moyen>
+        <impot-moyen>9681</impot-moyen>
+        <code-postale>42207</code-postale>
+      </commune>
+      <commune nom="SAINTETIENNE">
+        <nombre-redevable>471</nombre-redevable>
+        <patrimoine-moyen>2544960</patrimoine-moyen>
+        <impot-moyen>9989</impot-moyen>
+        <code-postale>42218</code-postale>
+      </commune>
+    </departement>
+    <departement nom="PUY-DE-DOME">
+      <commune nom="CLERMONT-FERRAND">
+        <nombre-redevable>484</nombre-redevable>
+        <patrimoine-moyen>2503563</patrimoine-moyen>
+        <impot-moyen>10260</impot-moyen>
+        <code-postale>63113</code-postale>
+      </commune>
+    </departement>
+    <departement nom="RHONE">
+      <commune nom="BRON">
+        <nombre-redevable>172</nombre-redevable>
+        <patrimoine-moyen>2431917</patrimoine-moyen>
+        <impot-moyen>8984</impot-moyen>
+        <code-postale>69029</code-postale>
+      </commune>
+      <commune nom="CALUIREETCUIRE">
+        <nombre-redevable>563</nombre-redevable>
+        <patrimoine-moyen>2796882</patrimoine-moyen>
+        <impot-moyen>9611</impot-moyen>
+        <code-postale>69034</code-postale>
+      </commune>
+      <commune nom="DECINES-CHARPIEU">
+        <nombre-redevable>55</nombre-redevable>
+        <patrimoine-moyen>2104158</patrimoine-moyen>
+        <impot-moyen>6289</impot-moyen>
+        <code-postale>69275</code-postale>
+      </commune>
+      <commune nom="LYON">
+        <nombre-redevable>4718</nombre-redevable>
+        <patrimoine-moyen>2740466</patrimoine-moyen>
+        <impot-moyen>10415</impot-moyen>
+        <code-postale>69123</code-postale>
+      </commune>
+      <commune nom="MEYZIEU">
+        <nombre-redevable>95</nombre-redevable>
+        <patrimoine-moyen>2835529</patrimoine-moyen>
+        <impot-moyen>11687</impot-moyen>
+        <code-postale>69282</code-postale>
+      </commune>
+      <commune nom="OULLINS">
+        <nombre-redevable>71</nombre-redevable>
+        <patrimoine-moyen>2197514</patrimoine-moyen>
+        <impot-moyen>8058</impot-moyen>
+        <code-postale>69149</code-postale>
+      </commune>
+      <commune nom="RILLIEUXLAPAPE">
+        <nombre-redevable>105</nombre-redevable>
+        <patrimoine-moyen>2458141</patrimoine-moyen>
+        <impot-moyen>10357</impot-moyen>
+        <code-postale>69286</code-postale>
+      </commune>
+      <commune nom="SAINT-GENIS-LAVAL">
+        <nombre-redevable>182</nombre-redevable>
+        <patrimoine-moyen>2416434</patrimoine-moyen>
+        <impot-moyen>8116</impot-moyen>
+        <code-postale>69204</code-postale>
+      </commune>
+      <commune nom="SAINT-PRIEST">
+        <nombre-redevable>81</nombre-redevable>
+        <patrimoine-moyen>2844559</patrimoine-moyen>
+        <impot-moyen>10884</impot-moyen>
+        <code-postale>69290</code-postale>
+      </commune>
+      <commune nom="STEFOYLESLYON">
+        <nombre-redevable>411</nombre-redevable>
+        <patrimoine-moyen>2882466</patrimoine-moyen>
+        <impot-moyen>11611</impot-moyen>
+        <code-postale>69202</code-postale>
+      </commune>
+      <commune nom="TASSIN-LA-DEMI-LUNE">
+        <nombre-redevable>269</nombre-redevable>
+        <patrimoine-moyen>2654925</patrimoine-moyen>
+        <impot-moyen>9474</impot-moyen>
+        <code-postale>69244</code-postale>
+      </commune>
+      <commune nom="VILLEFRANCHE-SUR-SAONE">
+        <nombre-redevable>107</nombre-redevable>
+        <patrimoine-moyen>2320604</patrimoine-moyen>
+        <impot-moyen>8760</impot-moyen>
+        <code-postale>69264</code-postale>
+      </commune>
+      <commune nom="VILLEURBANNE">
+        <nombre-redevable>274</nombre-redevable>
+        <patrimoine-moyen>2211022</patrimoine-moyen>
+        <impot-moyen>6861</impot-moyen>
+        <code-postale>69266</code-postale>
+      </commune>
+    </departement>
+    <departement nom="SAVOIE">
+      <commune nom="AIXLESBAINS">
+        <nombre-redevable>247</nombre-redevable>
+        <patrimoine-moyen>2207023</patrimoine-moyen>
+        <impot-moyen>7418</impot-moyen>
+        <code-postale>73008</code-postale>
+      </commune>
+      <commune nom="CHAMBERY">
+        <nombre-redevable>346</nombre-redevable>
+        <patrimoine-moyen>2659881</patrimoine-moyen>
+        <impot-moyen>10021</impot-moyen>
+        <code-postale>73065</code-postale>
+      </commune>
+    </departement>
+  </region>
+  <region nom="BOURGOGNE-FRANCHE-COMTE">
+    <departement nom="COTE-DOR">
+      <commune nom="BEAUNE">
+        <nombre-redevable>159</nombre-redevable>
+        <patrimoine-moyen>2813839</patrimoine-moyen>
+        <impot-moyen>9954</impot-moyen>
+        <code-postale>21054</code-postale>
+      </commune>
+      <commune nom="DIJON">
+        <nombre-redevable>705</nombre-redevable>
+        <patrimoine-moyen>2742773</patrimoine-moyen>
+        <impot-moyen>10163</impot-moyen>
+        <code-postale>21231</code-postale>
+      </commune>
+    </departement>
+    <departement nom="DOUBS">
+      <commune nom="BESANCON">
+        <nombre-redevable>399</nombre-redevable>
+        <patrimoine-moyen>2549941</patrimoine-moyen>
+        <impot-moyen>8757</impot-moyen>
+        <code-postale>25056</code-postale>
+      </commune>
+      <commune nom="MONTBELIARD">
+        <nombre-redevable>58</nombre-redevable>
+        <patrimoine-moyen>2117787</patrimoine-moyen>
+        <impot-moyen>7944</impot-moyen>
+        <code-postale>25388</code-postale>
+      </commune>
+    </departement>
+    <departement nom="JURA">
+      <commune nom="DOLE">
+        <nombre-redevable>65</nombre-redevable>
+        <patrimoine-moyen>2397832</patrimoine-moyen>
+        <impot-moyen>7094</impot-moyen>
+        <code-postale>39198</code-postale>
+      </commune>
+    </departement>
+    <departement nom="NIEVRE">
+      <commune nom="NEVERS">
+        <nombre-redevable>93</nombre-redevable>
+        <patrimoine-moyen>2697409</patrimoine-moyen>
+        <impot-moyen>11477</impot-moyen>
+        <code-postale>58194</code-postale>
+      </commune>
+    </departement>
+    <departement nom="SAONE-ET-LOIRE">
+      <commune nom="CHALONSURSAONE">
+        <nombre-redevable>145</nombre-redevable>
+        <patrimoine-moyen>2482798</patrimoine-moyen>
+        <impot-moyen>9369</impot-moyen>
+        <code-postale>71076</code-postale>
+      </commune>
+      <commune nom="MACON">
+        <nombre-redevable>122</nombre-redevable>
+        <patrimoine-moyen>2699017</patrimoine-moyen>
+        <impot-moyen>12991</impot-moyen>
+        <code-postale>71270</code-postale>
+      </commune>
+    </departement>
+    <departement nom="TERRITOIREDEBELFORT">
+      <commune nom="BELFORT">
+        <nombre-redevable>112</nombre-redevable>
+        <patrimoine-moyen>2809208</patrimoine-moyen>
+        <impot-moyen>14028</impot-moyen>
+        <code-postale>90010</code-postale>
+      </commune>
+    </departement>
+    <departement nom="YONNE">
+      <commune nom="AUXERRE">
+        <nombre-redevable>138</nombre-redevable>
+        <patrimoine-moyen>2423777</patrimoine-moyen>
+        <impot-moyen>9957</impot-moyen>
+        <code-postale>89024</code-postale>
+      </commune>
+      <commune nom="SENS">
+        <nombre-redevable>104</nombre-redevable>
+        <patrimoine-moyen>2736683</patrimoine-moyen>
+        <impot-moyen>10445</impot-moyen>
+        <code-postale>89387</code-postale>
+      </commune>
+    </departement>
+  </region>
+  <region nom="BRETAGNE">
+    <departement nom="COTES-DARMOR">
+      <commune nom="LANNION">
+        <nombre-redevable>80</nombre-redevable>
+        <patrimoine-moyen>2258484</patrimoine-moyen>
+        <impot-moyen>8777</impot-moyen>
+        <code-postale>22113</code-postale>
+      </commune>
+      <commune nom="SAINT-BRIEUC">
+        <nombre-redevable>172</nombre-redevable>
+        <patrimoine-moyen>2409479</patrimoine-moyen>
+        <impot-moyen>8785</impot-moyen>
+        <code-postale>22278</code-postale>
+      </commune>
+    </departement>
+    <departement nom="FINISTERE">
+      <commune nom="BREST">
+        <nombre-redevable>276</nombre-redevable>
+        <patrimoine-moyen>2706305</patrimoine-moyen>
+        <impot-moyen>8949</impot-moyen>
+        <code-postale>29019</code-postale>
+      </commune>
+      <commune nom="QUIMPER">
+        <nombre-redevable>223</nombre-redevable>
+        <patrimoine-moyen>2320167</patrimoine-moyen>
+        <impot-moyen>6776</impot-moyen>
+        <code-postale>29232</code-postale>
+      </commune>
+    </departement>
+    <departement nom="ILLE-ET-VILAINE">
+      <commune nom="FOUGERES">
+        <nombre-redevable>76</nombre-redevable>
+        <patrimoine-moyen>2312903</patrimoine-moyen>
+        <impot-moyen>8259</impot-moyen>
+        <code-postale>35115</code-postale>
+      </commune>
+      <commune nom="RENNES">
+        <nombre-redevable>1277</nombre-redevable>
+        <patrimoine-moyen>2757362</patrimoine-moyen>
+        <impot-moyen>11073</impot-moyen>
+        <code-postale>35238</code-postale>
+      </commune>
+      <commune nom="SAINTMALO">
+        <nombre-redevable>483</nombre-redevable>
+        <patrimoine-moyen>2663816</patrimoine-moyen>
+        <impot-moyen>9443</impot-moyen>
+        <code-postale>35288</code-postale>
+      </commune>
+    </departement>
+    <departement nom="MORBIHAN">
+      <commune nom="LORIENT">
+        <nombre-redevable>151</nombre-redevable>
+        <patrimoine-moyen>2488651</patrimoine-moyen>
+        <impot-moyen>8418</impot-moyen>
+        <code-postale>56121</code-postale>
+      </commune>
+      <commune nom="VANNES">
+        <nombre-redevable>462</nombre-redevable>
+        <patrimoine-moyen>2491242</patrimoine-moyen>
+        <impot-moyen>8814</impot-moyen>
+        <code-postale>56260</code-postale>
+      </commune>
+    </departement>
+  </region>
+  <region nom="CENTRE-VALDELOIRE">
+    <departement nom="CHER">
+      <commune nom="BOURGES">
+        <nombre-redevable>249</nombre-redevable>
+        <patrimoine-moyen>2313939</patrimoine-moyen>
+        <impot-moyen>8445</impot-moyen>
+        <code-postale>18033</code-postale>
+      </commune>
+    </departement>
+    <departement nom="EURE-ET-LOIR">
+      <commune nom="CHARTRES">
+        <nombre-redevable>286</nombre-redevable>
+        <patrimoine-moyen>2509646</patrimoine-moyen>
+        <impot-moyen>10285</impot-moyen>
+        <code-postale>28085</code-postale>
+      </commune>
+      <commune nom="DREUX">
+        <nombre-redevable>63</nombre-redevable>
+        <patrimoine-moyen>2650964</patrimoine-moyen>
+        <impot-moyen>13062</impot-moyen>
+        <code-postale>28134</code-postale>
+      </commune>
+    </departement>
+    <departement nom="INDRE">
+      <commune nom="CHATEAUROUX">
+        <nombre-redevable>145</nombre-redevable>
+        <patrimoine-moyen>2701742</patrimoine-moyen>
+        <impot-moyen>11201</impot-moyen>
+        <code-postale>36044</code-postale>
+      </commune>
+    </departement>
+    <departement nom="INDRE-ET-LOIRE">
+      <commune nom="JOUELESTOURS">
+        <nombre-redevable>89</nombre-redevable>
+        <patrimoine-moyen>2406464</patrimoine-moyen>
+        <impot-moyen>8812</impot-moyen>
+        <code-postale>37122</code-postale>
+      </commune>
+      <commune nom="TOURS">
+        <nombre-redevable>691</nombre-redevable>
+        <patrimoine-moyen>2452452</patrimoine-moyen>
+        <impot-moyen>9901</impot-moyen>
+        <code-postale>37261</code-postale>
+      </commune>
+    </departement>
+    <departement nom="LOIR-ET-CHER">
+      <commune nom="BLOIS">
+        <nombre-redevable>166</nombre-redevable>
+        <patrimoine-moyen>2444366</patrimoine-moyen>
+        <impot-moyen>9501</impot-moyen>
+        <code-postale>41018</code-postale>
+      </commune>
+    </departement>
+    <departement nom="LOIRET">
+      <commune nom="OLIVET">
+        <nombre-redevable>194</nombre-redevable>
+        <patrimoine-moyen>2438391</patrimoine-moyen>
+        <impot-moyen>10489</impot-moyen>
+        <code-postale>45232</code-postale>
+      </commune>
+      <commune nom="ORLEANS">
+        <nombre-redevable>587</nombre-redevable>
+        <patrimoine-moyen>2439518</patrimoine-moyen>
+        <impot-moyen>9728</impot-moyen>
+        <code-postale>45234</code-postale>
+      </commune>
+      <commune nom="SAINTJEANDEBRAYE">
+        <nombre-redevable>68</nombre-redevable>
+        <patrimoine-moyen>2109774</patrimoine-moyen>
+        <impot-moyen>6982</impot-moyen>
+        <code-postale>45284</code-postale>
+      </commune>
+    </departement>
+  </region>
+  <region nom="CORSE">
+    <departement nom="CORSE-DU-SUD">
+      <commune nom="AJACCIO">
+        <nombre-redevable>275</nombre-redevable>
+        <patrimoine-moyen>2762103</patrimoine-moyen>
+        <impot-moyen>12167</impot-moyen>
+        <code-postale>2A004</code-postale>
+      </commune>
+    </departement>
+    <departement nom="HAUTE-CORSE">
+      <commune nom="BASTIA">
+        <nombre-redevable>120</nombre-redevable>
+        <patrimoine-moyen>2501135</patrimoine-moyen>
+        <impot-moyen>10707</impot-moyen>
+        <code-postale>2B033</code-postale>
+      </commune>
+    </departement>
+  </region>
+  <region nom="GRAND-EST">
+    <departement nom="ARDENNES">
+      <commune nom="CHARLEVILLEMEZIERES">
+        <nombre-redevable>128</nombre-redevable>
+        <patrimoine-moyen>2285146</patrimoine-moyen>
+        <impot-moyen>8364</impot-moyen>
+        <code-postale>08105</code-postale>
+      </commune>
+    </departement>
+    <departement nom="AUBE">
+      <commune nom="TROYES">
+        <nombre-redevable>206</nombre-redevable>
+        <patrimoine-moyen>2909408</patrimoine-moyen>
+        <impot-moyen>13247</impot-moyen>
+        <code-postale>10387</code-postale>
+      </commune>
+    </departement>
+    <departement nom="BAS-RHIN">
+      <commune nom="HAGUENAU">
+        <nombre-redevable>157</nombre-redevable>
+        <patrimoine-moyen>2849602</patrimoine-moyen>
+        <impot-moyen>10249</impot-moyen>
+        <code-postale>67180</code-postale>
+      </commune>
+      <commune nom="ILLKIRCHGRAFFENSTADEN">
+        <nombre-redevable>107</nombre-redevable>
+        <patrimoine-moyen>2171732</patrimoine-moyen>
+        <impot-moyen>7297</impot-moyen>
+        <code-postale>67218</code-postale>
+      </commune>
+      <commune nom="SCHILTIGHEIM">
+        <nombre-redevable>71</nombre-redevable>
+        <patrimoine-moyen>2539596</patrimoine-moyen>
+        <impot-moyen>9870</impot-moyen>
+        <code-postale>67447</code-postale>
+      </commune>
+      <commune nom="STRASBOURG">
+        <nombre-redevable>1862</nombre-redevable>
+        <patrimoine-moyen>3273344</patrimoine-moyen>
+        <impot-moyen>13247</impot-moyen>
+        <code-postale>67482</code-postale>
+      </commune>
+    </departement>
+    <departement nom="HAUT-RHIN">
+      <commune nom="COLMAR">
+        <nombre-redevable>311</nombre-redevable>
+        <patrimoine-moyen>2775376</patrimoine-moyen>
+        <impot-moyen>12232</impot-moyen>
+        <code-postale>68066</code-postale>
+      </commune>
+      <commune nom="MULHOUSE">
+        <nombre-redevable>367</nombre-redevable>
+        <patrimoine-moyen>2877950</patrimoine-moyen>
+        <impot-moyen>12184</impot-moyen>
+        <code-postale>68224</code-postale>
+      </commune>
+      <commune nom="SAINT-LOUIS">
+        <nombre-redevable>82</nombre-redevable>
+        <patrimoine-moyen>2628951</patrimoine-moyen>
+        <impot-moyen>11125</impot-moyen>
+        <code-postale>68297</code-postale>
+      </commune>
+    </departement>
+    <departement nom="HAUTE-MARNE">
+      <commune nom="SAINT-DIZIER">
+        <nombre-redevable>54</nombre-redevable>
+        <patrimoine-moyen>3574163</patrimoine-moyen>
+        <impot-moyen>10334</impot-moyen>
+        <code-postale>52448</code-postale>
+      </commune>
+    </departement>
+    <departement nom="MARNE">
+      <commune nom="CHALONSENCHAMPAGNE">
+        <nombre-redevable>121</nombre-redevable>
+        <patrimoine-moyen>2350793</patrimoine-moyen>
+        <impot-moyen>8740</impot-moyen>
+        <code-postale>51108</code-postale>
+      </commune>
+      <commune nom="EPERNAY">
+        <nombre-redevable>91</nombre-redevable>
+        <patrimoine-moyen>2825229</patrimoine-moyen>
+        <impot-moyen>11316</impot-moyen>
+        <code-postale>51230</code-postale>
+      </commune>
+      <commune nom="REIMS">
+        <nombre-redevable>823</nombre-redevable>
+        <patrimoine-moyen>2638416</patrimoine-moyen>
+        <impot-moyen>10273</impot-moyen>
+        <code-postale>51454</code-postale>
+      </commune>
+    </departement>
+    <departement nom="MEURTHE-ET-MOSELLE">
+      <commune nom="NANCY">
+        <nombre-redevable>670</nombre-redevable>
+        <patrimoine-moyen>2758052</patrimoine-moyen>
+        <impot-moyen>11831</impot-moyen>
+        <code-postale>54395</code-postale>
+      </commune>
+      <commune nom="VANDOEUVRELESNANCY">
+        <nombre-redevable>68</nombre-redevable>
+        <patrimoine-moyen>2324338</patrimoine-moyen>
+        <impot-moyen>8064</impot-moyen>
+        <code-postale>54547</code-postale>
+      </commune>
+    </departement>
+    <departement nom="MOSELLE">
+      <commune nom="METZ">
+        <nombre-redevable>404</nombre-redevable>
+        <patrimoine-moyen>2799108</patrimoine-moyen>
+        <impot-moyen>12016</impot-moyen>
+        <code-postale>57463</code-postale>
+      </commune>
+      <commune nom="MONTIGNYLESMETZ">
+        <nombre-redevable>107</nombre-redevable>
+        <patrimoine-moyen>2489913</patrimoine-moyen>
+        <impot-moyen>11003</impot-moyen>
+        <code-postale>57480</code-postale>
+      </commune>
+      <commune nom="SARREGUEMINES">
+        <nombre-redevable>68</nombre-redevable>
+        <patrimoine-moyen>2699775</patrimoine-moyen>
+        <impot-moyen>9853</impot-moyen>
+        <code-postale>57631</code-postale>
+      </commune>
+      <commune nom="THIONVILLE">
+        <nombre-redevable>227</nombre-redevable>
+        <patrimoine-moyen>2621327</patrimoine-moyen>
+        <impot-moyen>10470</impot-moyen>
+        <code-postale>57672</code-postale>
+      </commune>
+    </departement>
+    <departement nom="VOSGES">
+      <commune nom="EPINAL">
+        <nombre-redevable>123</nombre-redevable>
+        <patrimoine-moyen>2977968</patrimoine-moyen>
+        <impot-moyen>12546</impot-moyen>
+        <code-postale>88160</code-postale>
+      </commune>
+    </departement>
+  </region>
+  <region nom="GUADELOUPE">
+    <departement nom="GUADELOUPE">
+      <commune nom="LEGOSIER">
+        <nombre-redevable>101</nombre-redevable>
+        <patrimoine-moyen>2603757</patrimoine-moyen>
+        <impot-moyen>10851</impot-moyen>
+        <code-postale>97113</code-postale>
+      </commune>
+    </departement>
+  </region>
+  <region nom="GUYANE">
+    <departement nom="GUYANE">
+      <commune nom="CAYENNE">
+        <nombre-redevable>60</nombre-redevable>
+        <patrimoine-moyen>2722788</patrimoine-moyen>
+        <impot-moyen>14709</impot-moyen>
+        <code-postale>97302</code-postale>
+      </commune>
+      <commune nom="REMIRE-MONTJOLY">
+        <nombre-redevable>56</nombre-redevable>
+        <patrimoine-moyen>2736079</patrimoine-moyen>
+        <impot-moyen>13468</impot-moyen>
+        <code-postale>97309</code-postale>
+      </commune>
+    </departement>
+  </region>
+  <region nom="LES-HAUTS-DE-FRANCE">
+    <departement nom="AISNE">
+      <commune nom="LAON">
+        <nombre-redevable>64</nombre-redevable>
+        <patrimoine-moyen>2364416</patrimoine-moyen>
+        <impot-moyen>7868</impot-moyen>
+        <code-postale>02408</code-postale>
+      </commune>
+      <commune nom="SAINTQUENTIN">
+        <nombre-redevable>156</nombre-redevable>
+        <patrimoine-moyen>2635912</patrimoine-moyen>
+        <impot-moyen>12004</impot-moyen>
+        <code-postale>02691</code-postale>
+      </commune>
+      <commune nom="SOISSONS">
+        <nombre-redevable>165</nombre-redevable>
+        <patrimoine-moyen>2525140</patrimoine-moyen>
+        <impot-moyen>11432</impot-moyen>
+        <code-postale>02722</code-postale>
+      </commune>
+    </departement>
+    <departement nom="NORD">
+      <commune nom="CAMBRAI">
+        <nombre-redevable>156</nombre-redevable>
+        <patrimoine-moyen>2667042</patrimoine-moyen>
+        <impot-moyen>8898</impot-moyen>
+        <code-postale>59122</code-postale>
+      </commune>
+      <commune nom="CROIX">
+        <nombre-redevable>284</nombre-redevable>
+        <patrimoine-moyen>4230316</patrimoine-moyen>
+        <impot-moyen>18017</impot-moyen>
+        <code-postale>59163</code-postale>
+      </commune>
+      <commune nom="DOUAI">
+        <nombre-redevable>148</nombre-redevable>
+        <patrimoine-moyen>2458772</patrimoine-moyen>
+        <impot-moyen>9626</impot-moyen>
+        <code-postale>59178</code-postale>
+      </commune>
+      <commune nom="DUNKERQUE">
+        <nombre-redevable>263</nombre-redevable>
+        <patrimoine-moyen>2360639</patrimoine-moyen>
+        <impot-moyen>8222</impot-moyen>
+        <code-postale>59183</code-postale>
+      </commune>
+      <commune nom="HALLUIN">
+        <nombre-redevable>53</nombre-redevable>
+        <patrimoine-moyen>2343109</patrimoine-moyen>
+        <impot-moyen>8025</impot-moyen>
+        <code-postale>59279</code-postale>
+      </commune>
+      <commune nom="HAZEBROUCK">
+        <nombre-redevable>100</nombre-redevable>
+        <patrimoine-moyen>2476886</patrimoine-moyen>
+        <impot-moyen>10649</impot-moyen>
+        <code-postale>59295</code-postale>
+      </commune>
+      <commune nom="LAMADELEINE">
+        <nombre-redevable>169</nombre-redevable>
+        <patrimoine-moyen>2806195</patrimoine-moyen>
+        <impot-moyen>10995</impot-moyen>
+        <code-postale>59368</code-postale>
+      </commune>
+      <commune nom="LAMBERSART">
+        <nombre-redevable>264</nombre-redevable>
+        <patrimoine-moyen>2723507</patrimoine-moyen>
+        <impot-moyen>11483</impot-moyen>
+        <code-postale>59328</code-postale>
+      </commune>
+      <commune nom="LILLE">
+        <nombre-redevable>973</nombre-redevable>
+        <patrimoine-moyen>2705935</patrimoine-moyen>
+        <impot-moyen>10728</impot-moyen>
+        <code-postale>59350</code-postale>
+      </commune>
+      <commune nom="MARCQENBAROEUL">
+        <nombre-redevable>815</nombre-redevable>
+        <patrimoine-moyen>3379017</patrimoine-moyen>
+        <impot-moyen>14382</impot-moyen>
+        <code-postale>59378</code-postale>
+      </commune>
+      <commune nom="ROUBAIX">
+        <nombre-redevable>137</nombre-redevable>
+        <patrimoine-moyen>3123752</patrimoine-moyen>
+        <impot-moyen>14017</impot-moyen>
+        <code-postale>59512</code-postale>
+      </commune>
+      <commune nom="TOURCOING">
+        <nombre-redevable>117</nombre-redevable>
+        <patrimoine-moyen>2212724</patrimoine-moyen>
+        <impot-moyen>7711</impot-moyen>
+        <code-postale>59599</code-postale>
+      </commune>
+      <commune nom="VALENCIENNES">
+        <nombre-redevable>188</nombre-redevable>
+        <patrimoine-moyen>2364520</patrimoine-moyen>
+        <impot-moyen>9104</impot-moyen>
+        <code-postale>59606</code-postale>
+      </commune>
+      <commune nom="VILLENEUVEDASCQ">
+        <nombre-redevable>379</nombre-redevable>
+        <patrimoine-moyen>3471024</patrimoine-moyen>
+        <impot-moyen>15651</impot-moyen>
+        <code-postale>59009</code-postale>
+      </commune>
+      <commune nom="WASQUEHAL">
+        <nombre-redevable>234</nombre-redevable>
+        <patrimoine-moyen>3181588</patrimoine-moyen>
+        <impot-moyen>13831</impot-moyen>
+        <code-postale>59646</code-postale>
+      </commune>
+    </departement>
+    <departement nom="OISE">
+      <commune nom="BEAUVAIS">
+        <nombre-redevable>168</nombre-redevable>
+        <patrimoine-moyen>2818031</patrimoine-moyen>
+        <impot-moyen>11533</impot-moyen>
+        <code-postale>60057</code-postale>
+      </commune>
+      <commune nom="COMPIEGNE">
+        <nombre-redevable>340</nombre-redevable>
+        <patrimoine-moyen>2769533</patrimoine-moyen>
+        <impot-moyen>10912</impot-moyen>
+        <code-postale>60159</code-postale>
+      </commune>
+    </departement>
+    <departement nom="PAS-DE-CALAIS">
+      <commune nom="ARRAS">
+        <nombre-redevable>178</nombre-redevable>
+        <patrimoine-moyen>2370878</patrimoine-moyen>
+        <impot-moyen>8108</impot-moyen>
+        <code-postale>62041</code-postale>
+      </commune>
+      <commune nom="BETHUNE">
+        <nombre-redevable>107</nombre-redevable>
+        <patrimoine-moyen>2591497</patrimoine-moyen>
+        <impot-moyen>11518</impot-moyen>
+        <code-postale>62119</code-postale>
+      </commune>
+      <commune nom="BOULOGNESURMER">
+        <nombre-redevable>73</nombre-redevable>
+        <patrimoine-moyen>2437449</patrimoine-moyen>
+        <impot-moyen>9229</impot-moyen>
+        <code-postale>62160</code-postale>
+      </commune>
+      <commune nom="CALAIS">
+        <nombre-redevable>92</nombre-redevable>
+        <patrimoine-moyen>2477918</patrimoine-moyen>
+        <impot-moyen>10303</impot-moyen>
+        <code-postale>62193</code-postale>
+      </commune>
+      <commune nom="LENS">
+        <nombre-redevable>60</nombre-redevable>
+        <patrimoine-moyen>2617825</patrimoine-moyen>
+        <impot-moyen>10540</impot-moyen>
+        <code-postale>62498</code-postale>
+      </commune>
+    </departement>
+    <departement nom="SOMME">
+      <commune nom="ABBEVILLE">
+        <nombre-redevable>72</nombre-redevable>
+        <patrimoine-moyen>2594570</patrimoine-moyen>
+        <impot-moyen>7555</impot-moyen>
+        <code-postale>80001</code-postale>
+      </commune>
+      <commune nom="AMIENS">
+        <nombre-redevable>512</nombre-redevable>
+        <patrimoine-moyen>2774534</patrimoine-moyen>
+        <impot-moyen>11065</impot-moyen>
+        <code-postale>80021</code-postale>
+      </commune>
+    </departement>
+  </region>
+  <region nom="ILE-DE-FRANCE">
+    <departement nom="ESSONNE">
+      <commune nom="ATHISMONS">
+        <nombre-redevable>73</nombre-redevable>
+        <patrimoine-moyen>2441131</patrimoine-moyen>
+        <impot-moyen>10964</impot-moyen>
+        <code-postale>91027</code-postale>
+      </commune>
+      <commune nom="BRETIGNYSURORGE">
+        <nombre-redevable>51</nombre-redevable>
+        <patrimoine-moyen>2307521</patrimoine-moyen>
+        <impot-moyen>9127</impot-moyen>
+        <code-postale>91103</code-postale>
+      </commune>
+      <commune nom="BRUNOY">
+        <nombre-redevable>166</nombre-redevable>
+        <patrimoine-moyen>2401319</patrimoine-moyen>
+        <impot-moyen>9882</impot-moyen>
+        <code-postale>91114</code-postale>
+      </commune>
+      <commune nom="CORBEILESSONNES">
+        <nombre-redevable>53</nombre-redevable>
+        <patrimoine-moyen>2803198</patrimoine-moyen>
+        <impot-moyen>10127</impot-moyen>
+        <code-postale>91174</code-postale>
+      </commune>
+      <commune nom="DRAVEIL">
+        <nombre-redevable>128</nombre-redevable>
+        <patrimoine-moyen>2474554</patrimoine-moyen>
+        <impot-moyen>8964</impot-moyen>
+        <code-postale>91201</code-postale>
+      </commune>
+      <commune nom="ETAMPES">
+        <nombre-redevable>66</nombre-redevable>
+        <patrimoine-moyen>2533716</patrimoine-moyen>
+        <impot-moyen>10541</impot-moyen>
+        <code-postale>91223</code-postale>
+      </commune>
+      <commune nom="GIFSURYVETTE">
+        <nombre-redevable>385</nombre-redevable>
+        <patrimoine-moyen>2243196</patrimoine-moyen>
+        <impot-moyen>7135</impot-moyen>
+        <code-postale>91272</code-postale>
+      </commune>
+      <commune nom="LONGJUMEAU">
+        <nombre-redevable>51</nombre-redevable>
+        <patrimoine-moyen>3033181</patrimoine-moyen>
+        <impot-moyen>15381</impot-moyen>
+        <code-postale>91345</code-postale>
+      </commune>
+      <commune nom="MASSY">
+        <nombre-redevable>102</nombre-redevable>
+        <patrimoine-moyen>2142458</patrimoine-moyen>
+        <impot-moyen>7697</impot-moyen>
+        <code-postale>91377</code-postale>
+      </commune>
+      <commune nom="MONTGERON">
+        <nombre-redevable>162</nombre-redevable>
+        <patrimoine-moyen>2462693</patrimoine-moyen>
+        <impot-moyen>8093</impot-moyen>
+        <code-postale>91421</code-postale>
+      </commune>
+      <commune nom="MORSANGSURORGE">
+        <nombre-redevable>75</nombre-redevable>
+        <patrimoine-moyen>2431240</patrimoine-moyen>
+        <impot-moyen>9341</impot-moyen>
+        <code-postale>91434</code-postale>
+      </commune>
+      <commune nom="PALAISEAU">
+        <nombre-redevable>249</nombre-redevable>
+        <patrimoine-moyen>3663182</patrimoine-moyen>
+        <impot-moyen>10959</impot-moyen>
+        <code-postale>91477</code-postale>
+      </commune>
+      <commune nom="SAVIGNYSURORGE">
+        <nombre-redevable>124</nombre-redevable>
+        <patrimoine-moyen>2138970</patrimoine-moyen>
+        <impot-moyen>7490</impot-moyen>
+        <code-postale>91589</code-postale>
+      </commune>
+      <commune nom="STEGENEVIEVEDESBOIS">
+        <nombre-redevable>154</nombre-redevable>
+        <patrimoine-moyen>2385924</patrimoine-moyen>
+        <impot-moyen>8417</impot-moyen>
+        <code-postale>91549</code-postale>
+      </commune>
+      <commune nom="VIRYCHATILLON">
+        <nombre-redevable>64</nombre-redevable>
+        <patrimoine-moyen>1983768</patrimoine-moyen>
+        <impot-moyen>5987</impot-moyen>
+        <code-postale>91687</code-postale>
+      </commune>
+      <commune nom="YERRES">
+        <nombre-redevable>131</nombre-redevable>
+        <patrimoine-moyen>2243349</patrimoine-moyen>
+        <impot-moyen>7905</impot-moyen>
+        <code-postale>91691</code-postale>
+      </commune>
+    </departement>
+    <departement nom="HAUTS-DE-SEINE">
+      <commune nom="ANTONY">
+        <nombre-redevable>860</nombre-redevable>
+        <patrimoine-moyen>2307096</patrimoine-moyen>
+        <impot-moyen>8082</impot-moyen>
+        <code-postale>92002</code-postale>
+      </commune>
+      <commune nom="ASNIERES">
+        <nombre-redevable>807</nombre-redevable>
+        <patrimoine-moyen>2502598</patrimoine-moyen>
+        <impot-moyen>9209</impot-moyen>
+        <code-postale>92004</code-postale>
+      </commune>
+      <commune nom="BAGNEUX">
+        <nombre-redevable>69</nombre-redevable>
+        <patrimoine-moyen>2059583</patrimoine-moyen>
+        <impot-moyen>6275</impot-moyen>
+        <code-postale>92007</code-postale>
+      </commune>
+      <commune nom="BOIS-COLOMBES">
+        <nombre-redevable>354</nombre-redevable>
+        <patrimoine-moyen>2387518</patrimoine-moyen>
+        <impot-moyen>8154</impot-moyen>
+        <code-postale>92009</code-postale>
+      </commune>
+      <commune nom="BOULOGNEBILLANCOURT">
+        <nombre-redevable>3914</nombre-redevable>
+        <patrimoine-moyen>2954863</patrimoine-moyen>
+        <impot-moyen>12731</impot-moyen>
+        <code-postale>92012</code-postale>
+      </commune>
+      <commune nom="BOURGLAREINE">
+        <nombre-redevable>483</nombre-redevable>
+        <patrimoine-moyen>2622848</patrimoine-moyen>
+        <impot-moyen>9392</impot-moyen>
+        <code-postale>92014</code-postale>
+      </commune>
+      <commune nom="CHATENAYMALABRY">
+        <nombre-redevable>317</nombre-redevable>
+        <patrimoine-moyen>2618242</patrimoine-moyen>
+        <impot-moyen>10802</impot-moyen>
+        <code-postale>92019</code-postale>
+      </commune>
+      <commune nom="CHATILLON">
+        <nombre-redevable>261</nombre-redevable>
+        <patrimoine-moyen>2395131</patrimoine-moyen>
+        <impot-moyen>8330</impot-moyen>
+        <code-postale>92020</code-postale>
+      </commune>
+      <commune nom="CLAMART">
+        <nombre-redevable>701</nombre-redevable>
+        <patrimoine-moyen>2600416</patrimoine-moyen>
+        <impot-moyen>9811</impot-moyen>
+        <code-postale>92023</code-postale>
+      </commune>
+      <commune nom="CLICHY">
+        <nombre-redevable>131</nombre-redevable>
+        <patrimoine-moyen>2263898</patrimoine-moyen>
+        <impot-moyen>8517</impot-moyen>
+        <code-postale>92024</code-postale>
+      </commune>
+      <commune nom="COLOMBES">
+        <nombre-redevable>463</nombre-redevable>
+        <patrimoine-moyen>2470270</patrimoine-moyen>
+        <impot-moyen>10353</impot-moyen>
+        <code-postale>92025</code-postale>
+      </commune>
+      <commune nom="COURBEVOIE">
+        <nombre-redevable>1137</nombre-redevable>
+        <patrimoine-moyen>2361265</patrimoine-moyen>
+        <impot-moyen>9045</impot-moyen>
+        <code-postale>92026</code-postale>
+      </commune>
+      <commune nom="FONTENAYAUXROSES">
+        <nombre-redevable>281</nombre-redevable>
+        <patrimoine-moyen>2136306</patrimoine-moyen>
+        <impot-moyen>6936</impot-moyen>
+        <code-postale>92032</code-postale>
+      </commune>
+      <commune nom="ISSYLESMOULINEAUX">
+        <nombre-redevable>911</nombre-redevable>
+        <patrimoine-moyen>2484814</patrimoine-moyen>
+        <impot-moyen>8867</impot-moyen>
+        <code-postale>92040</code-postale>
+      </commune>
+      <commune nom="LAGARENNECOLOMBES">
+        <nombre-redevable>353</nombre-redevable>
+        <patrimoine-moyen>2427495</patrimoine-moyen>
+        <impot-moyen>9211</impot-moyen>
+        <code-postale>92035</code-postale>
+      </commune>
+      <commune nom="LEPLESSISROBINSON">
+        <nombre-redevable>203</nombre-redevable>
+        <patrimoine-moyen>2316036</patrimoine-moyen>
+        <impot-moyen>8535</impot-moyen>
+        <code-postale>92060</code-postale>
+      </commune>
+      <commune nom="LEVALLOIS-PERRET">
+        <nombre-redevable>1374</nombre-redevable>
+        <patrimoine-moyen>3105437</patrimoine-moyen>
+        <impot-moyen>10956</impot-moyen>
+        <code-postale>92044</code-postale>
+      </commune>
+      <commune nom="MALAKOFF">
+        <nombre-redevable>161</nombre-redevable>
+        <patrimoine-moyen>2391552</patrimoine-moyen>
+        <impot-moyen>8445</impot-moyen>
+        <code-postale>92046</code-postale>
+      </commune>
+      <commune nom="MEUDON">
+        <nombre-redevable>1015</nombre-redevable>
+        <patrimoine-moyen>2710995</patrimoine-moyen>
+        <impot-moyen>10517</impot-moyen>
+        <code-postale>92048</code-postale>
+      </commune>
+      <commune nom="MONTROUGE">
+        <nombre-redevable>454</nombre-redevable>
+        <patrimoine-moyen>2558496</patrimoine-moyen>
+        <impot-moyen>10532</impot-moyen>
+        <code-postale>92049</code-postale>
+      </commune>
+      <commune nom="NANTERRE">
+        <nombre-redevable>263</nombre-redevable>
+        <patrimoine-moyen>2154642</patrimoine-moyen>
+        <impot-moyen>6608</impot-moyen>
+        <code-postale>92050</code-postale>
+      </commune>
+      <commune nom="NEUILLYSURSEINE">
+        <nombre-redevable>5834</nombre-redevable>
+        <patrimoine-moyen>6026825</patrimoine-moyen>
+        <impot-moyen>27701</impot-moyen>
+        <code-postale>92051</code-postale>
+      </commune>
+      <commune nom="PUTEAUX">
+        <nombre-redevable>371</nombre-redevable>
+        <patrimoine-moyen>2446901</patrimoine-moyen>
+        <impot-moyen>8671</impot-moyen>
+        <code-postale>92062</code-postale>
+      </commune>
+      <commune nom="RUEILMALMAISON">
+        <nombre-redevable>1638</nombre-redevable>
+        <patrimoine-moyen>2648842</patrimoine-moyen>
+        <impot-moyen>9940</impot-moyen>
+        <code-postale>92063</code-postale>
+      </commune>
+      <commune nom="SAINTCLOUD">
+        <nombre-redevable>1358</nombre-redevable>
+        <patrimoine-moyen>3272585</patrimoine-moyen>
+        <impot-moyen>14975</impot-moyen>
+        <code-postale>92064</code-postale>
+      </commune>
+      <commune nom="SEVRES">
+        <nombre-redevable>662</nombre-redevable>
+        <patrimoine-moyen>2742750</patrimoine-moyen>
+        <impot-moyen>10828</impot-moyen>
+        <code-postale>92072</code-postale>
+      </commune>
+      <commune nom="SURESNES">
+        <nombre-redevable>643</nombre-redevable>
+        <patrimoine-moyen>2600892</patrimoine-moyen>
+        <impot-moyen>10454</impot-moyen>
+        <code-postale>92073</code-postale>
+      </commune>
+      <commune nom="VANVES">
+        <nombre-redevable>383</nombre-redevable>
+        <patrimoine-moyen>2369636</patrimoine-moyen>
+        <impot-moyen>8747</impot-moyen>
+        <code-postale>92075</code-postale>
+      </commune>
+    </departement>
+    <departement nom="PARIS">
+      <commune nom="PARIS">
+        <nombre-redevable>833</nombre-redevable>
+        <patrimoine-moyen>3587881</patrimoine-moyen>
+        <impot-moyen>19208</impot-moyen>
+        <code-postale>75101</code-postale>
+      </commune>
+      <commune nom="PARIS">
+        <nombre-redevable>562</nombre-redevable>
+        <patrimoine-moyen>2720931</patrimoine-moyen>
+        <impot-moyen>10911</impot-moyen>
+        <code-postale>75102</code-postale>
+      </commune>
+      <commune nom="PARIS">
+        <nombre-redevable>1250</nombre-redevable>
+        <patrimoine-moyen>3249056</patrimoine-moyen>
+        <impot-moyen>14927</impot-moyen>
+        <code-postale>75103</code-postale>
+      </commune>
+      <commune nom="PARIS">
+        <nombre-redevable>1333</nombre-redevable>
+        <patrimoine-moyen>3731819</patrimoine-moyen>
+        <impot-moyen>18510</impot-moyen>
+        <code-postale>75104</code-postale>
+      </commune>
+      <commune nom="PARIS">
+        <nombre-redevable>2720</nombre-redevable>
+        <patrimoine-moyen>3057294</patrimoine-moyen>
+        <impot-moyen>13114</impot-moyen>
+        <code-postale>75105</code-postale>
+      </commune>
+      <commune nom="PARIS">
+        <nombre-redevable>4004</nombre-redevable>
+        <patrimoine-moyen>4576866</patrimoine-moyen>
+        <impot-moyen>23029</impot-moyen>
+        <code-postale>75106</code-postale>
+      </commune>
+      <commune nom="PARIS">
+        <nombre-redevable>5795</nombre-redevable>
+        <patrimoine-moyen>5749206</patrimoine-moyen>
+        <impot-moyen>28387</impot-moyen>
+        <code-postale>75107</code-postale>
+      </commune>
+      <commune nom="PARIS">
+        <nombre-redevable>3148</nombre-redevable>
+        <patrimoine-moyen>4445890</patrimoine-moyen>
+        <impot-moyen>21425</impot-moyen>
+        <code-postale>75108</code-postale>
+      </commune>
+      <commune nom="PARIS">
+        <nombre-redevable>1977</nombre-redevable>
+        <patrimoine-moyen>2873778</patrimoine-moyen>
+        <impot-moyen>11913</impot-moyen>
+        <code-postale>75109</code-postale>
+      </commune>
+      <commune nom="PARIS">
+        <nombre-redevable>1149</nombre-redevable>
+        <patrimoine-moyen>2673428</patrimoine-moyen>
+        <impot-moyen>11640</impot-moyen>
+        <code-postale>75110</code-postale>
+      </commune>
+      <commune nom="PARIS">
+        <nombre-redevable>2275</nombre-redevable>
+        <patrimoine-moyen>2626143</patrimoine-moyen>
+        <impot-moyen>10160</impot-moyen>
+        <code-postale>75111</code-postale>
+      </commune>
+      <commune nom="PARIS">
+        <nombre-redevable>2495</nombre-redevable>
+        <patrimoine-moyen>2514481</patrimoine-moyen>
+        <impot-moyen>9744</impot-moyen>
+        <code-postale>75112</code-postale>
+      </commune>
+      <commune nom="PARIS">
+        <nombre-redevable>2204</nombre-redevable>
+        <patrimoine-moyen>2600513</patrimoine-moyen>
+        <impot-moyen>10143</impot-moyen>
+        <code-postale>75113</code-postale>
+      </commune>
+      <commune nom="PARIS">
+        <nombre-redevable>3564</nombre-redevable>
+        <patrimoine-moyen>3006125</patrimoine-moyen>
+        <impot-moyen>12330</impot-moyen>
+        <code-postale>75114</code-postale>
+      </commune>
+      <commune nom="PARIS">
+        <nombre-redevable>6998</nombre-redevable>
+        <patrimoine-moyen>2751738</patrimoine-moyen>
+        <impot-moyen>11532</impot-moyen>
+        <code-postale>75115</code-postale>
+      </commune>
+      <commune nom="PARIS">
+        <nombre-redevable>14361</nombre-redevable>
+        <patrimoine-moyen>4469350</patrimoine-moyen>
+        <impot-moyen>21972</impot-moyen>
+        <code-postale>75116</code-postale>
+      </commune>
+      <commune nom="PARIS">
+        <nombre-redevable>6340</nombre-redevable>
+        <patrimoine-moyen>3340379</patrimoine-moyen>
+        <impot-moyen>14743</impot-moyen>
+        <code-postale>75117</code-postale>
+      </commune>
+      <commune nom="PARIS">
+        <nombre-redevable>1663</nombre-redevable>
+        <patrimoine-moyen>2910352</patrimoine-moyen>
+        <impot-moyen>12528</impot-moyen>
+        <code-postale>75118</code-postale>
+      </commune>
+      <commune nom="PARIS">
+        <nombre-redevable>1134</nombre-redevable>
+        <patrimoine-moyen>2572157</patrimoine-moyen>
+        <impot-moyen>9961</impot-moyen>
+        <code-postale>75119</code-postale>
+      </commune>
+      <commune nom="PARIS">
+        <nombre-redevable>1199</nombre-redevable>
+        <patrimoine-moyen>2531889</patrimoine-moyen>
+        <impot-moyen>9257</impot-moyen>
+        <code-postale>75120</code-postale>
+      </commune>
+    </departement>
+    <departement nom="SEINE-ET-MARNE">
+      <commune nom="BUSSYSTGEORGES">
+        <nombre-redevable>85</nombre-redevable>
+        <patrimoine-moyen>2440053</patrimoine-moyen>
+        <impot-moyen>8980</impot-moyen>
+        <code-postale>77058</code-postale>
+      </commune>
+      <commune nom="CHELLES">
+        <nombre-redevable>133</nombre-redevable>
+        <patrimoine-moyen>2238734</patrimoine-moyen>
+        <impot-moyen>7978</impot-moyen>
+        <code-postale>77108</code-postale>
+      </commune>
+      <commune nom="LAGNYSURMARNE">
+        <nombre-redevable>96</nombre-redevable>
+        <patrimoine-moyen>3168705</patrimoine-moyen>
+        <impot-moyen>11515</impot-moyen>
+        <code-postale>77243</code-postale>
+      </commune>
+      <commune nom="MEAUX">
+        <nombre-redevable>132</nombre-redevable>
+        <patrimoine-moyen>2425275</patrimoine-moyen>
+        <impot-moyen>9863</impot-moyen>
+        <code-postale>77284</code-postale>
+      </commune>
+      <commune nom="MELUN">
+        <nombre-redevable>105</nombre-redevable>
+        <patrimoine-moyen>2759449</patrimoine-moyen>
+        <impot-moyen>12051</impot-moyen>
+        <code-postale>77288</code-postale>
+      </commune>
+      <commune nom="OZOIRLAFERRIERE">
+        <nombre-redevable>92</nombre-redevable>
+        <patrimoine-moyen>2641116</patrimoine-moyen>
+        <impot-moyen>11815</impot-moyen>
+        <code-postale>77350</code-postale>
+      </commune>
+      <commune nom="PONTAULTCOMBAULT">
+        <nombre-redevable>75</nombre-redevable>
+        <patrimoine-moyen>2162208</patrimoine-moyen>
+        <impot-moyen>8218</impot-moyen>
+        <code-postale>77373</code-postale>
+      </commune>
+    </departement>
+    <departement nom="SEINE-SAINT-DENIS">
+      <commune nom="AUBERVILLIERS">
+        <nombre-redevable>50</nombre-redevable>
+        <patrimoine-moyen>2387678</patrimoine-moyen>
+        <impot-moyen>10624</impot-moyen>
+        <code-postale>93001</code-postale>
+      </commune>
+      <commune nom="AULNAYSOUSBOIS">
+        <nombre-redevable>159</nombre-redevable>
+        <patrimoine-moyen>2311056</patrimoine-moyen>
+        <impot-moyen>8053</impot-moyen>
+        <code-postale>93005</code-postale>
+      </commune>
+      <commune nom="BAGNOLET">
+        <nombre-redevable>64</nombre-redevable>
+        <patrimoine-moyen>2263788</patrimoine-moyen>
+        <impot-moyen>7588</impot-moyen>
+        <code-postale>93006</code-postale>
+      </commune>
+      <commune nom="DRANCY">
+        <nombre-redevable>86</nombre-redevable>
+        <patrimoine-moyen>2337646</patrimoine-moyen>
+        <impot-moyen>9115</impot-moyen>
+        <code-postale>93029</code-postale>
+      </commune>
+      <commune nom="EPINAYSURSEINE">
+        <nombre-redevable>53</nombre-redevable>
+        <patrimoine-moyen>2191916</patrimoine-moyen>
+        <impot-moyen>7754</impot-moyen>
+        <code-postale>93031</code-postale>
+      </commune>
+      <commune nom="GAGNY">
+        <nombre-redevable>118</nombre-redevable>
+        <patrimoine-moyen>2305261</patrimoine-moyen>
+        <impot-moyen>7310</impot-moyen>
+        <code-postale>93032</code-postale>
+      </commune>
+      <commune nom="LESLILAS">
+        <nombre-redevable>145</nombre-redevable>
+        <patrimoine-moyen>2822833</patrimoine-moyen>
+        <impot-moyen>15409</impot-moyen>
+        <code-postale>93045</code-postale>
+      </commune>
+      <commune nom="LESPAVILLONSSOUSBOIS">
+        <nombre-redevable>80</nombre-redevable>
+        <patrimoine-moyen>2208801</patrimoine-moyen>
+        <impot-moyen>8266</impot-moyen>
+        <code-postale>93057</code-postale>
+      </commune>
+      <commune nom="LIVRYGARGAN">
+        <nombre-redevable>106</nombre-redevable>
+        <patrimoine-moyen>2130236</patrimoine-moyen>
+        <impot-moyen>7990</impot-moyen>
+        <code-postale>93046</code-postale>
+      </commune>
+      <commune nom="MONTFERMEIL">
+        <nombre-redevable>53</nombre-redevable>
+        <patrimoine-moyen>2307578</patrimoine-moyen>
+        <impot-moyen>9598</impot-moyen>
+        <code-postale>93047</code-postale>
+      </commune>
+      <commune nom="MONTREUILSOUSBOIS">
+        <nombre-redevable>262</nombre-redevable>
+        <patrimoine-moyen>2383076</patrimoine-moyen>
+        <impot-moyen>9726</impot-moyen>
+        <code-postale>93048</code-postale>
+      </commune>
+      <commune nom="NEUILLYPLAISANCE">
+        <nombre-redevable>75</nombre-redevable>
+        <patrimoine-moyen>2141589</patrimoine-moyen>
+        <impot-moyen>7660</impot-moyen>
+        <code-postale>93049</code-postale>
+      </commune>
+      <commune nom="NOISYLEGRAND">
+        <nombre-redevable>163</nombre-redevable>
+        <patrimoine-moyen>2451070</patrimoine-moyen>
+        <impot-moyen>11762</impot-moyen>
+        <code-postale>93051</code-postale>
+      </commune>
+      <commune nom="NOISYLESEC">
+        <nombre-redevable>53</nombre-redevable>
+        <patrimoine-moyen>2264596</patrimoine-moyen>
+        <impot-moyen>8980</impot-moyen>
+        <code-postale>93053</code-postale>
+      </commune>
+      <commune nom="PANTIN">
+        <nombre-redevable>78</nombre-redevable>
+        <patrimoine-moyen>2182609</patrimoine-moyen>
+        <impot-moyen>8257</impot-moyen>
+        <code-postale>93055</code-postale>
+      </commune>
+      <commune nom="ROSNYSOUSBOIS">
+        <nombre-redevable>86</nombre-redevable>
+        <patrimoine-moyen>2155388</patrimoine-moyen>
+        <impot-moyen>7582</impot-moyen>
+        <code-postale>93064</code-postale>
+      </commune>
+      <commune nom="SAINTDENIS">
+        <nombre-redevable>51</nombre-redevable>
+        <patrimoine-moyen>2399702</patrimoine-moyen>
+        <impot-moyen>10191</impot-moyen>
+        <code-postale>93066</code-postale>
+      </commune>
+      <commune nom="SAINTOUEN">
+        <nombre-redevable>75</nombre-redevable>
+        <patrimoine-moyen>2184032</patrimoine-moyen>
+        <impot-moyen>8255</impot-moyen>
+        <code-postale>93070</code-postale>
+      </commune>
+      <commune nom="VILLEMOMBLE">
+        <nombre-redevable>188</nombre-redevable>
+        <patrimoine-moyen>2628013</patrimoine-moyen>
+        <impot-moyen>10178</impot-moyen>
+        <code-postale>93077</code-postale>
+      </commune>
+    </departement>
+    <departement nom="VAL-DOISE">
+      <commune nom="ARGENTEUIL">
+        <nombre-redevable>137</nombre-redevable>
+        <patrimoine-moyen>2506511</patrimoine-moyen>
+        <impot-moyen>9330</impot-moyen>
+        <code-postale>95018</code-postale>
+      </commune>
+      <commune nom="CERGY">
+        <nombre-redevable>93</nombre-redevable>
+        <patrimoine-moyen>2073667</patrimoine-moyen>
+        <impot-moyen>6496</impot-moyen>
+        <code-postale>95127</code-postale>
+      </commune>
+      <commune nom="CORMEILLESENPARISIS">
+        <nombre-redevable>126</nombre-redevable>
+        <patrimoine-moyen>2142129</patrimoine-moyen>
+        <impot-moyen>7694</impot-moyen>
+        <code-postale>95176</code-postale>
+      </commune>
+      <commune nom="DEUILLABARRE">
+        <nombre-redevable>113</nombre-redevable>
+        <patrimoine-moyen>2150035</patrimoine-moyen>
+        <impot-moyen>7416</impot-moyen>
+        <code-postale>95197</code-postale>
+      </commune>
+      <commune nom="EAUBONNE">
+        <nombre-redevable>136</nombre-redevable>
+        <patrimoine-moyen>2116810</patrimoine-moyen>
+        <impot-moyen>7395</impot-moyen>
+        <code-postale>95203</code-postale>
+      </commune>
+      <commune nom="ERMONT">
+        <nombre-redevable>97</nombre-redevable>
+        <patrimoine-moyen>2105383</patrimoine-moyen>
+        <impot-moyen>6866</impot-moyen>
+        <code-postale>95219</code-postale>
+      </commune>
+      <commune nom="FRANCONVILLE">
+        <nombre-redevable>58</nombre-redevable>
+        <patrimoine-moyen>3675783</patrimoine-moyen>
+        <impot-moyen>10441</impot-moyen>
+        <code-postale>95252</code-postale>
+      </commune>
+      <commune nom="HERBLAY">
+        <nombre-redevable>115</nombre-redevable>
+        <patrimoine-moyen>2285068</patrimoine-moyen>
+        <impot-moyen>8953</impot-moyen>
+        <code-postale>95306</code-postale>
+      </commune>
+      <commune nom="MONTMORENCY">
+        <nombre-redevable>312</nombre-redevable>
+        <patrimoine-moyen>3284745</patrimoine-moyen>
+        <impot-moyen>12998</impot-moyen>
+        <code-postale>95428</code-postale>
+      </commune>
+      <commune nom="PONTOISE">
+        <nombre-redevable>98</nombre-redevable>
+        <patrimoine-moyen>2469707</patrimoine-moyen>
+        <impot-moyen>9528</impot-moyen>
+        <code-postale>95500</code-postale>
+      </commune>
+      <commune nom="SANNOIS">
+        <nombre-redevable>78</nombre-redevable>
+        <patrimoine-moyen>2384576</patrimoine-moyen>
+        <impot-moyen>7886</impot-moyen>
+        <code-postale>95582</code-postale>
+      </commune>
+      <commune nom="STGRATIEN">
+        <nombre-redevable>129</nombre-redevable>
+        <patrimoine-moyen>2521183</patrimoine-moyen>
+        <impot-moyen>9333</impot-moyen>
+        <code-postale>95555</code-postale>
+      </commune>
+      <commune nom="TAVERNY">
+        <nombre-redevable>82</nombre-redevable>
+        <patrimoine-moyen>2136790</patrimoine-moyen>
+        <impot-moyen>7838</impot-moyen>
+        <code-postale>95607</code-postale>
+      </commune>
+    </departement>
+    <departement nom="VAL-DE-MARNE">
+      <commune nom="ALFORTVILLE">
+        <nombre-redevable>78</nombre-redevable>
+        <patrimoine-moyen>2146878</patrimoine-moyen>
+        <impot-moyen>7735</impot-moyen>
+        <code-postale>94002</code-postale>
+      </commune>
+      <commune nom="ARCUEIL">
+        <nombre-redevable>66</nombre-redevable>
+        <patrimoine-moyen>2225945</patrimoine-moyen>
+        <impot-moyen>7652</impot-moyen>
+        <code-postale>94003</code-postale>
+      </commune>
+      <commune nom="CACHAN">
+        <nombre-redevable>166</nombre-redevable>
+        <patrimoine-moyen>2347531</patrimoine-moyen>
+        <impot-moyen>7601</impot-moyen>
+        <code-postale>94016</code-postale>
+      </commune>
+      <commune nom="CHAMPIGNYSURMARNE">
+        <nombre-redevable>161</nombre-redevable>
+        <patrimoine-moyen>2536146</patrimoine-moyen>
+        <impot-moyen>10167</impot-moyen>
+        <code-postale>94017</code-postale>
+      </commune>
+      <commune nom="CHARENTONLEPONT">
+        <nombre-redevable>475</nombre-redevable>
+        <patrimoine-moyen>2363337</patrimoine-moyen>
+        <impot-moyen>8610</impot-moyen>
+        <code-postale>94018</code-postale>
+      </commune>
+      <commune nom="CHOISYLEROI">
+        <nombre-redevable>77</nombre-redevable>
+        <patrimoine-moyen>2423825</patrimoine-moyen>
+        <impot-moyen>9593</impot-moyen>
+        <code-postale>94022</code-postale>
+      </commune>
+      <commune nom="CRETEIL">
+        <nombre-redevable>244</nombre-redevable>
+        <patrimoine-moyen>2171684</patrimoine-moyen>
+        <impot-moyen>7142</impot-moyen>
+        <code-postale>94028</code-postale>
+      </commune>
+      <commune nom="FONTENAYSOUSBOIS">
+        <nombre-redevable>607</nombre-redevable>
+        <patrimoine-moyen>2787057</patrimoine-moyen>
+        <impot-moyen>11184</impot-moyen>
+        <code-postale>94033</code-postale>
+      </commune>
+      <commune nom="FRESNES">
+        <nombre-redevable>64</nombre-redevable>
+        <patrimoine-moyen>2201585</patrimoine-moyen>
+        <impot-moyen>7492</impot-moyen>
+        <code-postale>94034</code-postale>
+      </commune>
+      <commune nom="IVRYSURSEINE">
+        <nombre-redevable>114</nombre-redevable>
+        <patrimoine-moyen>2134149</patrimoine-moyen>
+        <impot-moyen>7221</impot-moyen>
+        <code-postale>94041</code-postale>
+      </commune>
+      <commune nom="LHAYLESROSES">
+        <nombre-redevable>199</nombre-redevable>
+        <patrimoine-moyen>2164239</patrimoine-moyen>
+        <impot-moyen>7552</impot-moyen>
+        <code-postale>94038</code-postale>
+      </commune>
+      <commune nom="LEKREMLINBICETRE">
+        <nombre-redevable>66</nombre-redevable>
+        <patrimoine-moyen>2022728</patrimoine-moyen>
+        <impot-moyen>6069</impot-moyen>
+        <code-postale>94043</code-postale>
+      </commune>
+      <commune nom="LEPERREUXSURMARNE">
+        <nombre-redevable>464</nombre-redevable>
+        <patrimoine-moyen>2408563</patrimoine-moyen>
+        <impot-moyen>8765</impot-moyen>
+        <code-postale>94058</code-postale>
+      </commune>
+      <commune nom="MAISONSALFORT">
+        <nombre-redevable>314</nombre-redevable>
+        <patrimoine-moyen>2380643</patrimoine-moyen>
+        <impot-moyen>8114</impot-moyen>
+        <code-postale>94046</code-postale>
+      </commune>
+      <commune nom="NOGENTSURMARNE">
+        <nombre-redevable>760</nombre-redevable>
+        <patrimoine-moyen>2844134</patrimoine-moyen>
+        <impot-moyen>11372</impot-moyen>
+        <code-postale>94052</code-postale>
+      </commune>
+      <commune nom="SAINTMANDE">
+        <nombre-redevable>821</nombre-redevable>
+        <patrimoine-moyen>2976369</patrimoine-moyen>
+        <impot-moyen>13085</impot-moyen>
+        <code-postale>94067</code-postale>
+      </commune>
+      <commune nom="SAINTMAURDESFOSSES">
+        <nombre-redevable>1678</nombre-redevable>
+        <patrimoine-moyen>2697372</patrimoine-moyen>
+        <impot-moyen>10709</impot-moyen>
+        <code-postale>94068</code-postale>
+      </commune>
+      <commune nom="SUCYENBRIE">
+        <nombre-redevable>201</nombre-redevable>
+        <patrimoine-moyen>2259509</patrimoine-moyen>
+        <impot-moyen>8335</impot-moyen>
+        <code-postale>94071</code-postale>
+      </commune>
+      <commune nom="THIAIS">
+        <nombre-redevable>133</nombre-redevable>
+        <patrimoine-moyen>2364987</patrimoine-moyen>
+        <impot-moyen>9203</impot-moyen>
+        <code-postale>94073</code-postale>
+      </commune>
+      <commune nom="VILLEJUIF">
+        <nombre-redevable>110</nombre-redevable>
+        <patrimoine-moyen>2347383</patrimoine-moyen>
+        <impot-moyen>8389</impot-moyen>
+        <code-postale>94076</code-postale>
+      </commune>
+      <commune nom="VILLIERSSURMARNE">
+        <nombre-redevable>80</nombre-redevable>
+        <patrimoine-moyen>2164832</patrimoine-moyen>
+        <impot-moyen>7487</impot-moyen>
+        <code-postale>94079</code-postale>
+      </commune>
+      <commune nom="VINCENNES">
+        <nombre-redevable>1082</nombre-redevable>
+        <patrimoine-moyen>2422250</patrimoine-moyen>
+        <impot-moyen>9172</impot-moyen>
+        <code-postale>94080</code-postale>
+      </commune>
+      <commune nom="VITRYSURSEINE">
+        <nombre-redevable>139</nombre-redevable>
+        <patrimoine-moyen>2155035</patrimoine-moyen>
+        <impot-moyen>7228</impot-moyen>
+        <code-postale>94081</code-postale>
+      </commune>
+    </departement>
+    <departement nom="YVELINES">
+      <commune nom="CHATOU">
+        <nombre-redevable>702</nombre-redevable>
+        <patrimoine-moyen>2620758</patrimoine-moyen>
+        <impot-moyen>11152</impot-moyen>
+        <code-postale>78146</code-postale>
+      </commune>
+      <commune nom="CONFLANS-SAINTE-HONORINE">
+        <nombre-redevable>115</nombre-redevable>
+        <patrimoine-moyen>2327748</patrimoine-moyen>
+        <impot-moyen>8190</impot-moyen>
+        <code-postale>78172</code-postale>
+      </commune>
+      <commune nom="ELANCOURT">
+        <nombre-redevable>68</nombre-redevable>
+        <patrimoine-moyen>2042951</patrimoine-moyen>
+        <impot-moyen>6343</impot-moyen>
+        <code-postale>78208</code-postale>
+      </commune>
+      <commune nom="GUYANCOURT">
+        <nombre-redevable>66</nombre-redevable>
+        <patrimoine-moyen>1948231</patrimoine-moyen>
+        <impot-moyen>4879</impot-moyen>
+        <code-postale>78297</code-postale>
+      </commune>
+      <commune nom="HOUILLES">
+        <nombre-redevable>152</nombre-redevable>
+        <patrimoine-moyen>2068877</patrimoine-moyen>
+        <impot-moyen>7120</impot-moyen>
+        <code-postale>78311</code-postale>
+      </commune>
+      <commune nom="LACELLE-SAINT-CLOUD">
+        <nombre-redevable>520</nombre-redevable>
+        <patrimoine-moyen>2918023</patrimoine-moyen>
+        <impot-moyen>11347</impot-moyen>
+        <code-postale>78126</code-postale>
+      </commune>
+      <commune nom="LECHESNAY">
+        <nombre-redevable>744</nombre-redevable>
+        <patrimoine-moyen>2599059</patrimoine-moyen>
+        <impot-moyen>10539</impot-moyen>
+        <code-postale>78158</code-postale>
+      </commune>
+      <commune nom="MAISONS-LAFFITTE">
+        <nombre-redevable>631</nombre-redevable>
+        <patrimoine-moyen>2571855</patrimoine-moyen>
+        <impot-moyen>9763</impot-moyen>
+        <code-postale>78358</code-postale>
+      </commune>
+      <commune nom="MANTES-LA-JOLIE">
+        <nombre-redevable>91</nombre-redevable>
+        <patrimoine-moyen>2592839</patrimoine-moyen>
+        <impot-moyen>11643</impot-moyen>
+        <code-postale>78361</code-postale>
+      </commune>
+      <commune nom="MONTIGNY-LE-BRETONNEUX">
+        <nombre-redevable>125</nombre-redevable>
+        <patrimoine-moyen>2054909</patrimoine-moyen>
+        <impot-moyen>6484</impot-moyen>
+        <code-postale>78423</code-postale>
+      </commune>
+      <commune nom="PLAISIR">
+        <nombre-redevable>119</nombre-redevable>
+        <patrimoine-moyen>2322430</patrimoine-moyen>
+        <impot-moyen>7536</impot-moyen>
+        <code-postale>78490</code-postale>
+      </commune>
+      <commune nom="POISSY">
+        <nombre-redevable>151</nombre-redevable>
+        <patrimoine-moyen>2255603</patrimoine-moyen>
+        <impot-moyen>8424</impot-moyen>
+        <code-postale>78498</code-postale>
+      </commune>
+      <commune nom="RAMBOUILLET">
+        <nombre-redevable>246</nombre-redevable>
+        <patrimoine-moyen>2395477</patrimoine-moyen>
+        <impot-moyen>8503</impot-moyen>
+        <code-postale>78517</code-postale>
+      </commune>
+      <commune nom="SAINT-GERMAIN-EN-LAYE">
+        <nombre-redevable>1255</nombre-redevable>
+        <patrimoine-moyen>2804097</patrimoine-moyen>
+        <impot-moyen>11332</impot-moyen>
+        <code-postale>78551</code-postale>
+      </commune>
+      <commune nom="SARTROUVILLE">
+        <nombre-redevable>170</nombre-redevable>
+        <patrimoine-moyen>2170122</patrimoine-moyen>
+        <impot-moyen>7289</impot-moyen>
+        <code-postale>78586</code-postale>
+      </commune>
+      <commune nom="VELIZY-VILLACOUBLAY">
+        <nombre-redevable>132</nombre-redevable>
+        <patrimoine-moyen>2029017</patrimoine-moyen>
+        <impot-moyen>6822</impot-moyen>
+        <code-postale>78640</code-postale>
+      </commune>
+      <commune nom="VERSAILLES">
+        <nombre-redevable>2728</nombre-redevable>
+        <patrimoine-moyen>2851063</patrimoine-moyen>
+        <impot-moyen>11761</impot-moyen>
+        <code-postale>78646</code-postale>
+      </commune>
+    </departement>
+  </region>
+  <region nom="MARTINIQUE">
+    <departement nom="MARTINIQUE">
+      <commune nom="FORTDEFRANCE">
+        <nombre-redevable>85</nombre-redevable>
+        <patrimoine-moyen>3254545</patrimoine-moyen>
+        <impot-moyen>14676</impot-moyen>
+        <code-postale>97209</code-postale>
+      </commune>
+      <commune nom="SCHOELCHER">
+        <nombre-redevable>66</nombre-redevable>
+        <patrimoine-moyen>2797612</patrimoine-moyen>
+        <impot-moyen>14089</impot-moyen>
+        <code-postale>97229</code-postale>
+      </commune>
+    </departement>
+  </region>
+  <region nom="NORMANDIE">
+    <departement nom="CALVADOS">
+      <commune nom="CAEN">
+        <nombre-redevable>581</nombre-redevable>
+        <patrimoine-moyen>2773858</patrimoine-moyen>
+        <impot-moyen>11339</impot-moyen>
+        <code-postale>14118</code-postale>
+      </commune>
+    </departement>
+    <departement nom="EURE">
+      <commune nom="EVREUX">
+        <nombre-redevable>137</nombre-redevable>
+        <patrimoine-moyen>2478401</patrimoine-moyen>
+        <impot-moyen>10847</impot-moyen>
+        <code-postale>27229</code-postale>
+      </commune>
+      <commune nom="VERNON">
+        <nombre-redevable>99</nombre-redevable>
+        <patrimoine-moyen>2168318</patrimoine-moyen>
+        <impot-moyen>8027</impot-moyen>
+        <code-postale>27681</code-postale>
+      </commune>
+    </departement>
+    <departement nom="MANCHE">
+      <commune nom="CHERBOURG-EN-COTENTIN">
+        <nombre-redevable>162</nombre-redevable>
+        <patrimoine-moyen>2450622</patrimoine-moyen>
+        <impot-moyen>8990</impot-moyen>
+        <code-postale>50129</code-postale>
+      </commune>
+      <commune nom="SAINTLO">
+        <nombre-redevable>57</nombre-redevable>
+        <patrimoine-moyen>2421166</patrimoine-moyen>
+        <impot-moyen>7810</impot-moyen>
+        <code-postale>50502</code-postale>
+      </commune>
+    </departement>
+    <departement nom="ORNE">
+      <commune nom="ALENCON">
+        <nombre-redevable>82</nombre-redevable>
+        <patrimoine-moyen>2333240</patrimoine-moyen>
+        <impot-moyen>9328</impot-moyen>
+        <code-postale>61001</code-postale>
+      </commune>
+    </departement>
+    <departement nom="SEINE-MARITIME">
+      <commune nom="DIEPPE">
+        <nombre-redevable>102</nombre-redevable>
+        <patrimoine-moyen>2195137</patrimoine-moyen>
+        <impot-moyen>7666</impot-moyen>
+        <code-postale>76217</code-postale>
+      </commune>
+      <commune nom="LEHAVRE">
+        <nombre-redevable>390</nombre-redevable>
+        <patrimoine-moyen>2503817</patrimoine-moyen>
+        <impot-moyen>9636</impot-moyen>
+        <code-postale>76351</code-postale>
+      </commune>
+      <commune nom="ROUEN">
+        <nombre-redevable>518</nombre-redevable>
+        <patrimoine-moyen>2483610</patrimoine-moyen>
+        <impot-moyen>9602</impot-moyen>
+        <code-postale>76540</code-postale>
+      </commune>
+    </departement>
+  </region>
+  <region nom="NOUVELLE-AQUITAINE">
+    <departement nom="CHARENTE">
+      <commune nom="ANGOULEME">
+        <nombre-redevable>137</nombre-redevable>
+        <patrimoine-moyen>2611329</patrimoine-moyen>
+        <impot-moyen>9949</impot-moyen>
+        <code-postale>16015</code-postale>
+      </commune>
+    </departement>
+    <departement nom="CHARENTE-MARITIME">
+      <commune nom="LAROCHELLE">
+        <nombre-redevable>619</nombre-redevable>
+        <patrimoine-moyen>2585756</patrimoine-moyen>
+        <impot-moyen>10248</impot-moyen>
+        <code-postale>17300</code-postale>
+      </commune>
+      <commune nom="ROCHEFORT">
+        <nombre-redevable>52</nombre-redevable>
+        <patrimoine-moyen>2328288</patrimoine-moyen>
+        <impot-moyen>8243</impot-moyen>
+        <code-postale>17299</code-postale>
+      </commune>
+      <commune nom="SAINTES">
+        <nombre-redevable>112</nombre-redevable>
+        <patrimoine-moyen>2513451</patrimoine-moyen>
+        <impot-moyen>10671</impot-moyen>
+        <code-postale>17415</code-postale>
+      </commune>
+    </departement>
+    <departement nom="CORREZE">
+      <commune nom="BRIVE">
+        <nombre-redevable>228</nombre-redevable>
+        <patrimoine-moyen>2692768</patrimoine-moyen>
+        <impot-moyen>11931</impot-moyen>
+        <code-postale>19031</code-postale>
+      </commune>
+    </departement>
+    <departement nom="DEUX-SEVRES">
+      <commune nom="NIORT">
+        <nombre-redevable>222</nombre-redevable>
+        <patrimoine-moyen>2811166</patrimoine-moyen>
+        <impot-moyen>10774</impot-moyen>
+        <code-postale>79191</code-postale>
+      </commune>
+    </departement>
+    <departement nom="DORDOGNE">
+      <commune nom="BERGERAC">
+        <nombre-redevable>120</nombre-redevable>
+        <patrimoine-moyen>2091398</patrimoine-moyen>
+        <impot-moyen>7247</impot-moyen>
+        <code-postale>24037</code-postale>
+      </commune>
+      <commune nom="PERIGUEUX">
+        <nombre-redevable>110</nombre-redevable>
+        <patrimoine-moyen>2457359</patrimoine-moyen>
+        <impot-moyen>9708</impot-moyen>
+        <code-postale>24322</code-postale>
+      </commune>
+    </departement>
+    <departement nom="GIRONDE">
+      <commune nom="BEGLES">
+        <nombre-redevable>50</nombre-redevable>
+        <patrimoine-moyen>1936554</patrimoine-moyen>
+        <impot-moyen>6488</impot-moyen>
+        <code-postale>33039</code-postale>
+      </commune>
+      <commune nom="BORDEAUX">
+        <nombre-redevable>2669</nombre-redevable>
+        <patrimoine-moyen>2763813</patrimoine-moyen>
+        <impot-moyen>11027</impot-moyen>
+        <code-postale>33063</code-postale>
+      </commune>
+      <commune nom="EYSINES">
+        <nombre-redevable>100</nombre-redevable>
+        <patrimoine-moyen>2219534</patrimoine-moyen>
+        <impot-moyen>7336</impot-moyen>
+        <code-postale>33162</code-postale>
+      </commune>
+      <commune nom="GRADIGNAN">
+        <nombre-redevable>166</nombre-redevable>
+        <patrimoine-moyen>2400908</patrimoine-moyen>
+        <impot-moyen>8625</impot-moyen>
+        <code-postale>33192</code-postale>
+      </commune>
+      <commune nom="GUJAN-MESTRAS">
+        <nombre-redevable>102</nombre-redevable>
+        <patrimoine-moyen>2312495</patrimoine-moyen>
+        <impot-moyen>8765</impot-moyen>
+        <code-postale>33199</code-postale>
+      </commune>
+      <commune nom="LATESTEDEBUCH">
+        <nombre-redevable>332</nombre-redevable>
+        <patrimoine-moyen>2479844</patrimoine-moyen>
+        <impot-moyen>8859</impot-moyen>
+        <code-postale>33529</code-postale>
+      </commune>
+      <commune nom="LEBOUSCAT">
+        <nombre-redevable>363</nombre-redevable>
+        <patrimoine-moyen>3334865</patrimoine-moyen>
+        <impot-moyen>12133</impot-moyen>
+        <code-postale>33069</code-postale>
+      </commune>
+      <commune nom="LIBOURNE">
+        <nombre-redevable>125</nombre-redevable>
+        <patrimoine-moyen>2600354</patrimoine-moyen>
+        <impot-moyen>8958</impot-moyen>
+        <code-postale>33243</code-postale>
+      </commune>
+      <commune nom="MERIGNAC">
+        <nombre-redevable>293</nombre-redevable>
+        <patrimoine-moyen>2387351</patrimoine-moyen>
+        <impot-moyen>9093</impot-moyen>
+        <code-postale>33281</code-postale>
+      </commune>
+      <commune nom="PESSAC">
+        <nombre-redevable>266</nombre-redevable>
+        <patrimoine-moyen>2335014</patrimoine-moyen>
+        <impot-moyen>8610</impot-moyen>
+        <code-postale>33318</code-postale>
+      </commune>
+      <commune nom="SAINT-MEDARD-EN-JALLES">
+        <nombre-redevable>110</nombre-redevable>
+        <patrimoine-moyen>2325787</patrimoine-moyen>
+        <impot-moyen>8014</impot-moyen>
+        <code-postale>33449</code-postale>
+      </commune>
+      <commune nom="TALENCE">
+        <nombre-redevable>196</nombre-redevable>
+        <patrimoine-moyen>2485543</patrimoine-moyen>
+        <impot-moyen>10985</impot-moyen>
+        <code-postale>33522</code-postale>
+      </commune>
+      <commune nom="VILLENAVE-DORNON">
+        <nombre-redevable>93</nombre-redevable>
+        <patrimoine-moyen>2196370</patrimoine-moyen>
+        <impot-moyen>7914</impot-moyen>
+        <code-postale>33550</code-postale>
+      </commune>
+    </departement>
+    <departement nom="HAUTE-VIENNE">
+      <commune nom="LIMOGES">
+        <nombre-redevable>500</nombre-redevable>
+        <patrimoine-moyen>3118850</patrimoine-moyen>
+        <impot-moyen>12400</impot-moyen>
+        <code-postale>87085</code-postale>
+      </commune>
+    </departement>
+    <departement nom="LANDES">
+      <commune nom="DAX">
+        <nombre-redevable>105</nombre-redevable>
+        <patrimoine-moyen>2639766</patrimoine-moyen>
+        <impot-moyen>9699</impot-moyen>
+        <code-postale>40088</code-postale>
+      </commune>
+      <commune nom="MONT-DE-MARSAN">
+        <nombre-redevable>91</nombre-redevable>
+        <patrimoine-moyen>2325564</patrimoine-moyen>
+        <impot-moyen>8761</impot-moyen>
+        <code-postale>40192</code-postale>
+      </commune>
+    </departement>
+    <departement nom="LOT-ET-GARONNE">
+      <commune nom="AGEN">
+        <nombre-redevable>119</nombre-redevable>
+        <patrimoine-moyen>2647385</patrimoine-moyen>
+        <impot-moyen>10766</impot-moyen>
+        <code-postale>47001</code-postale>
+      </commune>
+      <commune nom="VILLENEUVESURLOT">
+        <nombre-redevable>62</nombre-redevable>
+        <patrimoine-moyen>2318727</patrimoine-moyen>
+        <impot-moyen>8744</impot-moyen>
+        <code-postale>47323</code-postale>
+      </commune>
+    </departement>
+    <departement nom="PYRENEES-ATLANTIQUES">
+      <commune nom="ANGLET">
+        <nombre-redevable>467</nombre-redevable>
+        <patrimoine-moyen>2491208</patrimoine-moyen>
+        <impot-moyen>9360</impot-moyen>
+        <code-postale>64024</code-postale>
+      </commune>
+      <commune nom="BAYONNE">
+        <nombre-redevable>269</nombre-redevable>
+        <patrimoine-moyen>2609393</patrimoine-moyen>
+        <impot-moyen>10926</impot-moyen>
+        <code-postale>64102</code-postale>
+      </commune>
+      <commune nom="BIARRITZ">
+        <nombre-redevable>612</nombre-redevable>
+        <patrimoine-moyen>2529373</patrimoine-moyen>
+        <impot-moyen>9808</impot-moyen>
+        <code-postale>64122</code-postale>
+      </commune>
+      <commune nom="PAU">
+        <nombre-redevable>451</nombre-redevable>
+        <patrimoine-moyen>2395498</patrimoine-moyen>
+        <impot-moyen>9181</impot-moyen>
+        <code-postale>64445</code-postale>
+      </commune>
+    </departement>
+    <departement nom="VIENNE">
+      <commune nom="CHATELLERAULT">
+        <nombre-redevable>92</nombre-redevable>
+        <patrimoine-moyen>2545732</patrimoine-moyen>
+        <impot-moyen>9396</impot-moyen>
+        <code-postale>86066</code-postale>
+      </commune>
+      <commune nom="POITIERS">
+        <nombre-redevable>310</nombre-redevable>
+        <patrimoine-moyen>2543188</patrimoine-moyen>
+        <impot-moyen>9671</impot-moyen>
+        <code-postale>86194</code-postale>
+      </commune>
+    </departement>
+  </region>
+  <region nom="OCCITANIE">
+    <departement nom="AUDE">
+      <commune nom="CARCASSONNE">
+        <nombre-redevable>155</nombre-redevable>
+        <patrimoine-moyen>2382226</patrimoine-moyen>
+        <impot-moyen>9982</impot-moyen>
+        <code-postale>11069</code-postale>
+      </commune>
+      <commune nom="NARBONNE">
+        <nombre-redevable>176</nombre-redevable>
+        <patrimoine-moyen>2349912</patrimoine-moyen>
+        <impot-moyen>8459</impot-moyen>
+        <code-postale>11262</code-postale>
+      </commune>
+    </departement>
+    <departement nom="AVEYRON">
+      <commune nom="MILLAU">
+        <nombre-redevable>72</nombre-redevable>
+        <patrimoine-moyen>2916430</patrimoine-moyen>
+        <impot-moyen>15312</impot-moyen>
+        <code-postale>12145</code-postale>
+      </commune>
+      <commune nom="RODEZ">
+        <nombre-redevable>147</nombre-redevable>
+        <patrimoine-moyen>2465113</patrimoine-moyen>
+        <impot-moyen>10379</impot-moyen>
+        <code-postale>12202</code-postale>
+      </commune>
+    </departement>
+    <departement nom="GARD">
+      <commune nom="ALES">
+        <nombre-redevable>124</nombre-redevable>
+        <patrimoine-moyen>2321344</patrimoine-moyen>
+        <impot-moyen>8616</impot-moyen>
+        <code-postale>30007</code-postale>
+      </commune>
+      <commune nom="NIMES">
+        <nombre-redevable>701</nombre-redevable>
+        <patrimoine-moyen>2424816</patrimoine-moyen>
+        <impot-moyen>9194</impot-moyen>
+        <code-postale>30189</code-postale>
+      </commune>
+    </departement>
+    <departement nom="GERS">
+      <commune nom="AUCH">
+        <nombre-redevable>82</nombre-redevable>
+        <patrimoine-moyen>2140698</patrimoine-moyen>
+        <impot-moyen>6939</impot-moyen>
+        <code-postale>32013</code-postale>
+      </commune>
+    </departement>
+    <departement nom="HAUTE-GARONNE">
+      <commune nom="BLAGNAC">
+        <nombre-redevable>101</nombre-redevable>
+        <patrimoine-moyen>2467963</patrimoine-moyen>
+        <impot-moyen>9413</impot-moyen>
+        <code-postale>31069</code-postale>
+      </commune>
+      <commune nom="COLOMIERS">
+        <nombre-redevable>101</nombre-redevable>
+        <patrimoine-moyen>2124628</patrimoine-moyen>
+        <impot-moyen>5959</impot-moyen>
+        <code-postale>31149</code-postale>
+      </commune>
+      <commune nom="MURET">
+        <nombre-redevable>91</nombre-redevable>
+        <patrimoine-moyen>2439522</patrimoine-moyen>
+        <impot-moyen>8519</impot-moyen>
+        <code-postale>31395</code-postale>
+      </commune>
+      <commune nom="TOULOUSE">
+        <nombre-redevable>2904</nombre-redevable>
+        <patrimoine-moyen>2531817</patrimoine-moyen>
+        <impot-moyen>9749</impot-moyen>
+        <code-postale>31555</code-postale>
+      </commune>
+      <commune nom="TOURNEFEUILLE">
+        <nombre-redevable>197</nombre-redevable>
+        <patrimoine-moyen>2595245</patrimoine-moyen>
+        <impot-moyen>9466</impot-moyen>
+        <code-postale>31557</code-postale>
+      </commune>
+    </departement>
+    <departement nom="HAUTES-PYRENEES">
+      <commune nom="TARBES">
+        <nombre-redevable>102</nombre-redevable>
+        <patrimoine-moyen>2332097</patrimoine-moyen>
+        <impot-moyen>7876</impot-moyen>
+        <code-postale>65440</code-postale>
+      </commune>
+    </departement>
+    <departement nom="HERAULT">
+      <commune nom="AGDE">
+        <nombre-redevable>179</nombre-redevable>
+        <patrimoine-moyen>2284252</patrimoine-moyen>
+        <impot-moyen>8572</impot-moyen>
+        <code-postale>34003</code-postale>
+      </commune>
+      <commune nom="BEZIERS">
+        <nombre-redevable>289</nombre-redevable>
+        <patrimoine-moyen>2672889</patrimoine-moyen>
+        <impot-moyen>11112</impot-moyen>
+        <code-postale>34032</code-postale>
+      </commune>
+      <commune nom="FRONTIGNAN">
+        <nombre-redevable>52</nombre-redevable>
+        <patrimoine-moyen>2290860</patrimoine-moyen>
+        <impot-moyen>8468</impot-moyen>
+        <code-postale>34108</code-postale>
+      </commune>
+      <commune nom="LUNEL">
+        <nombre-redevable>63</nombre-redevable>
+        <patrimoine-moyen>2253801</patrimoine-moyen>
+        <impot-moyen>7317</impot-moyen>
+        <code-postale>34145</code-postale>
+      </commune>
+      <commune nom="MONTPELLIER">
+        <nombre-redevable>1218</nombre-redevable>
+        <patrimoine-moyen>2516789</patrimoine-moyen>
+        <impot-moyen>8822</impot-moyen>
+        <code-postale>34172</code-postale>
+      </commune>
+      <commune nom="SETE">
+        <nombre-redevable>249</nombre-redevable>
+        <patrimoine-moyen>2590709</patrimoine-moyen>
+        <impot-moyen>8826</impot-moyen>
+        <code-postale>34301</code-postale>
+      </commune>
+    </departement>
+    <departement nom="LOT">
+      <commune nom="CAHORS">
+        <nombre-redevable>82</nombre-redevable>
+        <patrimoine-moyen>2377561</patrimoine-moyen>
+        <impot-moyen>8909</impot-moyen>
+        <code-postale>46042</code-postale>
+      </commune>
+    </departement>
+    <departement nom="PYRENEES-ORIENTALES">
+      <commune nom="PERPIGNAN">
+        <nombre-redevable>502</nombre-redevable>
+        <patrimoine-moyen>2536052</patrimoine-moyen>
+        <impot-moyen>9287</impot-moyen>
+        <code-postale>66136</code-postale>
+      </commune>
+    </departement>
+    <departement nom="TARN">
+      <commune nom="ALBI">
+        <nombre-redevable>209</nombre-redevable>
+        <patrimoine-moyen>2382995</patrimoine-moyen>
+        <impot-moyen>8558</impot-moyen>
+        <code-postale>81004</code-postale>
+      </commune>
+      <commune nom="CASTRES">
+        <nombre-redevable>149</nombre-redevable>
+        <patrimoine-moyen>2329801</patrimoine-moyen>
+        <impot-moyen>7022</impot-moyen>
+        <code-postale>81065</code-postale>
+      </commune>
+    </departement>
+    <departement nom="TARN-ET-GARONNE">
+      <commune nom="MONTAUBAN">
+        <nombre-redevable>257</nombre-redevable>
+        <patrimoine-moyen>2584540</patrimoine-moyen>
+        <impot-moyen>10394</impot-moyen>
+        <code-postale>82121</code-postale>
+      </commune>
+    </departement>
+  </region>
+  <region nom="PAYSDELALOIRE">
+    <departement nom="LOIRE-ATLANTIQUE">
+      <commune nom="NANTES">
+        <nombre-redevable>2188</nombre-redevable>
+        <patrimoine-moyen>2769962</patrimoine-moyen>
+        <impot-moyen>10459</impot-moyen>
+        <code-postale>44109</code-postale>
+      </commune>
+      <commune nom="ORVAULT">
+        <nombre-redevable>179</nombre-redevable>
+        <patrimoine-moyen>2657146</patrimoine-moyen>
+        <impot-moyen>8361</impot-moyen>
+        <code-postale>44114</code-postale>
+      </commune>
+      <commune nom="REZE">
+        <nombre-redevable>78</nombre-redevable>
+        <patrimoine-moyen>2135667</patrimoine-moyen>
+        <impot-moyen>6488</impot-moyen>
+        <code-postale>44143</code-postale>
+      </commune>
+      <commune nom="STHERBLAIN">
+        <nombre-redevable>83</nombre-redevable>
+        <patrimoine-moyen>2621292</patrimoine-moyen>
+        <impot-moyen>8211</impot-moyen>
+        <code-postale>44162</code-postale>
+      </commune>
+      <commune nom="STNAZAIRE">
+        <nombre-redevable>181</nombre-redevable>
+        <patrimoine-moyen>2411712</patrimoine-moyen>
+        <impot-moyen>11006</impot-moyen>
+        <code-postale>44184</code-postale>
+      </commune>
+      <commune nom="STSEBASTIENSURLOIRE">
+        <nombre-redevable>96</nombre-redevable>
+        <patrimoine-moyen>2396001</patrimoine-moyen>
+        <impot-moyen>9605</impot-moyen>
+        <code-postale>44190</code-postale>
+      </commune>
+      <commune nom="VERTOU">
+        <nombre-redevable>187</nombre-redevable>
+        <patrimoine-moyen>2602291</patrimoine-moyen>
+        <impot-moyen>7052</impot-moyen>
+        <code-postale>44215</code-postale>
+      </commune>
+    </departement>
+    <departement nom="MAINE-ET-LOIRE">
+      <commune nom="ANGERS">
+        <nombre-redevable>671</nombre-redevable>
+        <patrimoine-moyen>2474303</patrimoine-moyen>
+        <impot-moyen>8942</impot-moyen>
+        <code-postale>49007</code-postale>
+      </commune>
+      <commune nom="BEAUPREAUENMAUGES">
+        <nombre-redevable>57</nombre-redevable>
+        <patrimoine-moyen>2273971</patrimoine-moyen>
+        <impot-moyen>7520</impot-moyen>
+        <code-postale>49023</code-postale>
+      </commune>
+      <commune nom="CHOLET">
+        <nombre-redevable>196</nombre-redevable>
+        <patrimoine-moyen>2490956</patrimoine-moyen>
+        <impot-moyen>9513</impot-moyen>
+        <code-postale>49099</code-postale>
+      </commune>
+      <commune nom="SAUMUR">
+        <nombre-redevable>120</nombre-redevable>
+        <patrimoine-moyen>2488720</patrimoine-moyen>
+        <impot-moyen>7582</impot-moyen>
+        <code-postale>49328</code-postale>
+      </commune>
+      <commune nom="SEVREMOINE">
+        <nombre-redevable>58</nombre-redevable>
+        <patrimoine-moyen>2533187</patrimoine-moyen>
+        <impot-moyen>8965</impot-moyen>
+        <code-postale>49301</code-postale>
+      </commune>
+    </departement>
+    <departement nom="MAYENNE">
+      <commune nom="LAVAL">
+        <nombre-redevable>213</nombre-redevable>
+        <patrimoine-moyen>3033284</patrimoine-moyen>
+        <impot-moyen>12238</impot-moyen>
+        <code-postale>53130</code-postale>
+      </commune>
+    </departement>
+    <departement nom="SARTHE">
+      <commune nom="LEMANS">
+        <nombre-redevable>550</nombre-redevable>
+        <patrimoine-moyen>2677459</patrimoine-moyen>
+        <impot-moyen>10714</impot-moyen>
+        <code-postale>72181</code-postale>
+      </commune>
+    </departement>
+    <departement nom="VENDEE">
+      <commune nom="CHALLANS">
+        <nombre-redevable>138</nombre-redevable>
+        <patrimoine-moyen>2558756</patrimoine-moyen>
+        <impot-moyen>9409</impot-moyen>
+        <code-postale>85047</code-postale>
+      </commune>
+      <commune nom="LAROCHESURYON">
+        <nombre-redevable>174</nombre-redevable>
+        <patrimoine-moyen>2668694</patrimoine-moyen>
+        <impot-moyen>10713</impot-moyen>
+        <code-postale>85191</code-postale>
+      </commune>
+    </departement>
+  </region>
+  <region nom="PROVENCE-ALPES-COTEDAZUR">
+    <departement nom="ALPES-DE-HAUTE-PROVENCE">
+      <commune nom="MANOSQUE">
+        <nombre-redevable>127</nombre-redevable>
+        <patrimoine-moyen>2587327</patrimoine-moyen>
+        <impot-moyen>12326</impot-moyen>
+        <code-postale>04112</code-postale>
+      </commune>
+    </departement>
+    <departement nom="ALPES-MARITIMES">
+      <commune nom="ANTIBES">
+        <nombre-redevable>1019</nombre-redevable>
+        <patrimoine-moyen>2545847</patrimoine-moyen>
+        <impot-moyen>9943</impot-moyen>
+        <code-postale>06004</code-postale>
+      </commune>
+      <commune nom="CAGNESSURMER">
+        <nombre-redevable>407</nombre-redevable>
+        <patrimoine-moyen>2309780</patrimoine-moyen>
+        <impot-moyen>8697</impot-moyen>
+        <code-postale>06027</code-postale>
+      </commune>
+      <commune nom="CANNES">
+        <nombre-redevable>1511</nombre-redevable>
+        <patrimoine-moyen>3227873</patrimoine-moyen>
+        <impot-moyen>14476</impot-moyen>
+        <code-postale>06029</code-postale>
+      </commune>
+      <commune nom="GRASSE">
+        <nombre-redevable>323</nombre-redevable>
+        <patrimoine-moyen>2467098</patrimoine-moyen>
+        <impot-moyen>10536</impot-moyen>
+        <code-postale>06069</code-postale>
+      </commune>
+      <commune nom="LECANNET">
+        <nombre-redevable>382</nombre-redevable>
+        <patrimoine-moyen>2550895</patrimoine-moyen>
+        <impot-moyen>11391</impot-moyen>
+        <code-postale>06030</code-postale>
+      </commune>
+      <commune nom="MANDELIEULANAPOULE">
+        <nombre-redevable>354</nombre-redevable>
+        <patrimoine-moyen>2405839</patrimoine-moyen>
+        <impot-moyen>9718</impot-moyen>
+        <code-postale>06079</code-postale>
+      </commune>
+      <commune nom="MENTON">
+        <nombre-redevable>225</nombre-redevable>
+        <patrimoine-moyen>2269107</patrimoine-moyen>
+        <impot-moyen>8040</impot-moyen>
+        <code-postale>06083</code-postale>
+      </commune>
+      <commune nom="MONACO">
+        <nombre-redevable>590</nombre-redevable>
+        <patrimoine-moyen>3847898</patrimoine-moyen>
+        <impot-moyen>25669</impot-moyen>
+        <code-postale>06900</code-postale>
+      </commune>
+      <commune nom="NICE">
+        <nombre-redevable>3118</nombre-redevable>
+        <patrimoine-moyen>2610132</patrimoine-moyen>
+        <impot-moyen>10877</impot-moyen>
+        <code-postale>06088</code-postale>
+      </commune>
+      <commune nom="SAINTLAURENTDUVAR">
+        <nombre-redevable>212</nombre-redevable>
+        <patrimoine-moyen>2365713</patrimoine-moyen>
+        <impot-moyen>9871</impot-moyen>
+        <code-postale>06123</code-postale>
+      </commune>
+      <commune nom="VALLAURIS">
+        <nombre-redevable>337</nombre-redevable>
+        <patrimoine-moyen>2571626</patrimoine-moyen>
+        <impot-moyen>10910</impot-moyen>
+        <code-postale>06155</code-postale>
+      </commune>
+    </departement>
+    <departement nom="BOUCHES-DU-RHONE">
+      <commune nom="AIXENPROVENCE">
+        <nombre-redevable>1959</nombre-redevable>
+        <patrimoine-moyen>2807145</patrimoine-moyen>
+        <impot-moyen>10666</impot-moyen>
+        <code-postale>13001</code-postale>
+      </commune>
+      <commune nom="ALLAUCH">
+        <nombre-redevable>129</nombre-redevable>
+        <patrimoine-moyen>2376183</patrimoine-moyen>
+        <impot-moyen>10264</impot-moyen>
+        <code-postale>13002</code-postale>
+      </commune>
+      <commune nom="ARLES">
+        <nombre-redevable>198</nombre-redevable>
+        <patrimoine-moyen>2448116</patrimoine-moyen>
+        <impot-moyen>9451</impot-moyen>
+        <code-postale>13004</code-postale>
+      </commune>
+      <commune nom="AUBAGNE">
+        <nombre-redevable>236</nombre-redevable>
+        <patrimoine-moyen>2444431</patrimoine-moyen>
+        <impot-moyen>9474</impot-moyen>
+        <code-postale>13005</code-postale>
+      </commune>
+      <commune nom="ISTRES">
+        <nombre-redevable>70</nombre-redevable>
+        <patrimoine-moyen>2646607</patrimoine-moyen>
+        <impot-moyen>9034</impot-moyen>
+        <code-postale>13047</code-postale>
+      </commune>
+      <commune nom="LACIOTAT">
+        <nombre-redevable>279</nombre-redevable>
+        <patrimoine-moyen>2441527</patrimoine-moyen>
+        <impot-moyen>9311</impot-moyen>
+        <code-postale>13028</code-postale>
+      </commune>
+      <commune nom="LESPENNESMIRABEAU">
+        <nombre-redevable>71</nombre-redevable>
+        <patrimoine-moyen>2334144</patrimoine-moyen>
+        <impot-moyen>6791</impot-moyen>
+        <code-postale>13071</code-postale>
+      </commune>
+      <commune nom="MARIGNANE">
+        <nombre-redevable>71</nombre-redevable>
+        <patrimoine-moyen>2333634</patrimoine-moyen>
+        <impot-moyen>9325</impot-moyen>
+        <code-postale>13054</code-postale>
+      </commune>
+      <commune nom="MARSEILLE">
+        <nombre-redevable>3972</nombre-redevable>
+        <patrimoine-moyen>2814098</patrimoine-moyen>
+        <impot-moyen>11100</impot-moyen>
+        <code-postale>13055</code-postale>
+      </commune>
+      <commune nom="MARTIGUES">
+        <nombre-redevable>103</nombre-redevable>
+        <patrimoine-moyen>2184086</patrimoine-moyen>
+        <impot-moyen>6985</impot-moyen>
+        <code-postale>13056</code-postale>
+      </commune>
+      <commune nom="SALONDEPROVENCE">
+        <nombre-redevable>167</nombre-redevable>
+        <patrimoine-moyen>2234631</patrimoine-moyen>
+        <impot-moyen>8743</impot-moyen>
+        <code-postale>13103</code-postale>
+      </commune>
+    </departement>
+    <departement nom="HAUTES-ALPES">
+      <commune nom="GAP">
+        <nombre-redevable>222</nombre-redevable>
+        <patrimoine-moyen>2365217</patrimoine-moyen>
+        <impot-moyen>7881</impot-moyen>
+        <code-postale>05061</code-postale>
+      </commune>
+    </departement>
+    <departement nom="VAR">
+      <commune nom="DRAGUIGNAN">
+        <nombre-redevable>207</nombre-redevable>
+        <patrimoine-moyen>2277359</patrimoine-moyen>
+        <impot-moyen>8632</impot-moyen>
+        <code-postale>83050</code-postale>
+      </commune>
+      <commune nom="FREJUS">
+        <nombre-redevable>400</nombre-redevable>
+        <patrimoine-moyen>2349882</patrimoine-moyen>
+        <impot-moyen>8567</impot-moyen>
+        <code-postale>83061</code-postale>
+      </commune>
+      <commune nom="HYERES">
+        <nombre-redevable>554</nombre-redevable>
+        <patrimoine-moyen>2372786</patrimoine-moyen>
+        <impot-moyen>8956</impot-moyen>
+        <code-postale>83069</code-postale>
+      </commune>
+      <commune nom="LAGARDE">
+        <nombre-redevable>102</nombre-redevable>
+        <patrimoine-moyen>2341742</patrimoine-moyen>
+        <impot-moyen>8925</impot-moyen>
+        <code-postale>83062</code-postale>
+      </commune>
+      <commune nom="LASEYNESURMER">
+        <nombre-redevable>171</nombre-redevable>
+        <patrimoine-moyen>2131870</patrimoine-moyen>
+        <impot-moyen>6719</impot-moyen>
+        <code-postale>83126</code-postale>
+      </commune>
+      <commune nom="LAVALETTE">
+        <nombre-redevable>106</nombre-redevable>
+        <patrimoine-moyen>2110101</patrimoine-moyen>
+        <impot-moyen>7625</impot-moyen>
+        <code-postale>83144</code-postale>
+      </commune>
+      <commune nom="SAINT-RAPHAEL">
+        <nombre-redevable>823</nombre-redevable>
+        <patrimoine-moyen>2534470</patrimoine-moyen>
+        <impot-moyen>9907</impot-moyen>
+        <code-postale>83118</code-postale>
+      </commune>
+      <commune nom="SIX-FOURS-LES-PLAGES">
+        <nombre-redevable>259</nombre-redevable>
+        <patrimoine-moyen>2139974</patrimoine-moyen>
+        <impot-moyen>7200</impot-moyen>
+        <code-postale>83129</code-postale>
+      </commune>
+      <commune nom="TOULON">
+        <nombre-redevable>692</nombre-redevable>
+        <patrimoine-moyen>2413241</patrimoine-moyen>
+        <impot-moyen>8991</impot-moyen>
+        <code-postale>83137</code-postale>
+      </commune>
+    </departement>
+    <departement nom="VAUCLUSE">
+      <commune nom="AVIGNON">
+        <nombre-redevable>341</nombre-redevable>
+        <patrimoine-moyen>2607636</patrimoine-moyen>
+        <impot-moyen>10291</impot-moyen>
+        <code-postale>84007</code-postale>
+      </commune>
+      <commune nom="CARPENTRAS">
+        <nombre-redevable>136</nombre-redevable>
+        <patrimoine-moyen>2759678</patrimoine-moyen>
+        <impot-moyen>10449</impot-moyen>
+        <code-postale>84031</code-postale>
+      </commune>
+      <commune nom="CAVAILLON">
+        <nombre-redevable>94</nombre-redevable>
+        <patrimoine-moyen>2329990</patrimoine-moyen>
+        <impot-moyen>8960</impot-moyen>
+        <code-postale>84035</code-postale>
+      </commune>
+      <commune nom="ORANGE">
+        <nombre-redevable>100</nombre-redevable>
+        <patrimoine-moyen>2232871</patrimoine-moyen>
+        <impot-moyen>8973</impot-moyen>
+        <code-postale>84087</code-postale>
+      </commune>
+    </departement>
+  </region>
+  <region nom="LAREUNION">
+    <departement nom="LAREUNION">
+      <commune nom="LAPOSSESSION">
+        <nombre-redevable>80</nombre-redevable>
+        <patrimoine-moyen>2063527</patrimoine-moyen>
+        <impot-moyen>7400</impot-moyen>
+        <code-postale>97408</code-postale>
+      </commune>
+      <commune nom="SAINTANDRE">
+        <nombre-redevable>59</nombre-redevable>
+        <patrimoine-moyen>2679497</patrimoine-moyen>
+        <impot-moyen>10246</impot-moyen>
+        <code-postale>97409</code-postale>
+      </commune>
+      <commune nom="SAINTDENIS">
+        <nombre-redevable>517</nombre-redevable>
+        <patrimoine-moyen>2530939</patrimoine-moyen>
+        <impot-moyen>11143</impot-moyen>
+        <code-postale>97411</code-postale>
+      </commune>
+      <commune nom="SAINTPAUL">
+        <nombre-redevable>318</nombre-redevable>
+        <patrimoine-moyen>2509763</patrimoine-moyen>
+        <impot-moyen>9170</impot-moyen>
+        <code-postale>97415</code-postale>
+      </commune>
+      <commune nom="SAINTPIERRE">
+        <nombre-redevable>166</nombre-redevable>
+        <patrimoine-moyen>2678032</patrimoine-moyen>
+        <impot-moyen>10864</impot-moyen>
+        <code-postale>97416</code-postale>
+      </commune>
+      <commune nom="SAINT-LOUIS">
+        <nombre-redevable>51</nombre-redevable>
+        <patrimoine-moyen>2464169</patrimoine-moyen>
+        <impot-moyen>9331</impot-moyen>
+        <code-postale>97414</code-postale>
+      </commune>
+      <commune nom="SAINTEMARIE">
+        <nombre-redevable>74</nombre-redevable>
+        <patrimoine-moyen>2117078</patrimoine-moyen>
+        <impot-moyen>8348</impot-moyen>
+        <code-postale>97418</code-postale>
+      </commune>
+      <commune nom="TAMPON">
+        <nombre-redevable>149</nombre-redevable>
+        <patrimoine-moyen>2261774</patrimoine-moyen>
+        <impot-moyen>9067</impot-moyen>
+        <code-postale>97422</code-postale>
+      </commune>
+    </departement>
+  </region>
+</isf>

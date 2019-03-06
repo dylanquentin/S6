@@ -1,5 +1,6 @@
 package bdd;
 
+import java.sql.DriverManager;
 import java.sql.SQLException;
 
 /**
@@ -8,7 +9,7 @@ import java.sql.SQLException;
  */
 public class BaseBiblio {
 	private java.sql.Connection laConnexion ;
-
+	
 	private ManagerLivre managerLivre ; // les livres de la bibliothèque
 	private ManagerPersonne managerPersonne ; // les usagers de la bibliothèque
 	private ManagerBiblio managerBiblio;
@@ -32,7 +33,22 @@ public class BaseBiblio {
 	 * et on passe la connexion aux différents managers pourqu'ils s'initialisent
 	 */
 	public void seConnecter(String login, String password) throws AppliException{
-		// a completer
+	      try {
+			Class.forName("oracle.jdbc.OracleDriver");
+			String url = "jdbc:oracle:thin:@oracle.fil.univ-lille1.fr:1521:filora";
+			laConnexion = DriverManager.getConnection(url, login, password);
+			System.out.println("Connexion établie");
+			managerLivre.setConnection(laConnexion);
+			managerPersonne.setConnection(laConnexion);
+			managerBiblio.setConnection(laConnexion);
+
+		} catch (ClassNotFoundException | SQLException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+	      
+	
+	
 	}
 
 	/**

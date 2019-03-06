@@ -11,7 +11,6 @@ import java.sql.Statement;
  * operations (emprunter, reserver, restituer)
  */
 
-@SuppressWarnings("unused")
 public class ManagerBiblio {
 	
 	private java.sql.Connection laConnexion ;
@@ -34,8 +33,15 @@ public class ManagerBiblio {
 	 * @throws AppliException si l'initialisation pose probleme
 	 */
 	public void setConnection( Connection connection) throws AppliException{
-		//A completer
-	};
+		laConnexion = connection;
+		
+		try {
+			//stmt = laConnexion.prepareStatement("");
+			csEmprunter = laConnexion.prepareCall("{call PAQ_BIBLIO.Emprunter(? , ?) }");
+			csRestituer = laConnexion.prepareCall("{call PAQ_BIBLIO.Restituer(?) }");
+		} catch (SQLException e) {
+			e.printStackTrace();
+		}	};
 
 
 	/**
@@ -46,7 +52,16 @@ public class ManagerBiblio {
 	 * Réalise l'emprunt du livre par la personne 
 	 */
 	public void emprunter(Livre livre, Personne personne) throws AppliException{
-		//A completer
+		try {
+			csEmprunter.setInt(1, livre.getId());
+			csEmprunter.setInt(2, personne.getId());
+			csEmprunter.execute();
+			
+		} catch (SQLException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+	
 	}
 	
 	
