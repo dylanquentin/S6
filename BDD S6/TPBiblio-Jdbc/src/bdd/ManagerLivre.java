@@ -24,7 +24,7 @@ public class ManagerLivre {
 	public void setConnection (Connection c) throws AppliException {
 		connexion = c;
 		try {
-			rechercherLesLivres = connexion.prepareStatement("SELECT * FROM TP_Livre l1 LEFT JOIN TP_Personne p1 ON l1.id_emprunte = p1.id LEFT JOIN TP_PERSONNE p2 ON l1.id_reserve = p2.id;");
+			rechercherLesLivres = connexion.prepareStatement("SELECT * FROM TP_Livre l1 LEFT JOIN TP_Personne p1 ON l1.id_emprunte = p1.id LEFT JOIN TP_PERSONNE p2 ON l1.id_reserve = p2.id");
 		} catch (SQLException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
@@ -47,7 +47,8 @@ public class ManagerLivre {
 				int id = rs.getInt(1);
 				String nom = rs.getString(2);
 				Livre l = new Livre(id,nom);
-				
+				Personne p = new Personne(rs.getInt(6),rs.getString(7), rs.getString(8));
+				l.setEmprunte(p);
 				res.add(l);
 				
 				
