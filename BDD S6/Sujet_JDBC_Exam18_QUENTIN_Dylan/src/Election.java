@@ -1,24 +1,24 @@
 import java.sql.*;
-import java.io.*;
+
 
 public class Election {
 	private Connection db;
 	private int barre = 5; // barre des 5%
-	private Statement state,select;
-	private PreparedStatement state2, updateSiege;
+	private Statement state;
+	private PreparedStatement state2, updateSiege, countsiege,select, reset;
 	
 	/* cr´eation objet Election, connexion `a la base */
 
 	public Election(String user, String password) throws SQLException, ClassNotFoundException {
 
-	      String url = "jdbc:oracle:thin:@oracle.fil.univ-lille1.fr:1521:filora";
-	    
-
-	      db = DriverManager.getConnection(url, user, password);
+	    String url = "jdbc:oracle:thin:@oracle.fil.univ-lille1.fr:1521:filora"; 
+	    db = DriverManager.getConnection(url, user, password);
 		state = db.createStatement();
-		select = db.createStatement();
+		select = db.prepareStatement("Select * from Election");
 		state2 = db.prepareStatement("Select sum(nbVoix) from Election where nbVoix > ?");
 		updateSiege = db.prepareStatement("Update Election set nbSieges = ? where liste = ? ");
+		countsiege = db.prepareStatement("Select sum(nbSieges) from Election");
+		reset = db.prepareStatement("Update Election set nbSieges = 0");
 	}
 
 	/* fin de connexion */
@@ -35,6 +35,7 @@ public class Election {
 	 * de la table "Election"
 	 */
 	public void calculSieges(int nbSiegesAPourvoir) throws SQLException {
+		reset.executeQuery();
 		int nbSuffrages = this.getNbSuffrages();
 		int seuil = (nbSuffrages * this.barre) / 100;
 		int nbSuffragesUtiles = this.getNbSuffragesUtiles(seuil);
@@ -73,14 +74,40 @@ public class Election {
 	
 		/* r´epartition finale des si`eges encore `a pourvoir */
 	private void repartitionResteSieges(int seuil, int nbSiegesAPourvoir) throws SQLException{
+		ResultSet rsCountS = this.countsiege.executeQuery();
+		rsCountS.next();
+		int nbSiegeEnBase = rsCountS.getInt(1);
+		int max = 0;
+		int nbSiegeActuel=0;
+		String meilleur = "";
+		while(nbSiegeEnBase < nbSiegesAPourvoir){
+			max = 0;
+			ResultSet rsSelect = this.select.executeQuery();
+			while(rsSelect.next()){
+				if(rsSelect.getInt(2) > seuil){	
+					int temp = rsSelect.getInt(2)/ (rsSelect.getInt(3) +1);
+					if(temp > max){
+						max = temp;
+						meilleur  =rsSelect.getString(1);
+						nbSiegeActuel = rsSelect.getInt(3);
+					}		
+				}
+			}
+			this.updateSiege.setInt(1, nbSiegeActuel+1);
+			this.updateSiege.setString(2, meilleur);
+			updateSiege.executeQuery();
+			nbSiegeEnBase++;
+			
+		}
 		
 	}
-	
+		
 	public static void main(String args[]) throws SQLException, ClassNotFoundException {
 	Election election = null ;
 	try {
 		election=new Election("quentin",Mdp.mdp) ; // login et mot de passe
 		election.calculSieges(6) ; // 6 si`eges sont `a pourvoir
+		System.out.println("Calcul complet.");
 	}catch(SQLException e){// on traite l’exception
 		e.printStackTrace();
 	}finally{ 

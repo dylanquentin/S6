@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<election2017>
+	<scrutins>
+		<presidentielles date="2017-04-22" tour="1" idS="PR1T">
+			<candidat>
+				<numero>1</numero>
+				<nom>Henri Ducoin</nom>
+			</candidat>
+			<candidat>
+				<numero>2</numero>
+				<nom>Paul Dubois</nom>
+			</candidat>
+		</presidentielles>
+		<legislatives date="2017-06-03" tour="1" idS="LEGT1"/>
+	</scrutins>
+	<circonscription nom="2Nord" dept="59">
+		<legislatives Ref_IdS="LEGT1">
+			<candidat>
+				<numero>1</numero>
+				<nom>Linkenheld</nom>
+			</candidat>
+			<candidat>
+				<numero>2</numero>
+				<nom>Boisard</nom>
+			</candidat>
+		</legislatives>
+		<canton RefCanton="Lille Est">
+			<bureau refBureau="B1" ville="Lille"/>
+		</canton>
+		<canton RefCanton="Villeneuve d'Ascq Nord">
+			<bureau refBureau="B1" ville="Villeneuve d'Ascq"></bureau>
+		</canton>
+		<canton RefCanton="Villeneuve d'Ascq Sud">
+			<bureau refBureau="B2" ville="Villeneuve d'Ascq"></bureau>
+		</canton>
+		<ville nom="Ronchin"></ville>
+		<ville nom="Lezennes"></ville>
+		<ville nom="Mons-en-Baroeul"></ville>
+	</circonscription>
+	<circonscription nom="MetM1" dept="54">
+		<legislatives Ref_IdS="LEGT1">
+			<candidat>
+				<numero>1</numero>
+				<nom>Rabier</nom>
+			</candidat>
+			<candidat>
+				<numero>2</numero>
+				<nom>Poudevigne</nom>
+			</candidat>
+		</legislatives>
+		<ville nom="Champigneulles"></ville>
+		<ville nom="Leménil-Mitry"></ville>
+	</circonscription>
+	<ville nom="Mons-en-Baroeul">
+		<bureau RefBureau="LEO_LAGRANGE" nbInscrits="1200">
+		<scrutin idS="PR1T">
+			<nuls>100</nuls>
+			<blancs>100</blancs>
+			<VoixCandidat numero="1">500</VoixCandidat>
+			<VoixCandidat numero="2">500</VoixCandidat>
+		</scrutin>
+			<scrutin idS="LEGT1">
+				<nuls>200</nuls>
+				<blancs>200</blancs>
+				<VoixCandidat numero="1">400</VoixCandidat>
+				<VoixCandidat numero="2">400</VoixCandidat>
+			</scrutin>
+			<Adresse>Restaurant scolaire  Parvis jean XXIII</Adresse>
+		</bureau>
+		<bureau RefBureau="LA_PAIX" nbInscrits="1350">
+		<scrutin idS="PR1T">
+			<nuls>50</nuls>
+			<blancs>100</blancs>
+			<VoixCandidat numero="1">500</VoixCandidat>
+			<VoixCandidat numero="2">700</VoixCandidat>
+		</scrutin>
+			<scrutin idS="LEGT1">
+				<nuls>350</nuls>
+				<blancs>100</blancs>
+				<VoixCandidat numero="1">400</VoixCandidat>
+				<VoixCandidat numero="2">500</VoixCandidat>
+			</scrutin>
+			<Adresse>Groupe Scolaire La Paix Bd Leclerc</Adresse>
+		</bureau>
+		<bureau RefBureau="CONCORDE" nbInscrits="1180">
+		<scrutin idS="PR1T">
+			<nuls>180</nuls>
+			<blancs>100</blancs>
+			<VoixCandidat numero="1">500</VoixCandidat>
+			<VoixCandidat numero="2">400</VoixCandidat>
+		</scrutin>
+			<scrutin idS="LEGT1">
+				<nuls>280</nuls>
+				<blancs>100</blancs>
+				<VoixCandidat numero="1">400</VoixCandidat>
+				<VoixCandidat numero="2">400</VoixCandidat>
+			</scrutin>
+			<Adresse>Salle des sports Concorde rue du 11 novembre</Adresse>
+		</bureau>
+	</ville>
+	<ville nom="Lille">
+		<bureau RefBureau="B1" nbInscrits="1000">
+			<scrutin idS="PR1T">
+				<nuls>200</nuls>
+				<blancs>50</blancs>
+				<VoixCandidat numero="1">250</VoixCandidat>
+				<VoixCandidat numero="2">500</VoixCandidat>
+			</scrutin>
+			<scrutin idS="LEGT1">
+				<nuls>120</nuls>
+				<blancs>180</blancs>
+				<VoixCandidat numero="1">300</VoixCandidat>
+				<VoixCandidat numero="2">400</VoixCandidat>
+			</scrutin>
+			<Adresse></Adresse>
+		</bureau>
+	</ville>
+	<ville nom="Villeneuve d'Ascq">
+		<bureau RefBureau="B1" nbInscrits="1002">
+			<scrutin idS="PR1T">
+				<nuls>52</nuls>
+				<blancs>50</blancs>
+				<VoixCandidat numero="1">600</VoixCandidat>
+				<VoixCandidat numero="2">300</VoixCandidat>
+			</scrutin>
+			<scrutin idS="LEGT1">
+				<nuls>202</nuls>
+				<blancs>100</blancs>
+				<VoixCandidat numero="1">100</VoixCandidat>
+				<VoixCandidat numero="2">600</VoixCandidat>
+			</scrutin>
+			<Adresse></Adresse>
+		</bureau>
+		<bureau RefBureau="B2" nbInscrits="1310">
+			<scrutin idS="PR1T">
+				<nuls>310</nuls>
+				<blancs>200</blancs>
+				<VoixCandidat numero="1">380</VoixCandidat>
+				<VoixCandidat numero="2">420</VoixCandidat>
+			</scrutin>
+			<scrutin idS="LEGT1">
+				<nuls>100</nuls>
+				<blancs>100</blancs>
+				<VoixCandidat numero="1">501</VoixCandidat>
+				<VoixCandidat numero="2">600</VoixCandidat>
+			</scrutin>
+			<Adresse></Adresse>
+		</bureau>
+	</ville>
+	<ville nom="Champigneulles">
+		<bureau RefBureau="Mairie" nbInscrits="50">
+			<scrutin idS="PR1T">
+				<nuls>1</nuls>
+				<blancs>0</blancs>
+				<VoixCandidat numero="1">34</VoixCandidat>
+				<VoixCandidat numero="2">15</VoixCandidat>
+			</scrutin>
+			<scrutin idS="LEGT1">
+				<nuls>5</nuls>
+				<blancs>5</blancs>
+				<VoixCandidat numero="1">20</VoixCandidat>
+				<VoixCandidat numero="2">20</VoixCandidat>
+			</scrutin>
+			<Adresse>Route de La Ferrière</Adresse>
+		</bureau>
+	</ville>
+	<ville nom="Leménil-Mitry">
+		<bureau RefBureau="Mairie" nbInscrits="3">
+			<scrutin idS="PR1T">
+				<nuls>0</nuls>
+				<blancs>0</blancs>
+				<VoixCandidat numero="1">3</VoixCandidat>
+			</scrutin>
+			<scrutin idS="LEGT1">
+				<nuls>0</nuls>
+				<blancs>0</blancs>
+				<VoixCandidat numero="1">2</VoixCandidat>
+				<VoixCandidat numero="2">1</VoixCandidat>
+			</scrutin>
+			<Adresse></Adresse>
+		</bureau>
+	</ville>
+</election2017>
