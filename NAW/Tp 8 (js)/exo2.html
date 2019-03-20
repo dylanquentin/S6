@@ -1,0 +1,44 @@
+<html>
+	<head>
+		<title>Exo 2</title>		
+	<script type="text/javascript">
+		function getRandomInt(max) { 
+			return Math.floor(Math.random() * Math.floor(max));
+		}
+
+		function init(){
+			var i = 1;
+			var j =1;
+			var t = document.getElementById("mt");
+			var lignes = document.getElementById("ligne");
+			var colonnes = document.getElementById("colonne");
+			for (i=1;i<=10;i++){ 
+				ligne = document.createElement('tr');
+		 		for (j=1; j<=3;j++){ 
+		 			cellule = document.createElement("td");
+					cellule.id = "l"+i+"c"+j ;
+					cellule.setAttribute("class","uv");
+					cellule.innerHTML = getRandomInt(100);
+					ligne.appendChild(cellule);
+				}
+		 		t.appendChild(ligne);
+		 	}
+		} 
+
+		function tri(){
+			t[] = document.getElementById("mt");
+			t.sort();
+
+		}
+
+
+	</script>
+
+	<body onload="init()">
+		<table border="1pt" id="mt"/>
+		</table>
+
+		<input type="button" onclick="tri()" value="Tri"></input>
+	</body>
+
+</html>

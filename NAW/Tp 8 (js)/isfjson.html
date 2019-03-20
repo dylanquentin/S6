@@ -1,0 +1,59 @@
+<html>
+	<head>
+		<title>Enter your title here</title>
+		<script type="text/javascript" src="isf.js"></script>
+	</head>
+	<body>
+		<div id="liste"></div>
+	</body>
+	<script type="text/javascript">
+	var regs = isf.Region ; 
+    var division = document.getElementById("liste");  
+    var lregion = document.createElement("ul") ; 
+    for (i=0;i<regs.length; i++) { 
+       var ligne = document.createElement("li"); 
+	   var listeDepartement = document.createElement("ul");
+       ligne.appendChild(document.createTextNode(regs[i].nomRegion));
+
+       var deps = regs[i].departement;
+       for(j=0; j< deps.length ; j++){
+       		var listeCommunes = document.createElement("ul");
+       		var ligneDepartement = document.createElement("li");
+       		ligneDepartement.appendChild(document.createTextNode(deps[j].nomDepartement));
+       		var comms = deps[j].communes;
+       		for(k=0; k< comms.length; k++){
+       			var ligneCommunes = document.createElement("li");
+       			ligneCommunes.appendChild(document.createTextNode(comms[k].nomVille));
+       			var listeInfo = document.createElement("ul");
+       			var ligneCodePostale = document.createElement("li");
+       			ligneCodePostale.appendChild(document.createTextNode("Code postale : "+ comms[k].codepostal));
+       			listeInfo.appendChild(ligneCodePostale);
+
+       			var ligneRedevables = document.createElement("li");
+       			ligneRedevables.appendChild(document.createTextNode("Redevables : "+ comms[k].Redevables));
+       			listeInfo.appendChild(ligneRedevables);
+
+       			var lignepatrinoime = document.createElement("li");
+       			lignepatrinoime.appendChild(document.createTextNode("patrinoime : "+ comms[k].patrinoime));
+       			listeInfo.appendChild(lignepatrinoime);
+
+       			var lignemoyenneISF = document.createElement("li");
+       			lignemoyenneISF.appendChild(document.createTextNode("moyenneISF "+ comms[k].moyenneISF));
+       			listeInfo.appendChild(lignemoyenneISF);
+
+       			ligneCommunes.appendChild(listeInfo);
+       			listeCommunes.appendChild(ligneCommunes);
+       			ligneDepartement.appendChild(listeCommunes);
+       		}
+
+
+       		listeDepartement.appendChild(ligneDepartement);
+       		ligne.appendChild(listeDepartement);
+       }
+       lregion.appendChild(ligne);
+
+
+    }  ; 
+   division.appendChild(lregion);  
+	</script>
+</html>
