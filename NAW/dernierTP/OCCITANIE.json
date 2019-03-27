@@ -1,0 +1,208 @@
+{
+	"Region": [
+		{
+			"departement": [
+				{
+					"nomDepartement": "AUDE",
+					"communes": [
+						{
+							"nomVille": "CARCASSONNE",
+							"codepostal": "11 069",
+							"Redevables": 155,
+							"patrinoime": 2382226,
+							"moyenneISF": 9982
+						}, {
+							"nomVille": "NARBONNE",
+							"codepostal": "11 262",
+							"Redevables": 176,
+							"patrinoime": 2349912,
+							"moyenneISF": 8459
+						}
+					]
+				}, {
+					"nomDepartement": "AVEYRON",
+					"communes": [
+						{
+							"nomVille": "MILLAU",
+							"codepostal": "12 145",
+							"Redevables": 72,
+							"patrinoime": 2916430,
+							"moyenneISF": 15312
+						}, {
+							"nomVille": "RODEZ",
+							"codepostal": "12 202",
+							"Redevables": 147,
+							"patrinoime": 2465113,
+							"moyenneISF": 10379
+						}
+					]
+				}, {
+					"nomDepartement": "GARD",
+					"communes": [
+						{
+							"nomVille": "ALES",
+							"codepostal": "30 007",
+							"Redevables": 124,
+							"patrinoime": 2321344,
+							"moyenneISF": 8616
+						}, {
+							"nomVille": "NIMES",
+							"codepostal": "30 189",
+							"Redevables": 701,
+							"patrinoime": 2424816,
+							"moyenneISF": 9194
+						}
+					]
+				}, {
+					"nomDepartement": "GERS",
+					"communes": [
+						{
+							"nomVille": "AUCH",
+							"codepostal": "32 013",
+							"Redevables": 82,
+							"patrinoime": 2140698,
+							"moyenneISF": 6939
+						}
+					]
+				}, {
+					"nomDepartement": "HAUTE-GARONNE",
+					"communes": [
+						{
+							"nomVille": "BLAGNAC",
+							"codepostal": "31 069",
+							"Redevables": 101,
+							"patrinoime": 2467963,
+							"moyenneISF": 9413
+						}, {
+							"nomVille": "COLOMIERS",
+							"codepostal": "31 149",
+							"Redevables": 101,
+							"patrinoime": 2124628,
+							"moyenneISF": 5959
+						}, {
+							"nomVille": "MURET",
+							"codepostal": "31 395",
+							"Redevables": 91,
+							"patrinoime": 2439522,
+							"moyenneISF": 8519
+						}, {
+							"nomVille": "TOULOUSE",
+							"codepostal": "31 555",
+							"Redevables": 2904,
+							"patrinoime": 2531817,
+							"moyenneISF": 9749
+						}, {
+							"nomVille": "TOURNEFEUILLE",
+							"codepostal": "31 557",
+							"Redevables": 197,
+							"patrinoime": 2595245,
+							"moyenneISF": 9466
+						}
+					]
+				}, {
+					"nomDepartement": "HAUTES-PYRENEES",
+					"communes": [
+						{
+							"nomVille": "TARBES",
+							"codepostal": "65 440",
+							"Redevables": 102,
+							"patrinoime": 2332097,
+							"moyenneISF": 7876
+						}
+					]
+				}, {
+					"nomDepartement": "HERAULT",
+					"communes": [
+						{
+							"nomVille": "AGDE",
+							"codepostal": "34 003",
+							"Redevables": 179,
+							"patrinoime": 2284252,
+							"moyenneISF": 8572
+						}, {
+							"nomVille": "BEZIERS",
+							"codepostal": "34 032",
+							"Redevables": 289,
+							"patrinoime": 2672889,
+							"moyenneISF": 11112
+						}, {
+							"nomVille": "FRONTIGNAN",
+							"codepostal": "34 108",
+							"Redevables": 52,
+							"patrinoime": 2290860,
+							"moyenneISF": 8468
+						}, {
+							"nomVille": "LUNEL",
+							"codepostal": "34 145",
+							"Redevables": 63,
+							"patrinoime": 2253801,
+							"moyenneISF": 7317
+						}, {
+							"nomVille": "MONTPELLIER",
+							"codepostal": "34 172",
+							"Redevables": 1218,
+							"patrinoime": 2516789,
+							"moyenneISF": 8822
+						}, {
+							"nomVille": "SETE",
+							"codepostal": "34 301",
+							"Redevables": 249,
+							"patrinoime": 2590709,
+							"moyenneISF": 8826
+						}
+					]
+				}, {
+					"nomDepartement": "LOT",
+					"communes": [
+						{
+							"nomVille": "CAHORS",
+							"codepostal": "46 042",
+							"Redevables": 82,
+							"patrinoime": 2377561,
+							"moyenneISF": 8909
+						}
+					]
+				}, {
+					"nomDepartement": "PYRENEES-ORIENTALES",
+					"communes": [
+						{
+							"nomVille": "PERPIGNAN",
+							"codepostal": "66 136",
+							"Redevables": 502,
+							"patrinoime": 2536052,
+							"moyenneISF": 9287
+						}
+					]
+				}, {
+					"nomDepartement": "TARN",
+					"communes": [
+						{
+							"nomVille": "ALBI",
+							"codepostal": "81 004",
+							"Redevables": 209,
+							"patrinoime": 2382995,
+							"moyenneISF": 8558
+						}, {
+							"nomVille": "CASTRES",
+							"codepostal": "81 065",
+							"Redevables": 149,
+							"patrinoime": 2329801,
+							"moyenneISF": 7022
+						}
+					]
+				}, {
+					"nomDepartement": "TARN-ET-GARONNE",
+					"communes": [
+						{
+							"nomVille": "MONTAUBAN",
+							"codepostal": "82 121",
+							"Redevables": 257,
+							"patrinoime": 2584540,
+							"moyenneISF": 10394
+						}
+					]
+				}
+			]
+		}
+	]
+}

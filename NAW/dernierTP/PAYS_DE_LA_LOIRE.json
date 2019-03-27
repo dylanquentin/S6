@@ -1,0 +1,130 @@
+{
+	"Region": [
+		{
+			"departement": [
+				{
+					"nomDepartement": "LOIRE-ATLANTIQUE",
+					"communes": [
+						{
+							"nomVille": "NANTES",
+							"codepostal": "44 109",
+							"Redevables": 2188,
+							"patrinoime": 2769962,
+							"moyenneISF": 10459
+						}, {
+							"nomVille": "ORVAULT",
+							"codepostal": "44 114",
+							"Redevables": 179,
+							"patrinoime": 2657146,
+							"moyenneISF": 8361
+						}, {
+							"nomVille": "REZE",
+							"codepostal": "44 143",
+							"Redevables": 78,
+							"patrinoime": 2135667,
+							"moyenneISF": 6488
+						}, {
+							"nomVille": "ST HERBLAIN",
+							"codepostal": "44 162",
+							"Redevables": 83,
+							"patrinoime": 2621292,
+							"moyenneISF": 8211
+						}, {
+							"nomVille": "ST NAZAIRE",
+							"codepostal": "44 184",
+							"Redevables": 181,
+							"patrinoime": 2411712,
+							"moyenneISF": 11006
+						}, {
+							"nomVille": "ST SEBASTIEN SUR LOIRE",
+							"codepostal": "44 190",
+							"Redevables": 96,
+							"patrinoime": 2396001,
+							"moyenneISF": 9605
+						}, {
+							"nomVille": "VERTOU",
+							"codepostal": "44 215",
+							"Redevables": 187,
+							"patrinoime": 2602291,
+							"moyenneISF": 7052
+						}
+					]
+				}, {
+					"nomDepartement": "MAINE-ET-LOIRE",
+					"communes": [
+						{
+							"nomVille": "ANGERS",
+							"codepostal": "49 007",
+							"Redevables": 671,
+							"patrinoime": 2474303,
+							"moyenneISF": 8942
+						}, {
+							"nomVille": "BEAUPREAU EN MAUGES",
+							"codepostal": "49 023",
+							"Redevables": 57,
+							"patrinoime": 2273971,
+							"moyenneISF": 7520
+						}, {
+							"nomVille": "CHOLET",
+							"codepostal": "49 099",
+							"Redevables": 196,
+							"patrinoime": 2490956,
+							"moyenneISF": 9513
+						}, {
+							"nomVille": "SAUMUR",
+							"codepostal": "49 328",
+							"Redevables": 120,
+							"patrinoime": 2488720,
+							"moyenneISF": 7582
+						}, {
+							"nomVille": "SEVREMOINE",
+							"codepostal": "49 301",
+							"Redevables": 58,
+							"patrinoime": 2533187,
+							"moyenneISF": 8965
+						}
+					]
+				}, {
+					"nomDepartement": "MAYENNE",
+					"communes": [
+						{
+							"nomVille": "LAVAL",
+							"codepostal": "53 130",
+							"Redevables": 213,
+							"patrinoime": 3033284,
+							"moyenneISF": 12238
+						}
+					]
+				}, {
+					"nomDepartement": "SARTHE",
+					"communes": [
+						{
+							"nomVille": "LE MANS",
+							"codepostal": "72 181",
+							"Redevables": 550,
+							"patrinoime": 2677459,
+							"moyenneISF": 10714
+						}
+					]
+				}, {
+					"nomDepartement": "VENDEE",
+					"communes": [
+						{
+							"nomVille": "CHALLANS",
+							"codepostal": "85 047",
+							"Redevables": 138,
+							"patrinoime": 2558756,
+							"moyenneISF": 9409
+						}, {
+							"nomVille": "LA ROCHE SUR YON",
+							"codepostal": "85 191",
+							"Redevables": 174,
+							"patrinoime": 2668694,
+							"moyenneISF": 10713
+						}
+					]
+				}
+			]
+		}
+	]
+}

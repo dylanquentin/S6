@@ -1,0 +1,88 @@
+{
+	"Region": [
+		{
+			"departement": [
+				{
+					"nomDepartement": "CALVADOS",
+					"communes": [
+						{
+							"nomVille": "CAEN",
+							"codepostal": "14 118",
+							"Redevables": 581,
+							"patrinoime": 2773858,
+							"moyenneISF": 11339
+						}
+					]
+				}, {
+					"nomDepartement": "EURE",
+					"communes": [
+						{
+							"nomVille": "EVREUX",
+							"codepostal": "27 229",
+							"Redevables": 137,
+							"patrinoime": 2478401,
+							"moyenneISF": 10847
+						}, {
+							"nomVille": "VERNON",
+							"codepostal": "27 681",
+							"Redevables": 99,
+							"patrinoime": 2168318,
+							"moyenneISF": 8027
+						}
+					]
+				}, {
+					"nomDepartement": "MANCHE",
+					"communes": [
+						{
+							"nomVille": "CHERBOURG-EN-COTENTIN",
+							"codepostal": "50 129",
+							"Redevables": 162,
+							"patrinoime": 2450622,
+							"moyenneISF": 8990
+						}, {
+							"nomVille": "SAINT LO",
+							"codepostal": "50 502",
+							"Redevables": 57,
+							"patrinoime": 2421166,
+							"moyenneISF": 7810
+						}
+					]
+				}, {
+					"nomDepartement": "ORNE",
+					"communes": [
+						{
+							"nomVille": "ALENCON",
+							"codepostal": "61 001",
+							"Redevables": 82,
+							"patrinoime": 2333240,
+							"moyenneISF": 9328
+						}
+					]
+				}, {
+					"nomDepartement": "SEINE-MARITIME",
+					"communes": [
+						{
+							"nomVille": "DIEPPE",
+							"codepostal": "76 217",
+							"Redevables": 102,
+							"patrinoime": 2195137,
+							"moyenneISF": 7666
+						}, {
+							"nomVille": "LE HAVRE",
+							"codepostal": "76 351",
+							"Redevables": 390,
+							"patrinoime": 2503817,
+							"moyenneISF": 9636
+						}, {
+							"nomVille": "ROUEN",
+							"codepostal": "76 540",
+							"Redevables": 518,
+							"patrinoime": 2483610,
+							"moyenneISF": 9602
+						}
+					]
+				}
+			]
+		}
+	]
+}

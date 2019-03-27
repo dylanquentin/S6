@@ -1,0 +1,261 @@
+{
+	"Region": [
+		{
+			"departement": [
+				{
+					"nomDepartement": "ALPES-DE-HAUTE-PROVENCE",
+					"communes": [
+						{
+							"nomVille": "MANOSQUE",
+							"codepostal": "04 112",
+							"Redevables": 127,
+							"patrinoime": 2587327,
+							"moyenneISF": 12326
+						}
+					]
+				}, {
+					"nomDepartement": "ALPES-MARITIMES",
+					"communes": [
+						{
+							"nomVille": "ANTIBES",
+							"codepostal": "06 004",
+							"Redevables": 1019,
+							"patrinoime": 2545847,
+							"moyenneISF": 9943
+						}, {
+							"nomVille": "CAGNES SUR MER",
+							"codepostal": "06 027",
+							"Redevables": 407,
+							"patrinoime": 2309780,
+							"moyenneISF": 8697
+						}, {
+							"nomVille": "CANNES",
+							"codepostal": "06 029",
+							"Redevables": 1511,
+							"patrinoime": 3227873,
+							"moyenneISF": 14476
+						}, {
+							"nomVille": "GRASSE",
+							"codepostal": "06 069",
+							"Redevables": 323,
+							"patrinoime": 2467098,
+							"moyenneISF": 10536
+						}, {
+							"nomVille": "LE CANNET",
+							"codepostal": "06 030",
+							"Redevables": 382,
+							"patrinoime": 2550895,
+							"moyenneISF": 11391
+						}, {
+							"nomVille": "MANDELIEU LA NAPOULE",
+							"codepostal": "06 079",
+							"Redevables": 354,
+							"patrinoime": 2405839,
+							"moyenneISF": 9718
+						}, {
+							"nomVille": "MENTON",
+							"codepostal": "06 083",
+							"Redevables": 225,
+							"patrinoime": 2269107,
+							"moyenneISF": 8040
+						}, {
+							"nomVille": "MONACO",
+							"codepostal": "06 900",
+							"Redevables": 590,
+							"patrinoime": 3847898,
+							"moyenneISF": 25669
+						}, {
+							"nomVille": "NICE",
+							"codepostal": "06 088",
+							"Redevables": 3118,
+							"patrinoime": 2610132,
+							"moyenneISF": 10877
+						}, {
+							"nomVille": "SAINT LAURENT DU VAR",
+							"codepostal": "06 123",
+							"Redevables": 212,
+							"patrinoime": 2365713,
+							"moyenneISF": 9871
+						}, {
+							"nomVille": "VALLAURIS",
+							"codepostal": "06 155",
+							"Redevables": 337,
+							"patrinoime": 2571626,
+							"moyenneISF": 10910
+						}
+					]
+				}, {
+					"nomDepartement": "BOUCHES-DU-RHONE",
+					"communes": [
+						{
+							"nomVille": "AIX EN PROVENCE",
+							"codepostal": "13 001",
+							"Redevables": 1959,
+							"patrinoime": 2807145,
+							"moyenneISF": 10666
+						}, {
+							"nomVille": "ALLAUCH",
+							"codepostal": "13 002",
+							"Redevables": 129,
+							"patrinoime": 2376183,
+							"moyenneISF": 10264
+						}, {
+							"nomVille": "ARLES",
+							"codepostal": "13 004",
+							"Redevables": 198,
+							"patrinoime": 2448116,
+							"moyenneISF": 9451
+						}, {
+							"nomVille": "AUBAGNE",
+							"codepostal": "13 005",
+							"Redevables": 236,
+							"patrinoime": 2444431,
+							"moyenneISF": 9474
+						}, {
+							"nomVille": "ISTRES",
+							"codepostal": "13 047",
+							"Redevables": 70,
+							"patrinoime": 2646607,
+							"moyenneISF": 9034
+						}, {
+							"nomVille": "LA CIOTAT",
+							"codepostal": "13 028",
+							"Redevables": 279,
+							"patrinoime": 2441527,
+							"moyenneISF": 9311
+						}, {
+							"nomVille": "LES PENNES MIRABEAU",
+							"codepostal": "13 071",
+							"Redevables": 71,
+							"patrinoime": 2334144,
+							"moyenneISF": 6791
+						}, {
+							"nomVille": "MARIGNANE",
+							"codepostal": "13 054",
+							"Redevables": 71,
+							"patrinoime": 2333634,
+							"moyenneISF": 9325
+						}, {
+							"nomVille": "MARSEILLE",
+							"codepostal": "13 055",
+							"Redevables": 3972,
+							"patrinoime": 2814098,
+							"moyenneISF": 11100
+						}, {
+							"nomVille": "MARTIGUES",
+							"codepostal": "13 056",
+							"Redevables": 103,
+							"patrinoime": 2184086,
+							"moyenneISF": 6985
+						}, {
+							"nomVille": "SALON DE PROVENCE",
+							"codepostal": "13 103",
+							"Redevables": 167,
+							"patrinoime": 2234631,
+							"moyenneISF": 8743
+						}
+					]
+				}, {
+					"nomDepartement": "HAUTES-ALPES",
+					"communes": [
+						{
+							"nomVille": "GAP",
+							"codepostal": "05 061",
+							"Redevables": 222,
+							"patrinoime": 2365217,
+							"moyenneISF": 7881
+						}
+					]
+				}, {
+					"nomDepartement": "VAR",
+					"communes": [
+						{
+							"nomVille": "DRAGUIGNAN",
+							"codepostal": "83 050",
+							"Redevables": 207,
+							"patrinoime": 2277359,
+							"moyenneISF": 8632
+						}, {
+							"nomVille": "FREJUS",
+							"codepostal": "83 061",
+							"Redevables": 400,
+							"patrinoime": 2349882,
+							"moyenneISF": 8567
+						}, {
+							"nomVille": "HYERES",
+							"codepostal": "83 069",
+							"Redevables": 554,
+							"patrinoime": 2372786,
+							"moyenneISF": 8956
+						}, {
+							"nomVille": "LA GARDE",
+							"codepostal": "83 062",
+							"Redevables": 102,
+							"patrinoime": 2341742,
+							"moyenneISF": 8925
+						}, {
+							"nomVille": "LA SEYNE SUR MER",
+							"codepostal": "83 126",
+							"Redevables": 171,
+							"patrinoime": 2131870,
+							"moyenneISF": 6719
+						}, {
+							"nomVille": "LA VALETTE",
+							"codepostal": "83 144",
+							"Redevables": 106,
+							"patrinoime": 2110101,
+							"moyenneISF": 7625
+						}, {
+							"nomVille": "SAINT-RAPHAEL",
+							"codepostal": "83 118",
+							"Redevables": 823,
+							"patrinoime": 2534470,
+							"moyenneISF": 9907
+						}, {
+							"nomVille": "SIX-FOURS-LES-PLAGES",
+							"codepostal": "83 129",
+							"Redevables": 259,
+							"patrinoime": 2139974,
+							"moyenneISF": 7200
+						}, {
+							"nomVille": "TOULON",
+							"codepostal": "83 137",
+							"Redevables": 692,
+							"patrinoime": 2413241,
+							"moyenneISF": 8991
+						}
+					]
+				}, {
+					"nomDepartement": "VAUCLUSE",
+					"communes": [
+						{
+							"nomVille": "AVIGNON",
+							"codepostal": "84 007",
+							"Redevables": 341,
+							"patrinoime": 2607636,
+							"moyenneISF": 10291
+						}, {
+							"nomVille": "CARPENTRAS",
+							"codepostal": "84 031",
+							"Redevables": 136,
+							"patrinoime": 2759678,
+							"moyenneISF": 10449
+						}, {
+							"nomVille": "CAVAILLON",
+							"codepostal": "84 035",
+							"Redevables": 94,
+							"patrinoime": 2329990,
+							"moyenneISF": 8960
+						}, {
+							"nomVille": "ORANGE",
+							"codepostal": "84 087",
+							"Redevables": 100,
+							"patrinoime": 2232871,
+							"moyenneISF": 8973
+						}
+					]
+				}
+			]
+		}
+	]
+}

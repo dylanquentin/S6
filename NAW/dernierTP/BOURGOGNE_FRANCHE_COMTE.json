@@ -1,0 +1,110 @@
+{
+	"Region": [
+		{
+			"departement": [
+				{
+					"nomDepartement": "COTE-D'OR",
+					"communes": [
+						{
+							"nomVille": "BEAUNE",
+							"codepostal": "21 054",
+							"Redevables": 159,
+							"patrinoime": 2813839,
+							"moyenneISF": 9954
+						}, {
+							"nomVille": "DIJON",
+							"codepostal": "21 231",
+							"Redevables": 705,
+							"patrinoime": 2742773,
+							"moyenneISF": 10163
+						}
+					]
+				}, {
+					"nomDepartement": "DOUBS",
+					"communes": [
+						{
+							"nomVille": "BESANCON",
+							"codepostal": "25 056",
+							"Redevables": 399,
+							"patrinoime": 2549941,
+							"moyenneISF": 8757
+						}, {
+							"nomVille": "MONTBELIARD",
+							"codepostal": "25 388",
+							"Redevables": 58,
+							"patrinoime": 2117787,
+							"moyenneISF": 7944
+						}
+					]
+				}, {
+					"nomDepartement": "JURA",
+					"communes": [
+						{
+							"nomVille": "DOLE",
+							"codepostal": "39 198",
+							"Redevables": 65,
+							"patrinoime": 2397832,
+							"moyenneISF": 7094
+						}
+					]
+				}, {
+					"nomDepartement": "NIEVRE",
+					"communes": [
+						{
+							"nomVille": "NEVERS",
+							"codepostal": "58 194",
+							"Redevables": 93,
+							"patrinoime": 2697409,
+							"moyenneISF": 11477
+						}
+					]
+				}, {
+					"nomDepartement": "SAONE-ET-LOIRE",
+					"communes": [
+						{
+							"nomVille": "CHALON SUR SAONE",
+							"codepostal": "71 076",
+							"Redevables": 145,
+							"patrinoime": 2482798,
+							"moyenneISF": 9369
+						}, {
+							"nomVille": "MACON",
+							"codepostal": "71 270",
+							"Redevables": 122,
+							"patrinoime": 2699017,
+							"moyenneISF": 12991
+						}
+					]
+				}, {
+					"nomDepartement": "TERRITOIRE DE BELFORT",
+					"communes": [
+						{
+							"nomVille": "BELFORT",
+							"codepostal": "90 010",
+							"Redevables": 112,
+							"patrinoime": 2809208,
+							"moyenneISF": 14028
+						}
+					]
+				}, {
+					"nomDepartement": "YONNE",
+					"communes": [
+						{
+							"nomVille": "AUXERRE",
+							"codepostal": "89 024",
+							"Redevables": 138,
+							"patrinoime": 2423777,
+							"moyenneISF": 9957
+						}, {
+							"nomVille": "SENS",
+							"codepostal": "89 387",
+							"Redevables": 104,
+							"patrinoime": 2736683,
+							"moyenneISF": 10445
+						}
+					]
+				}
+			]
+		}
+	]
+}

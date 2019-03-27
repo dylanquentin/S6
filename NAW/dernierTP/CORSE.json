@@ -1,0 +1,31 @@
+{
+	"Region": [
+		{
+			"departement": [
+				{
+					"nomDepartement": "CORSE-DU-SUD",
+					"communes": [
+						{
+							"nomVille": "AJACCIO",
+							"codepostal": "2A 004",
+							"Redevables": 275,
+							"patrinoime": 2762103,
+							"moyenneISF": 12167
+						}
+					]
+				}, {
+					"nomDepartement": "HAUTE-CORSE",
+					"communes": [
+						{
+							"nomVille": "BASTIA",
+							"codepostal": "2B 033",
+							"Redevables": 120,
+							"patrinoime": 2501135,
+							"moyenneISF": 10707
+						}
+					]
+				}
+			]
+		}
+	]
+}

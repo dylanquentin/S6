@@ -1,0 +1,99 @@
+{
+	"Region": [
+		{
+			"departement": [
+				{
+					"nomDepartement": "CHER",
+					"communes": [
+						{
+							"nomVille": "BOURGES",
+							"codepostal": "18 033",
+							"Redevables": 249,
+							"patrinoime": 2313939,
+							"moyenneISF": 8445
+						}
+					]
+				}, {
+					"nomDepartement": "EURE-ET-LOIR",
+					"communes": [
+						{
+							"nomVille": "CHARTRES",
+							"codepostal": "28 085",
+							"Redevables": 286,
+							"patrinoime": 2509646,
+							"moyenneISF": 10285
+						}, {
+							"nomVille": "DREUX",
+							"codepostal": "28 134",
+							"Redevables": 63,
+							"patrinoime": 2650964,
+							"moyenneISF": 13062
+						}
+					]
+				}, {
+					"nomDepartement": "INDRE",
+					"communes": [
+						{
+							"nomVille": "CHATEAUROUX",
+							"codepostal": "36 044",
+							"Redevables": 145,
+							"patrinoime": 2701742,
+							"moyenneISF": 11201
+						}
+					]
+				}, {
+					"nomDepartement": "INDRE-ET-LOIRE",
+					"communes": [
+						{
+							"nomVille": "JOUE LES TOURS",
+							"codepostal": "37 122",
+							"Redevables": 89,
+							"patrinoime": 2406464,
+							"moyenneISF": 8812
+						}, {
+							"nomVille": "TOURS",
+							"codepostal": "37 261",
+							"Redevables": 691,
+							"patrinoime": 2452452,
+							"moyenneISF": 9901
+						}
+					]
+				}, {
+					"nomDepartement": "LOIR-ET-CHER",
+					"communes": [
+						{
+							"nomVille": "BLOIS",
+							"codepostal": "41 018",
+							"Redevables": 166,
+							"patrinoime": 2444366,
+							"moyenneISF": 9501
+						}
+					]
+				}, {
+					"nomDepartement": "LOIRET",
+					"communes": [
+						{
+							"nomVille": "OLIVET",
+							"codepostal": "45 232",
+							"Redevables": 194,
+							"patrinoime": 2438391,
+							"moyenneISF": 10489
+						}, {
+							"nomVille": "ORLEANS",
+							"codepostal": "45 234",
+							"Redevables": 587,
+							"patrinoime": 2439518,
+							"moyenneISF": 9728
+						}, {
+							"nomVille": "SAINT JEAN DE BRAYE",
+							"codepostal": "45 284",
+							"Redevables": 68,
+							"patrinoime": 2109774,
+							"moyenneISF": 6982
+						}
+					]
+				}
+			]
+		}
+	]
+}

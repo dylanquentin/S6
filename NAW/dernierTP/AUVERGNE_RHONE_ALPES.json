@@ -1,0 +1,269 @@
+{
+	"Region": [
+		{
+			"departement": [
+				{
+					"nomDepartement": "AIN",
+					"communes": [
+						{
+							"nomVille": "BOURG-EN-BRESSE",
+							"codepostal": "01 053",
+							"Redevables": 157,
+							"patrinoime": 2261155,
+							"moyenneISF": 8297
+						}, {
+							"nomVille": "OYONNAX",
+							"codepostal": "01 283",
+							"Redevables": 88,
+							"patrinoime": 3236170,
+							"moyenneISF": 12078
+						}
+					]
+				}, {
+					"nomDepartement": "ALLIER",
+					"communes": [
+						{
+							"nomVille": "MONTLUCON",
+							"codepostal": "03 185",
+							"Redevables": 111,
+							"patrinoime": 2591793,
+							"moyenneISF": 9721
+						}, {
+							"nomVille": "MOULINS",
+							"codepostal": "03 190",
+							"Redevables": 59,
+							"patrinoime": 2524509,
+							"moyenneISF": 10026
+						}, {
+							"nomVille": "VICHY",
+							"codepostal": "03 310",
+							"Redevables": 177,
+							"patrinoime": 2369664,
+							"moyenneISF": 7316
+						}
+					]
+				}, {
+					"nomDepartement": "CANTAL",
+					"communes": [
+						{
+							"nomVille": "AURILLAC",
+							"codepostal": "15 014",
+							"Redevables": 118,
+							"patrinoime": 2606677,
+							"moyenneISF": 9251
+						}
+					]
+				}, {
+					"nomDepartement": "DROME",
+					"communes": [
+						{
+							"nomVille": "MONTELIMAR",
+							"codepostal": "26 198",
+							"Redevables": 170,
+							"patrinoime": 2694564,
+							"moyenneISF": 10374
+						}, {
+							"nomVille": "ROMANS",
+							"codepostal": "26 281",
+							"Redevables": 100,
+							"patrinoime": 2330674,
+							"moyenneISF": 7176
+						}, {
+							"nomVille": "VALENCE",
+							"codepostal": "26 362",
+							"Redevables": 260,
+							"patrinoime": 2749326,
+							"moyenneISF": 10698
+						}
+					]
+				}, {
+					"nomDepartement": "HAUTE-SAVOIE",
+					"communes": [
+						{
+							"nomVille": "ANNECY",
+							"codepostal": "74 010",
+							"Redevables": 1196,
+							"patrinoime": 2424021,
+							"moyenneISF": 8938
+						}, {
+							"nomVille": "ANNEMASSE",
+							"codepostal": "74 012",
+							"Redevables": 113,
+							"patrinoime": 2184705,
+							"moyenneISF": 7509
+						}, {
+							"nomVille": "THONON-LES-BAINS",
+							"codepostal": "74 281",
+							"Redevables": 245,
+							"patrinoime": 2528043,
+							"moyenneISF": 11240
+						}
+					]
+				}, {
+					"nomDepartement": "ISERE",
+					"communes": [
+						{
+							"nomVille": "BOURGOIN JALLIEU",
+							"codepostal": "38 053",
+							"Redevables": 86,
+							"patrinoime": 2538748,
+							"moyenneISF": 9754
+						}, {
+							"nomVille": "GRENOBLE",
+							"codepostal": "38 185",
+							"Redevables": 709,
+							"patrinoime": 2523982,
+							"moyenneISF": 9452
+						}, {
+							"nomVille": "VIENNE",
+							"codepostal": "38 544",
+							"Redevables": 146,
+							"patrinoime": 2378705,
+							"moyenneISF": 8218
+						}, {
+							"nomVille": "VOIRON",
+							"codepostal": "38 563",
+							"Redevables": 108,
+							"patrinoime": 2789975,
+							"moyenneISF": 12176
+						}
+					]
+				}, {
+					"nomDepartement": "LOIRE",
+					"communes": [
+						{
+							"nomVille": "ROANNE",
+							"codepostal": "42 187",
+							"Redevables": 108,
+							"patrinoime": 2408761,
+							"moyenneISF": 9623
+						}, {
+							"nomVille": "SAINT CHAMOND",
+							"codepostal": "42 207",
+							"Redevables": 72,
+							"patrinoime": 2679118,
+							"moyenneISF": 9681
+						}, {
+							"nomVille": "SAINT ETIENNE",
+							"codepostal": "42 218",
+							"Redevables": 471,
+							"patrinoime": 2544960,
+							"moyenneISF": 9989
+						}
+					]
+				}, {
+					"nomDepartement": "PUY-DE-DOME",
+					"communes": [
+						{
+							"nomVille": "CLERMONT-FERRAND",
+							"codepostal": "63 113",
+							"Redevables": 484,
+							"patrinoime": 2503563,
+							"moyenneISF": 10260
+						}
+					]
+				}, {
+					"nomDepartement": "RHONE",
+					"communes": [
+						{
+							"nomVille": "BRON",
+							"codepostal": "69 029",
+							"Redevables": 172,
+							"patrinoime": 2431917,
+							"moyenneISF": 8984
+						}, {
+							"nomVille": "CALUIRE ET CUIRE",
+							"codepostal": "69 034",
+							"Redevables": 563,
+							"patrinoime": 2796882,
+							"moyenneISF": 9611
+						}, {
+							"nomVille": "DECINES-CHARPIEU",
+							"codepostal": "69 275",
+							"Redevables": 55,
+							"patrinoime": 2104158,
+							"moyenneISF": 6289
+						}, {
+							"nomVille": "LYON",
+							"codepostal": "69 123",
+							"Redevables": 4718,
+							"patrinoime": 2740466,
+							"moyenneISF": 10415
+						}, {
+							"nomVille": "MEYZIEU",
+							"codepostal": "69 282",
+							"Redevables": 95,
+							"patrinoime": 2835529,
+							"moyenneISF": 11687
+						}, {
+							"nomVille": "OULLINS",
+							"codepostal": "69 149",
+							"Redevables": 71,
+							"patrinoime": 2197514,
+							"moyenneISF": 8058
+						}, {
+							"nomVille": "RILLIEUX LA PAPE",
+							"codepostal": "69 286",
+							"Redevables": 105,
+							"patrinoime": 2458141,
+							"moyenneISF": 10357
+						}, {
+							"nomVille": "SAINT-GENIS-LAVAL",
+							"codepostal": "69 204",
+							"Redevables": 182,
+							"patrinoime": 2416434,
+							"moyenneISF": 8116
+						}, {
+							"nomVille": "SAINT-PRIEST",
+							"codepostal": "69 290",
+							"Redevables": 81,
+							"patrinoime": 2844559,
+							"moyenneISF": 10884
+						}, {
+							"nomVille": "STE FOY LES LYON",
+							"codepostal": "69 202",
+							"Redevables": 411,
+							"patrinoime": 2882466,
+							"moyenneISF": 11611
+						}, {
+							"nomVille": "TASSIN-LA-DEMI-LUNE",
+							"codepostal": "69 244",
+							"Redevables": 269,
+							"patrinoime": 2654925,
+							"moyenneISF": 9474
+						}, {
+							"nomVille": "VILLEFRANCHE-SUR-SAONE",
+							"codepostal": "69 264",
+							"Redevables": 107,
+							"patrinoime": 2320604,
+							"moyenneISF": 8760
+						}, {
+							"nomVille": "VILLEURBANNE",
+							"codepostal": "69 266",
+							"Redevables": 274,
+							"patrinoime": 2211022,
+							"moyenneISF": 6861
+						}
+					]
+				}, {
+					"nomDepartement": "SAVOIE",
+					"communes": [
+						{
+							"nomVille": "AIX LES BAINS",
+							"codepostal": "73 008",
+							"Redevables": 247,
+							"patrinoime": 2207023,
+							"moyenneISF": 7418
+						}, {
+							"nomVille": "CHAMBERY",
+							"codepostal": "73 065",
+							"Redevables": 346,
+							"patrinoime": 2659881,
+							"moyenneISF": 10021
+						}
+					]
+				}
+			]
+		}
+	]
+}

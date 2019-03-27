@@ -1,0 +1,26 @@
+{
+	"Region": [
+		{
+			"departement": [
+				{
+					"nomDepartement": "GUYANE",
+					"communes": [
+						{
+							"nomVille": "CAYENNE",
+							"codepostal": "97302",
+							"Redevables": 60,
+							"patrinoime": 2722788,
+							"moyenneISF": 14709
+						}, {
+							"nomVille": "REMIRE-MONTJOLY",
+							"codepostal": "97309",
+							"Redevables": 56,
+							"patrinoime": 2736079,
+							"moyenneISF": 13468
+						}
+					]
+				}
+			]
+		}
+	]
+}

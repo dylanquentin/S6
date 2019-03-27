@@ -1,0 +1,174 @@
+{
+	"Region": [
+		{
+			"departement": [
+				{
+					"nomDepartement": "ARDENNES",
+					"communes": [
+						{
+							"nomVille": "CHARLEVILLE MEZIERES",
+							"codepostal": "08 105",
+							"Redevables": 128,
+							"patrinoime": 2285146,
+							"moyenneISF": 8364
+						}
+					]
+				}, {
+					"nomDepartement": "AUBE",
+					"communes": [
+						{
+							"nomVille": "TROYES",
+							"codepostal": "10 387",
+							"Redevables": 206,
+							"patrinoime": 2909408,
+							"moyenneISF": 13247
+						}
+					]
+				}, {
+					"nomDepartement": "BAS-RHIN",
+					"communes": [
+						{
+							"nomVille": "HAGUENAU",
+							"codepostal": "67 180",
+							"Redevables": 157,
+							"patrinoime": 2849602,
+							"moyenneISF": 10249
+						}, {
+							"nomVille": "ILLKIRCH GRAFFENSTADEN",
+							"codepostal": "67 218",
+							"Redevables": 107,
+							"patrinoime": 2171732,
+							"moyenneISF": 7297
+						}, {
+							"nomVille": "SCHILTIGHEIM",
+							"codepostal": "67 447",
+							"Redevables": 71,
+							"patrinoime": 2539596,
+							"moyenneISF": 9870
+						}, {
+							"nomVille": "STRASBOURG",
+							"codepostal": "67 482",
+							"Redevables": 1862,
+							"patrinoime": 3273344,
+							"moyenneISF": 13247
+						}
+					]
+				}, {
+					"nomDepartement": "HAUT-RHIN",
+					"communes": [
+						{
+							"nomVille": "COLMAR",
+							"codepostal": "68 066",
+							"Redevables": 311,
+							"patrinoime": 2775376,
+							"moyenneISF": 12232
+						}, {
+							"nomVille": "MULHOUSE",
+							"codepostal": "68 224",
+							"Redevables": 367,
+							"patrinoime": 2877950,
+							"moyenneISF": 12184
+						}, {
+							"nomVille": "SAINT-LOUIS",
+							"codepostal": "68 297",
+							"Redevables": 82,
+							"patrinoime": 2628951,
+							"moyenneISF": 11125
+						}
+					]
+				}, {
+					"nomDepartement": "HAUTE-MARNE",
+					"communes": [
+						{
+							"nomVille": "SAINT-DIZIER",
+							"codepostal": "52 448",
+							"Redevables": 54,
+							"patrinoime": 3574163,
+							"moyenneISF": 10334
+						}
+					]
+				}, {
+					"nomDepartement": "MARNE",
+					"communes": [
+						{
+							"nomVille": "CHALONS EN CHAMPAGNE",
+							"codepostal": "51 108",
+							"Redevables": 121,
+							"patrinoime": 2350793,
+							"moyenneISF": 8740
+						}, {
+							"nomVille": "EPERNAY",
+							"codepostal": "51 230",
+							"Redevables": 91,
+							"patrinoime": 2825229,
+							"moyenneISF": 11316
+						}, {
+							"nomVille": "REIMS",
+							"codepostal": "51 454",
+							"Redevables": 823,
+							"patrinoime": 2638416,
+							"moyenneISF": 10273
+						}
+					]
+				}, {
+					"nomDepartement": "MEURTHE-ET-MOSELLE",
+					"communes": [
+						{
+							"nomVille": "NANCY",
+							"codepostal": "54 395",
+							"Redevables": 670,
+							"patrinoime": 2758052,
+							"moyenneISF": 11831
+						}, {
+							"nomVille": "VANDOEUVRE LES NANCY",
+							"codepostal": "54 547",
+							"Redevables": 68,
+							"patrinoime": 2324338,
+							"moyenneISF": 8064
+						}
+					]
+				}, {
+					"nomDepartement": "MOSELLE",
+					"communes": [
+						{
+							"nomVille": "METZ",
+							"codepostal": "57 463",
+							"Redevables": 404,
+							"patrinoime": 2799108,
+							"moyenneISF": 12016
+						}, {
+							"nomVille": "MONTIGNY LES METZ",
+							"codepostal": "57 480",
+							"Redevables": 107,
+							"patrinoime": 2489913,
+							"moyenneISF": 11003
+						}, {
+							"nomVille": "SARREGUEMINES",
+							"codepostal": "57 631",
+							"Redevables": 68,
+							"patrinoime": 2699775,
+							"moyenneISF": 9853
+						}, {
+							"nomVille": "THIONVILLE",
+							"codepostal": "57 672",
+							"Redevables": 227,
+							"patrinoime": 2621327,
+							"moyenneISF": 10470
+						}
+					]
+				}, {
+					"nomDepartement": "VOSGES",
+					"communes": [
+						{
+							"nomVille": "EPINAL",
+							"codepostal": "88 160",
+							"Redevables": 123,
+							"patrinoime": 2977968,
+							"moyenneISF": 12546
+						}
+					]
+				}
+			]
+		}
+	]
+}

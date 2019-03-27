@@ -1,0 +1,26 @@
+{
+	"Region": [
+		{
+			"departement": [
+				{
+					"nomDepartement": "MARTINIQUE",
+					"communes": [
+						{
+							"nomVille": "FORT DE FRANCE",
+							"codepostal": "97209",
+							"Redevables": 85,
+							"patrinoime": 3254545,
+							"moyenneISF": 14676
+						}, {
+							"nomVille": "SCHOELCHER",
+							"codepostal": "97229",
+							"Redevables": 66,
+							"patrinoime": 2797612,
+							"moyenneISF": 14089
+						}
+					]
+				}
+			]
+		}
+	]
+}

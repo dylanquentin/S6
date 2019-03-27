@@ -1,0 +1,86 @@
+<html>
+	<head>
+		<title>Chargement JSON - requête AJAX</title>
+    <style type="text/css">
+    input ~ ul {display: none;}
+        input:checked ~ ul {display: block;}
+    </style>
+
+		<script type="text/javascript">
+		function genRegion(regs){ 
+       var lregion = document.createElement("ul") ; 
+          for (i=0;i<regs.length; i++) { 
+            var ligne = document.createElement("li"); 
+            var input = document.createElement('input');
+            input.type = "checkbox";
+            
+       
+
+            var listeInfo = document.createElement("ul");
+            
+
+
+            //GESTION DE L'IMAGE
+            var ligneImage = document.createElement("li");
+            var image = document.createElement("img");
+            image.src = "REGIONS/"+regs[i].getElementsByTagName("image")[0].textContent;
+            ligneImage.appendChild(image);
+            //END GESTION IMAGE
+
+            //Gestion des infos
+            var ligneInfo = document.createElement("li");
+            var src = "REGIONS/"+regs[i].getElementsByTagName("json")[0].textContent;
+            var requeteJson = new XMLHttpRequest();  
+
+            requeteJson.onreadystatechange = function(){ 
+            if(requeteJson.readyState == 4 && requeteJson.status == 200){
+              isf = requeteJson.responseXML.documentElement;  
+              var regs = isf.getElementsByTagName("region") ; 
+              var division = document.getElementById("liste");  
+              var lregion = genRegion(regs);
+              division.appendChild(lregion);     
+            } 
+          };
+          requeteJson.open("GET",src,true);
+
+
+
+
+            //End gestion infos
+
+
+
+            listeInfo.appendChild(ligneImage);
+
+            ligne.appendChild(input);
+            var valueRegion = document.createTextNode(regs[i].getAttribute("nom"));
+            ligne.appendChild(valueRegion);
+            ligne.appendChild(listeInfo);
+            lregion.appendChild(ligne);  
+          }  ; 
+      return lregion; 
+		}
+
+		</script>
+	</head>
+	<body>
+		<div id="liste"></div>
+	</body>
+	<script type="text/javascript"> 
+	   var isf ; 
+       var requete = new XMLHttpRequest();  
+       requete.onreadystatechange = function(){ 
+            if(requete.readyState == 4 && requete.status == 200)
+                {isf = requete.responseXML.documentElement;  
+                 var regs = isf.getElementsByTagName("region") ; 
+                 var division = document.getElementById("liste");  
+                 var lregion = genRegion(regs);
+                division.appendChild(lregion);     
+                } 
+            }  ;
+     requete.open("GET","regions.xml",true);
+     requete.send(null);   
+
+
+	</script>
+</html>

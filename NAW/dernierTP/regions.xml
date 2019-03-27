@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<regions>
+	<region nom="Auvergne Rhône Alpes ">
+		<json>AUVERGNE_RHONE_ALPES.json</json> 
+		<image>AuvergneRhoneAlpes.jpg</image>
+	</region>
+	<region nom="Bourgogne Franche Comté">
+		<json>BOURGOGNE_FRANCHE_COMTE.json</json>
+		<image>BourgogneFrancheComte.jpg</image>
+	</region>
+	<region nom="Bretagne">
+		<json>BRETAGNE.json</json>
+		<image>Bretagne.jpg</image>
+	</region>
+	<region nom="Centre Val de Loire">
+		<json>CENTRE_VAL_DE_LOIRE.json</json>
+		<image>CentreValDeLoire.jpg</image>
+	</region>
+		<region nom="Corse">
+		<json>CORSE.json</json>
+		<image>corse.jpg</image>
+	</region>
+	<region nom="Grand Est">
+		<json>GRAND_EST.json</json>
+		<image>GrandEst.jpg</image>
+	</region>
+	<region nom="Gaudeloupe">
+		<json>GUADELOUPE.json</json>
+		<image>guadeloupe.jpg</image>
+	</region>
+	<region nom="Guyane">
+		<json>GUYANE.json</json>
+		<image>guyane.jpg</image>
+	</region>
+		<region nom="Hauts de France">
+		<json>HAUTS_DE_FRANCE.json</json>
+		<image>hautsDeFrance.jpg</image>
+	</region>
+	<region nom="Île de France">
+		<json>ILE_DE_FRANCE.json</json>
+		<image>IleDeFrance.jpg</image>
+	</region>
+	<region nom="Martinique">
+		<json>MARTNIQUE.json</json>
+		<image>martinique.jpg</image>
+	</region>
+	<region nom="Normandie">
+		<json>NORMANDIE.json</json>
+		<image>Normandie.jpg</image>
+	</region>
+		<region nom="Nouvelle Aquitaine">
+		<json>NOUVELLE_AQUITAINE</json>
+		<image>NouvelleAquitaine.jpg</image>
+	</region>	
+	<region nom="Occitanie">
+		<json>OCCITANIE.json</json>
+		<image>occitanie.jpg</image>
+	</region>
+	<region nom="Pays de Loire">
+		<json>PAYS_DE_LOIRE.json</json>
+		<image>PaysDeLoire.jpg</image>
+	</region>
+	<region nom="Provence Alpes Côte d'Azur">
+		<json>PROVENCE_ALPES_COTE_DAZUR.json</json>
+		<image>ProvenceAlpesCoteAzur.jpg</image>
+	</region>
+		<region nom="La Réunion">
+		<json>LA_REUNION.json</json>
+		<image>reunion.jpg</image>
+	</region>
+</regions>

@@ -1,0 +1,62 @@
+{
+	"Region": [
+		{
+			"departement": [
+				{
+					"nomDepartement": "LA REUNION",
+					"communes": [
+						{
+							"nomVille": "LA POSSESSION",
+							"codepostal": "97408",
+							"Redevables": 80,
+							"patrinoime": 2063527,
+							"moyenneISF": 7400
+						}, {
+							"nomVille": "SAINT ANDRE",
+							"codepostal": "97409",
+							"Redevables": 59,
+							"patrinoime": 2679497,
+							"moyenneISF": 10246
+						}, {
+							"nomVille": "SAINT DENIS",
+							"codepostal": "97411",
+							"Redevables": 517,
+							"patrinoime": 2530939,
+							"moyenneISF": 11143
+						}, {
+							"nomVille": "SAINT PAUL",
+							"codepostal": "97415",
+							"Redevables": 318,
+							"patrinoime": 2509763,
+							"moyenneISF": 9170
+						}, {
+							"nomVille": "SAINT PIERRE",
+							"codepostal": "97416",
+							"Redevables": 166,
+							"patrinoime": 2678032,
+							"moyenneISF": 10864
+						}, {
+							"nomVille": "SAINT-LOUIS",
+							"codepostal": "97414",
+							"Redevables": 51,
+							"patrinoime": 2464169,
+							"moyenneISF": 9331
+						}, {
+							"nomVille": "SAINTE MARIE",
+							"codepostal": "97418",
+							"Redevables": 74,
+							"patrinoime": 2117078,
+							"moyenneISF": 8348
+						}, {
+							"nomVille": "TAMPON",
+							"codepostal": "97422",
+							"Redevables": 149,
+							"patrinoime": 2261774,
+							"moyenneISF": 9067
+						}
+					]
+				}
+			]
+		}
+	]
+}

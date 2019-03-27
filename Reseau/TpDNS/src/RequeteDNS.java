@@ -1,34 +1,69 @@
+// @author QUENTIN Dylan -- Dépommier Thibaut
 import java.net.DatagramPacket;
 import java.net.DatagramSocket;
 import java.net.InetAddress;
+import java.util.Arrays;
+import java.util.Scanner;
 
 public class RequeteDNS {
 
 	public static void main(String[] args) throws Exception {
-		String adresse = "www.lifl.fr";
-
-		if (args.length == 1) {
-			adresse = args[0];
-		}
-
-		// On cree le paquet que l'on veut envoyer
-		byte[] envoie = creerPaquet(adresse);
-		byte[]recu = envoyerPaquet(envoie);
 		
-		System.out.println("Trame reçue : ");
+		while(true){
+			Scanner sc = new Scanner(System.in);
+			
+			System.out.print("Adresse internet : ");
+			String adresse = sc.nextLine();
+			System.out.println();
+			if (args.length == 1) {
+				adresse = args[0];
+			}
+	
+			// On cree le paquet que l'on veut envoyer
+			byte[] envoie = creerPaquet(adresse);
+			byte[]recu = envoyerPaquet(envoie);
+			
+			System.out.println("Trame reçue : ");
+			for (int i = 0; i < recu.length; i++) {
+				if (i % 16 != 0)
+					System.out.print(", " + Integer.toHexString(recu[i] & 0xff));
+				else
+					System.out.print("\n" + Integer.toHexString(recu[i] & 0xff));
+			}
+			System.out.println();
+			byte[]adresseIP = extractIp(recu);
+			showInfo(recu);
+			System.out.println("\n");
+			System.out.println("Adresse ip : "+InetAddress.getByAddress(adresseIP));
+		}
+		
+	}
+
+	
+	/** Affiche le détail de la réponse*/
+	private static void showInfo(byte[] recu) {
+		// TODO Auto-generated method stub
 		for (int i = 0; i < recu.length; i++) {
-			if (i % 16 != 0)
-				System.out.print(", " + Integer.toHexString(recu[i] & 0xff));
-			else
-				System.out.print("\n" + Integer.toHexString(recu[i] & 0xff));
+	        if (recu[i] == (byte) 0xC0) {
+	            	
+	          int RDDLength = (((recu[i+10] & 0xFF) << 8)  + (recu[i+11] & 0xFF));
+
+	          System.out.println("Type........: " + (((recu[i+2]  & 0xFF) << 8)  + (recu[i+3] & 0xFF)));
+	          System.out.println("Classe......: " + (((recu[i+4]  & 0xFF) << 8)  + (recu[i+5] & 0xFF)));
+	          System.out.println("TTL.........: " + (((recu[i+6]  & 0xFF) << 24) + ((recu[i+7] & 0xFF) << 16) + ((recu[i+8] & 0xFF) << 8) + (recu[i+9] & 0xFF)));
+	          System.out.println("RDDLength...: " + RDDLength);
+
+	          if (RDDLength == 4) {
+	            System.out.print(String.format("%d.", recu[i+12] & 0xFF));
+	            System.out.print(String.format("%d.", recu[i+13] & 0xFF));
+	            System.out.print(String.format("%d.", recu[i+14] & 0xFF));
+	            System.out.print(String.format("%d ", recu[i+15] & 0xFF));
+	            System.out.println(" (IPv4)");
+	          }
+	          System.out.println();
+	          i += 11 + RDDLength;
+	        }
 		}
-		
-		byte[]adresseIP = extractIp(recu);
-		System.out.println("\n");
-		System.out.println("Adresse ip : "+InetAddress.getByAddress(adresseIP));
-		System.out.println("Adresse en entier : "+ipToInt(adresseIP));
-		
-		
 	}
 
 	/**

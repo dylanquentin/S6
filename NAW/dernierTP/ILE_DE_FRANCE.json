@@ -1,0 +1,907 @@
+{
+	"Region": [
+		{
+			"departement": [
+				{
+					"nomDepartement": "ESSONNE",
+					"communes": [
+						{
+							"nomVille": "ATHIS MONS",
+							"codepostal": "91 027",
+							"Redevables": 73,
+							"patrinoime": 2441131,
+							"moyenneISF": 10964
+						}, {
+							"nomVille": "BRETIGNY SUR ORGE",
+							"codepostal": "91 103",
+							"Redevables": 51,
+							"patrinoime": 2307521,
+							"moyenneISF": 9127
+						}, {
+							"nomVille": "BRUNOY",
+							"codepostal": "91 114",
+							"Redevables": 166,
+							"patrinoime": 2401319,
+							"moyenneISF": 9882
+						}, {
+							"nomVille": "CORBEIL ESSONNES",
+							"codepostal": "91 174",
+							"Redevables": 53,
+							"patrinoime": 2803198,
+							"moyenneISF": 10127
+						}, {
+							"nomVille": "DRAVEIL",
+							"codepostal": "91 201",
+							"Redevables": 128,
+							"patrinoime": 2474554,
+							"moyenneISF": 8964
+						}, {
+							"nomVille": "ETAMPES",
+							"codepostal": "91 223",
+							"Redevables": 66,
+							"patrinoime": 2533716,
+							"moyenneISF": 10541
+						}, {
+							"nomVille": "GIF SUR YVETTE",
+							"codepostal": "91 272",
+							"Redevables": 385,
+							"patrinoime": 2243196,
+							"moyenneISF": 7135
+						}, {
+							"nomVille": "LONGJUMEAU",
+							"codepostal": "91 345",
+							"Redevables": 51,
+							"patrinoime": 3033181,
+							"moyenneISF": 15381
+						}, {
+							"nomVille": "MASSY",
+							"codepostal": "91 377",
+							"Redevables": 102,
+							"patrinoime": 2142458,
+							"moyenneISF": 7697
+						}, {
+							"nomVille": "MONTGERON",
+							"codepostal": "91 421",
+							"Redevables": 162,
+							"patrinoime": 2462693,
+							"moyenneISF": 8093
+						}, {
+							"nomVille": "MORSANG SUR ORGE",
+							"codepostal": "91 434",
+							"Redevables": 75,
+							"patrinoime": 2431240,
+							"moyenneISF": 9341
+						}, {
+							"nomVille": "PALAISEAU",
+							"codepostal": "91 477",
+							"Redevables": 249,
+							"patrinoime": 3663182,
+							"moyenneISF": 10959
+						}, {
+							"nomVille": "SAVIGNY SUR ORGE",
+							"codepostal": "91 589",
+							"Redevables": 124,
+							"patrinoime": 2138970,
+							"moyenneISF": 7490
+						}, {
+							"nomVille": "STE GENEVIEVE DES BOIS",
+							"codepostal": "91 549",
+							"Redevables": 154,
+							"patrinoime": 2385924,
+							"moyenneISF": 8417
+						}, {
+							"nomVille": "VIRY CHATILLON",
+							"codepostal": "91 687",
+							"Redevables": 64,
+							"patrinoime": 1983768,
+							"moyenneISF": 5987
+						}, {
+							"nomVille": "YERRES",
+							"codepostal": "91 691",
+							"Redevables": 131,
+							"patrinoime": 2243349,
+							"moyenneISF": 7905
+						}
+					]
+				}, {
+					"nomDepartement": "HAUTS-DE-SEINE",
+					"communes": [
+						{
+							"nomVille": "ANTONY",
+							"codepostal": "92 002",
+							"Redevables": 860,
+							"patrinoime": 2307096,
+							"moyenneISF": 8082
+						}, {
+							"nomVille": "ASNIERES",
+							"codepostal": "92 004",
+							"Redevables": 807,
+							"patrinoime": 2502598,
+							"moyenneISF": 9209
+						}, {
+							"nomVille": "BAGNEUX",
+							"codepostal": "92 007",
+							"Redevables": 69,
+							"patrinoime": 2059583,
+							"moyenneISF": 6275
+						}, {
+							"nomVille": "BOIS-COLOMBES",
+							"codepostal": "92 009",
+							"Redevables": 354,
+							"patrinoime": 2387518,
+							"moyenneISF": 8154
+						}, {
+							"nomVille": "BOULOGNE BILLANCOURT",
+							"codepostal": "92 012",
+							"Redevables": 3914,
+							"patrinoime": 2954863,
+							"moyenneISF": 12731
+						}, {
+							"nomVille": "BOURG LA REINE",
+							"codepostal": "92 014",
+							"Redevables": 483,
+							"patrinoime": 2622848,
+							"moyenneISF": 9392
+						}, {
+							"nomVille": "CHATENAY MALABRY",
+							"codepostal": "92 019",
+							"Redevables": 317,
+							"patrinoime": 2618242,
+							"moyenneISF": 10802
+						}, {
+							"nomVille": "CHATILLON",
+							"codepostal": "92 020",
+							"Redevables": 261,
+							"patrinoime": 2395131,
+							"moyenneISF": 8330
+						}, {
+							"nomVille": "CLAMART",
+							"codepostal": "92 023",
+							"Redevables": 701,
+							"patrinoime": 2600416,
+							"moyenneISF": 9811
+						}, {
+							"nomVille": "CLICHY",
+							"codepostal": "92 024",
+							"Redevables": 131,
+							"patrinoime": 2263898,
+							"moyenneISF": 8517
+						}, {
+							"nomVille": "COLOMBES",
+							"codepostal": "92 025",
+							"Redevables": 463,
+							"patrinoime": 2470270,
+							"moyenneISF": 10353
+						}, {
+							"nomVille": "COURBEVOIE",
+							"codepostal": "92 026",
+							"Redevables": 1137,
+							"patrinoime": 2361265,
+							"moyenneISF": 9045
+						}, {
+							"nomVille": "FONTENAY AUX ROSES",
+							"codepostal": "92 032",
+							"Redevables": 281,
+							"patrinoime": 2136306,
+							"moyenneISF": 6936
+						}, {
+							"nomVille": "ISSY LES MOULINEAUX",
+							"codepostal": "92 040",
+							"Redevables": 911,
+							"patrinoime": 2484814,
+							"moyenneISF": 8867
+						}, {
+							"nomVille": "LA GARENNE COLOMBES",
+							"codepostal": "92 035",
+							"Redevables": 353,
+							"patrinoime": 2427495,
+							"moyenneISF": 9211
+						}, {
+							"nomVille": "LE PLESSIS ROBINSON",
+							"codepostal": "92 060",
+							"Redevables": 203,
+							"patrinoime": 2316036,
+							"moyenneISF": 8535
+						}, {
+							"nomVille": "LEVALLOIS-PERRET",
+							"codepostal": "92 044",
+							"Redevables": 1374,
+							"patrinoime": 3105437,
+							"moyenneISF": 10956
+						}, {
+							"nomVille": "MALAKOFF",
+							"codepostal": "92 046",
+							"Redevables": 161,
+							"patrinoime": 2391552,
+							"moyenneISF": 8445
+						}, {
+							"nomVille": "MEUDON",
+							"codepostal": "92 048",
+							"Redevables": 1015,
+							"patrinoime": 2710995,
+							"moyenneISF": 10517
+						}, {
+							"nomVille": "MONTROUGE",
+							"codepostal": "92 049",
+							"Redevables": 454,
+							"patrinoime": 2558496,
+							"moyenneISF": 10532
+						}, {
+							"nomVille": "NANTERRE",
+							"codepostal": "92 050",
+							"Redevables": 263,
+							"patrinoime": 2154642,
+							"moyenneISF": 6608
+						}, {
+							"nomVille": "NEUILLY SUR SEINE",
+							"codepostal": "92 051",
+							"Redevables": 5834,
+							"patrinoime": 6026825,
+							"moyenneISF": 27701
+						}, {
+							"nomVille": "PUTEAUX",
+							"codepostal": "92 062",
+							"Redevables": 371,
+							"patrinoime": 2446901,
+							"moyenneISF": 8671
+						}, {
+							"nomVille": "RUEIL MALMAISON",
+							"codepostal": "92 063",
+							"Redevables": 1638,
+							"patrinoime": 2648842,
+							"moyenneISF": 9940
+						}, {
+							"nomVille": "SAINT CLOUD",
+							"codepostal": "92 064",
+							"Redevables": 1358,
+							"patrinoime": 3272585,
+							"moyenneISF": 14975
+						}, {
+							"nomVille": "SEVRES",
+							"codepostal": "92 072",
+							"Redevables": 662,
+							"patrinoime": 2742750,
+							"moyenneISF": 10828
+						}, {
+							"nomVille": "SURESNES",
+							"codepostal": "92 073",
+							"Redevables": 643,
+							"patrinoime": 2600892,
+							"moyenneISF": 10454
+						}, {
+							"nomVille": "VANVES",
+							"codepostal": "92 075",
+							"Redevables": 383,
+							"patrinoime": 2369636,
+							"moyenneISF": 8747
+						}
+					]
+				}, {
+					"nomDepartement": "PARIS",
+					"communes": [
+						{
+							"nomVille": "PARIS",
+							"codepostal": "75 101",
+							"Redevables": 833,
+							"patrinoime": 3587881,
+							"moyenneISF": 19208
+						}, {
+							"nomVille": "PARIS",
+							"codepostal": "75 102",
+							"Redevables": 562,
+							"patrinoime": 2720931,
+							"moyenneISF": 10911
+						}, {
+							"nomVille": "PARIS",
+							"codepostal": "75 103",
+							"Redevables": 1250,
+							"patrinoime": 3249056,
+							"moyenneISF": 14927
+						}, {
+							"nomVille": "PARIS",
+							"codepostal": "75 104",
+							"Redevables": 1333,
+							"patrinoime": 3731819,
+							"moyenneISF": 18510
+						}, {
+							"nomVille": "PARIS",
+							"codepostal": "75 105",
+							"Redevables": 2720,
+							"patrinoime": 3057294,
+							"moyenneISF": 13114
+						}, {
+							"nomVille": "PARIS",
+							"codepostal": "75 106",
+							"Redevables": 4004,
+							"patrinoime": 4576866,
+							"moyenneISF": 23029
+						}, {
+							"nomVille": "PARIS",
+							"codepostal": "75 107",
+							"Redevables": 5795,
+							"patrinoime": 5749206,
+							"moyenneISF": 28387
+						}, {
+							"nomVille": "PARIS",
+							"codepostal": "75 108",
+							"Redevables": 3148,
+							"patrinoime": 4445890,
+							"moyenneISF": 21425
+						}, {
+							"nomVille": "PARIS",
+							"codepostal": "75 109",
+							"Redevables": 1977,
+							"patrinoime": 2873778,
+							"moyenneISF": 11913
+						}, {
+							"nomVille": "PARIS",
+							"codepostal": "75 110",
+							"Redevables": 1149,
+							"patrinoime": 2673428,
+							"moyenneISF": 11640
+						}, {
+							"nomVille": "PARIS",
+							"codepostal": "75 111",
+							"Redevables": 2275,
+							"patrinoime": 2626143,
+							"moyenneISF": 10160
+						}, {
+							"nomVille": "PARIS",
+							"codepostal": "75 112",
+							"Redevables": 2495,
+							"patrinoime": 2514481,
+							"moyenneISF": 9744
+						}, {
+							"nomVille": "PARIS",
+							"codepostal": "75 113",
+							"Redevables": 2204,
+							"patrinoime": 2600513,
+							"moyenneISF": 10143
+						}, {
+							"nomVille": "PARIS",
+							"codepostal": "75 114",
+							"Redevables": 3564,
+							"patrinoime": 3006125,
+							"moyenneISF": 12330
+						}, {
+							"nomVille": "PARIS",
+							"codepostal": "75 115",
+							"Redevables": 6998,
+							"patrinoime": 2751738,
+							"moyenneISF": 11532
+						}, {
+							"nomVille": "PARIS",
+							"codepostal": "75 116",
+							"Redevables": 14361,
+							"patrinoime": 4469350,
+							"moyenneISF": 21972
+						}, {
+							"nomVille": "PARIS",
+							"codepostal": "75 117",
+							"Redevables": 6340,
+							"patrinoime": 3340379,
+							"moyenneISF": 14743
+						}, {
+							"nomVille": "PARIS",
+							"codepostal": "75 118",
+							"Redevables": 1663,
+							"patrinoime": 2910352,
+							"moyenneISF": 12528
+						}, {
+							"nomVille": "PARIS",
+							"codepostal": "75 119",
+							"Redevables": 1134,
+							"patrinoime": 2572157,
+							"moyenneISF": 9961
+						}, {
+							"nomVille": "PARIS",
+							"codepostal": "75 120",
+							"Redevables": 1199,
+							"patrinoime": 2531889,
+							"moyenneISF": 9257
+						}
+					]
+				}, {
+					"nomDepartement": "SEINE-ET-MARNE",
+					"communes": [
+						{
+							"nomVille": "BUSSY ST GEORGES",
+							"codepostal": "77 058",
+							"Redevables": 85,
+							"patrinoime": 2440053,
+							"moyenneISF": 8980
+						}, {
+							"nomVille": "CHELLES",
+							"codepostal": "77 108",
+							"Redevables": 133,
+							"patrinoime": 2238734,
+							"moyenneISF": 7978
+						}, {
+							"nomVille": "LAGNY SUR MARNE",
+							"codepostal": "77 243",
+							"Redevables": 96,
+							"patrinoime": 3168705,
+							"moyenneISF": 11515
+						}, {
+							"nomVille": "MEAUX",
+							"codepostal": "77 284",
+							"Redevables": 132,
+							"patrinoime": 2425275,
+							"moyenneISF": 9863
+						}, {
+							"nomVille": "MELUN",
+							"codepostal": "77 288",
+							"Redevables": 105,
+							"patrinoime": 2759449,
+							"moyenneISF": 12051
+						}, {
+							"nomVille": "OZOIR LA FERRIERE",
+							"codepostal": "77 350",
+							"Redevables": 92,
+							"patrinoime": 2641116,
+							"moyenneISF": 11815
+						}, {
+							"nomVille": "PONTAULT COMBAULT",
+							"codepostal": "77 373",
+							"Redevables": 75,
+							"patrinoime": 2162208,
+							"moyenneISF": 8218
+						}
+					]
+				}, {
+					"nomDepartement": "SEINE-SAINT-DENIS",
+					"communes": [
+						{
+							"nomVille": "AUBERVILLIERS",
+							"codepostal": "93 001",
+							"Redevables": 50,
+							"patrinoime": 2387678,
+							"moyenneISF": 10624
+						}, {
+							"nomVille": "AULNAY SOUS BOIS",
+							"codepostal": "93 005",
+							"Redevables": 159,
+							"patrinoime": 2311056,
+							"moyenneISF": 8053
+						}, {
+							"nomVille": "BAGNOLET",
+							"codepostal": "93 006",
+							"Redevables": 64,
+							"patrinoime": 2263788,
+							"moyenneISF": 7588
+						}, {
+							"nomVille": "DRANCY",
+							"codepostal": "93 029",
+							"Redevables": 86,
+							"patrinoime": 2337646,
+							"moyenneISF": 9115
+						}, {
+							"nomVille": "EPINAY SUR SEINE",
+							"codepostal": "93 031",
+							"Redevables": 53,
+							"patrinoime": 2191916,
+							"moyenneISF": 7754
+						}, {
+							"nomVille": "GAGNY",
+							"codepostal": "93 032",
+							"Redevables": 118,
+							"patrinoime": 2305261,
+							"moyenneISF": 7310
+						}, {
+							"nomVille": "LES LILAS",
+							"codepostal": "93 045",
+							"Redevables": 145,
+							"patrinoime": 2822833,
+							"moyenneISF": 15409
+						}, {
+							"nomVille": "LES PAVILLONS SOUS BOIS",
+							"codepostal": "93 057",
+							"Redevables": 80,
+							"patrinoime": 2208801,
+							"moyenneISF": 8266
+						}, {
+							"nomVille": "LIVRY GARGAN",
+							"codepostal": "93 046",
+							"Redevables": 106,
+							"patrinoime": 2130236,
+							"moyenneISF": 7990
+						}, {
+							"nomVille": "MONTFERMEIL",
+							"codepostal": "93 047",
+							"Redevables": 53,
+							"patrinoime": 2307578,
+							"moyenneISF": 9598
+						}, {
+							"nomVille": "MONTREUIL SOUS BOIS",
+							"codepostal": "93 048",
+							"Redevables": 262,
+							"patrinoime": 2383076,
+							"moyenneISF": 9726
+						}, {
+							"nomVille": "NEUILLY PLAISANCE",
+							"codepostal": "93 049",
+							"Redevables": 75,
+							"patrinoime": 2141589,
+							"moyenneISF": 7660
+						}, {
+							"nomVille": "NOISY LE GRAND",
+							"codepostal": "93 051",
+							"Redevables": 163,
+							"patrinoime": 2451070,
+							"moyenneISF": 11762
+						}, {
+							"nomVille": "NOISY LE SEC",
+							"codepostal": "93 053",
+							"Redevables": 53,
+							"patrinoime": 2264596,
+							"moyenneISF": 8980
+						}, {
+							"nomVille": "PANTIN",
+							"codepostal": "93 055",
+							"Redevables": 78,
+							"patrinoime": 2182609,
+							"moyenneISF": 8257
+						}, {
+							"nomVille": "ROSNY SOUS BOIS",
+							"codepostal": "93 064",
+							"Redevables": 86,
+							"patrinoime": 2155388,
+							"moyenneISF": 7582
+						}, {
+							"nomVille": "SAINT DENIS",
+							"codepostal": "93 066",
+							"Redevables": 51,
+							"patrinoime": 2399702,
+							"moyenneISF": 10191
+						}, {
+							"nomVille": "SAINT OUEN",
+							"codepostal": "93 070",
+							"Redevables": 75,
+							"patrinoime": 2184032,
+							"moyenneISF": 8255
+						}, {
+							"nomVille": "VILLEMOMBLE",
+							"codepostal": "93 077",
+							"Redevables": 188,
+							"patrinoime": 2628013,
+							"moyenneISF": 10178
+						}
+					]
+				}, {
+					"nomDepartement": "VAL-D'OISE",
+					"communes": [
+						{
+							"nomVille": "ARGENTEUIL",
+							"codepostal": "95 018",
+							"Redevables": 137,
+							"patrinoime": 2506511,
+							"moyenneISF": 9330
+						}, {
+							"nomVille": "CERGY",
+							"codepostal": "95 127",
+							"Redevables": 93,
+							"patrinoime": 2073667,
+							"moyenneISF": 6496
+						}, {
+							"nomVille": "CORMEILLES EN PARISIS",
+							"codepostal": "95 176",
+							"Redevables": 126,
+							"patrinoime": 2142129,
+							"moyenneISF": 7694
+						}, {
+							"nomVille": "DEUIL LA BARRE",
+							"codepostal": "95 197",
+							"Redevables": 113,
+							"patrinoime": 2150035,
+							"moyenneISF": 7416
+						}, {
+							"nomVille": "EAUBONNE",
+							"codepostal": "95 203",
+							"Redevables": 136,
+							"patrinoime": 2116810,
+							"moyenneISF": 7395
+						}, {
+							"nomVille": "ERMONT",
+							"codepostal": "95 219",
+							"Redevables": 97,
+							"patrinoime": 2105383,
+							"moyenneISF": 6866
+						}, {
+							"nomVille": "FRANCONVILLE",
+							"codepostal": "95 252",
+							"Redevables": 58,
+							"patrinoime": 3675783,
+							"moyenneISF": 10441
+						}, {
+							"nomVille": "HERBLAY",
+							"codepostal": "95 306",
+							"Redevables": 115,
+							"patrinoime": 2285068,
+							"moyenneISF": 8953
+						}, {
+							"nomVille": "MONTMORENCY",
+							"codepostal": "95 428",
+							"Redevables": 312,
+							"patrinoime": 3284745,
+							"moyenneISF": 12998
+						}, {
+							"nomVille": "PONTOISE",
+							"codepostal": "95 500",
+							"Redevables": 98,
+							"patrinoime": 2469707,
+							"moyenneISF": 9528
+						}, {
+							"nomVille": "SANNOIS",
+							"codepostal": "95 582",
+							"Redevables": 78,
+							"patrinoime": 2384576,
+							"moyenneISF": 7886
+						}, {
+							"nomVille": "ST GRATIEN",
+							"codepostal": "95 555",
+							"Redevables": 129,
+							"patrinoime": 2521183,
+							"moyenneISF": 9333
+						}, {
+							"nomVille": "TAVERNY",
+							"codepostal": "95 607",
+							"Redevables": 82,
+							"patrinoime": 2136790,
+							"moyenneISF": 7838
+						}
+					]
+				}, {
+					"nomDepartement": "VAL-DE-MARNE",
+					"communes": [
+						{
+							"nomVille": "ALFORTVILLE",
+							"codepostal": "94 002",
+							"Redevables": 78,
+							"patrinoime": 2146878,
+							"moyenneISF": 7735
+						}, {
+							"nomVille": "ARCUEIL",
+							"codepostal": "94 003",
+							"Redevables": 66,
+							"patrinoime": 2225945,
+							"moyenneISF": 7652
+						}, {
+							"nomVille": "CACHAN",
+							"codepostal": "94 016",
+							"Redevables": 166,
+							"patrinoime": 2347531,
+							"moyenneISF": 7601
+						}, {
+							"nomVille": "CHAMPIGNY SUR MARNE",
+							"codepostal": "94 017",
+							"Redevables": 161,
+							"patrinoime": 2536146,
+							"moyenneISF": 10167
+						}, {
+							"nomVille": "CHARENTON LE PONT",
+							"codepostal": "94 018",
+							"Redevables": 475,
+							"patrinoime": 2363337,
+							"moyenneISF": 8610
+						}, {
+							"nomVille": "CHOISY LE ROI",
+							"codepostal": "94 022",
+							"Redevables": 77,
+							"patrinoime": 2423825,
+							"moyenneISF": 9593
+						}, {
+							"nomVille": "CRETEIL",
+							"codepostal": "94 028",
+							"Redevables": 244,
+							"patrinoime": 2171684,
+							"moyenneISF": 7142
+						}, {
+							"nomVille": "FONTENAY SOUS BOIS",
+							"codepostal": "94 033",
+							"Redevables": 607,
+							"patrinoime": 2787057,
+							"moyenneISF": 11184
+						}, {
+							"nomVille": "FRESNES",
+							"codepostal": "94 034",
+							"Redevables": 64,
+							"patrinoime": 2201585,
+							"moyenneISF": 7492
+						}, {
+							"nomVille": "IVRY SUR SEINE",
+							"codepostal": "94 041",
+							"Redevables": 114,
+							"patrinoime": 2134149,
+							"moyenneISF": 7221
+						}, {
+							"nomVille": "L'HAY LES ROSES",
+							"codepostal": "94 038",
+							"Redevables": 199,
+							"patrinoime": 2164239,
+							"moyenneISF": 7552
+						}, {
+							"nomVille": "LE KREMLIN BICETRE",
+							"codepostal": "94 043",
+							"Redevables": 66,
+							"patrinoime": 2022728,
+							"moyenneISF": 6069
+						}, {
+							"nomVille": "LE PERREUX SUR MARNE",
+							"codepostal": "94 058",
+							"Redevables": 464,
+							"patrinoime": 2408563,
+							"moyenneISF": 8765
+						}, {
+							"nomVille": "MAISONS ALFORT",
+							"codepostal": "94 046",
+							"Redevables": 314,
+							"patrinoime": 2380643,
+							"moyenneISF": 8114
+						}, {
+							"nomVille": "NOGENT SUR MARNE",
+							"codepostal": "94 052",
+							"Redevables": 760,
+							"patrinoime": 2844134,
+							"moyenneISF": 11372
+						}, {
+							"nomVille": "SAINT MANDE",
+							"codepostal": "94 067",
+							"Redevables": 821,
+							"patrinoime": 2976369,
+							"moyenneISF": 13085
+						}, {
+							"nomVille": "SAINT MAUR DES FOSSES",
+							"codepostal": "94 068",
+							"Redevables": 1678,
+							"patrinoime": 2697372,
+							"moyenneISF": 10709
+						}, {
+							"nomVille": "SUCY EN BRIE",
+							"codepostal": "94 071",
+							"Redevables": 201,
+							"patrinoime": 2259509,
+							"moyenneISF": 8335
+						}, {
+							"nomVille": "THIAIS",
+							"codepostal": "94 073",
+							"Redevables": 133,
+							"patrinoime": 2364987,
+							"moyenneISF": 9203
+						}, {
+							"nomVille": "VILLEJUIF",
+							"codepostal": "94 076",
+							"Redevables": 110,
+							"patrinoime": 2347383,
+							"moyenneISF": 8389
+						}, {
+							"nomVille": "VILLIERS SUR MARNE",
+							"codepostal": "94 079",
+							"Redevables": 80,
+							"patrinoime": 2164832,
+							"moyenneISF": 7487
+						}, {
+							"nomVille": "VINCENNES",
+							"codepostal": "94 080",
+							"Redevables": 1082,
+							"patrinoime": 2422250,
+							"moyenneISF": 9172
+						}, {
+							"nomVille": "VITRY SUR SEINE",
+							"codepostal": "94 081",
+							"Redevables": 139,
+							"patrinoime": 2155035,
+							"moyenneISF": 7228
+						}
+					]
+				}, {
+					"nomDepartement": "YVELINES",
+					"communes": [
+						{
+							"nomVille": "CHATOU",
+							"codepostal": "78 146",
+							"Redevables": 702,
+							"patrinoime": 2620758,
+							"moyenneISF": 11152
+						}, {
+							"nomVille": "CONFLANS-SAINTE-HONORINE",
+							"codepostal": "78 172",
+							"Redevables": 115,
+							"patrinoime": 2327748,
+							"moyenneISF": 8190
+						}, {
+							"nomVille": "ELANCOURT",
+							"codepostal": "78 208",
+							"Redevables": 68,
+							"patrinoime": 2042951,
+							"moyenneISF": 6343
+						}, {
+							"nomVille": "GUYANCOURT",
+							"codepostal": "78 297",
+							"Redevables": 66,
+							"patrinoime": 1948231,
+							"moyenneISF": 4879
+						}, {
+							"nomVille": "HOUILLES",
+							"codepostal": "78 311",
+							"Redevables": 152,
+							"patrinoime": 2068877,
+							"moyenneISF": 7120
+						}, {
+							"nomVille": "LA CELLE-SAINT-CLOUD",
+							"codepostal": "78 126",
+							"Redevables": 520,
+							"patrinoime": 2918023,
+							"moyenneISF": 11347
+						}, {
+							"nomVille": "LE CHESNAY",
+							"codepostal": "78 158",
+							"Redevables": 744,
+							"patrinoime": 2599059,
+							"moyenneISF": 10539
+						}, {
+							"nomVille": "MAISONS-LAFFITTE",
+							"codepostal": "78 358",
+							"Redevables": 631,
+							"patrinoime": 2571855,
+							"moyenneISF": 9763
+						}, {
+							"nomVille": "MANTES-LA-JOLIE",
+							"codepostal": "78 361",
+							"Redevables": 91,
+							"patrinoime": 2592839,
+							"moyenneISF": 11643
+						}, {
+							"nomVille": "MONTIGNY-LE-BRETONNEUX",
+							"codepostal": "78 423",
+							"Redevables": 125,
+							"patrinoime": 2054909,
+							"moyenneISF": 6484
+						}, {
+							"nomVille": "PLAISIR",
+							"codepostal": "78 490",
+							"Redevables": 119,
+							"patrinoime": 2322430,
+							"moyenneISF": 7536
+						}, {
+							"nomVille": "POISSY",
+							"codepostal": "78 498",
+							"Redevables": 151,
+							"patrinoime": 2255603,
+							"moyenneISF": 8424
+						}, {
+							"nomVille": "RAMBOUILLET",
+							"codepostal": "78 517",
+							"Redevables": 246,
+							"patrinoime": 2395477,
+							"moyenneISF": 8503
+						}, {
+							"nomVille": "SAINT-GERMAIN-EN-LAYE",
+							"codepostal": "78 551",
+							"Redevables": 1255,
+							"patrinoime": 2804097,
+							"moyenneISF": 11332
+						}, {
+							"nomVille": "SARTROUVILLE",
+							"codepostal": "78 586",
+							"Redevables": 170,
+							"patrinoime": 2170122,
+							"moyenneISF": 7289
+						}, {
+							"nomVille": "VELIZY-VILLACOUBLAY",
+							"codepostal": "78 640",
+							"Redevables": 132,
+							"patrinoime": 2029017,
+							"moyenneISF": 6822
+						}, {
+							"nomVille": "VERSAILLES",
+							"codepostal": "78 646",
+							"Redevables": 2728,
+							"patrinoime": 2851063,
+							"moyenneISF": 11761
+						}
+					]
+				}
+			]
+		}
+	]
+}

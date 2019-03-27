@@ -1,0 +1,83 @@
+{
+	"Region": [
+		{
+			"departement": [
+				{
+					"nomDepartement": "COTES-D'ARMOR",
+					"communes": [
+						{
+							"nomVille": "LANNION",
+							"codepostal": "22 113",
+							"Redevables": 80,
+							"patrinoime": 2258484,
+							"moyenneISF": 8777
+						}, {
+							"nomVille": "SAINT-BRIEUC",
+							"codepostal": "22 278",
+							"Redevables": 172,
+							"patrinoime": 2409479,
+							"moyenneISF": 8785
+						}
+					]
+				}, {
+					"nomDepartement": "FINISTERE",
+					"communes": [
+						{
+							"nomVille": "BREST",
+							"codepostal": "29 019",
+							"Redevables": 276,
+							"patrinoime": 2706305,
+							"moyenneISF": 8949
+						}, {
+							"nomVille": "QUIMPER",
+							"codepostal": "29 232",
+							"Redevables": 223,
+							"patrinoime": 2320167,
+							"moyenneISF": 6776
+						}
+					]
+				}, {
+					"nomDepartement": "ILLE-ET-VILAINE",
+					"communes": [
+						{
+							"nomVille": "FOUGERES",
+							"codepostal": "35 115",
+							"Redevables": 76,
+							"patrinoime": 2312903,
+							"moyenneISF": 8259
+						}, {
+							"nomVille": "RENNES",
+							"codepostal": "35 238",
+							"Redevables": 1277,
+							"patrinoime": 2757362,
+							"moyenneISF": 11073
+						}, {
+							"nomVille": "SAINT MALO",
+							"codepostal": "35 288",
+							"Redevables": 483,
+							"patrinoime": 2663816,
+							"moyenneISF": 9443
+						}
+					]
+				}, {
+					"nomDepartement": "MORBIHAN",
+					"communes": [
+						{
+							"nomVille": "LORIENT",
+							"codepostal": "56 121",
+							"Redevables": 151,
+							"patrinoime": 2488651,
+							"moyenneISF": 8418
+						}, {
+							"nomVille": "VANNES",
+							"codepostal": "56 260",
+							"Redevables": 462,
+							"patrinoime": 2491242,
+							"moyenneISF": 8814
+						}
+					]
+				}
+			]
+		}
+	]
+}

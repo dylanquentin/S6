@@ -1,0 +1,196 @@
+{
+	"Region": [
+		{
+			"departement": [
+				{
+					"nomDepartement": "AISNE",
+					"communes": [
+						{
+							"nomVille": "LAON",
+							"codepostal": "02 408",
+							"Redevables": 64,
+							"patrinoime": 2364416,
+							"moyenneISF": 7868
+						}, {
+							"nomVille": "SAINT QUENTIN",
+							"codepostal": "02 691",
+							"Redevables": 156,
+							"patrinoime": 2635912,
+							"moyenneISF": 12004
+						}, {
+							"nomVille": "SOISSONS",
+							"codepostal": "02 722",
+							"Redevables": 165,
+							"patrinoime": 2525140,
+							"moyenneISF": 11432
+						}
+					]
+				}, {
+					"nomDepartement": "NORD",
+					"communes": [
+						{
+							"nomVille": "CAMBRAI",
+							"codepostal": "59 122",
+							"Redevables": 156,
+							"patrinoime": 2667042,
+							"moyenneISF": 8898
+						}, {
+							"nomVille": "CROIX",
+							"codepostal": "59 163",
+							"Redevables": 284,
+							"patrinoime": 4230316,
+							"moyenneISF": 18017
+						}, {
+							"nomVille": "DOUAI",
+							"codepostal": "59 178",
+							"Redevables": 148,
+							"patrinoime": 2458772,
+							"moyenneISF": 9626
+						}, {
+							"nomVille": "DUNKERQUE",
+							"codepostal": "59 183",
+							"Redevables": 263,
+							"patrinoime": 2360639,
+							"moyenneISF": 8222
+						}, {
+							"nomVille": "HALLUIN",
+							"codepostal": "59 279",
+							"Redevables": 53,
+							"patrinoime": 2343109,
+							"moyenneISF": 8025
+						}, {
+							"nomVille": "HAZEBROUCK",
+							"codepostal": "59 295",
+							"Redevables": 100,
+							"patrinoime": 2476886,
+							"moyenneISF": 10649
+						}, {
+							"nomVille": "LA MADELEINE",
+							"codepostal": "59 368",
+							"Redevables": 169,
+							"patrinoime": 2806195,
+							"moyenneISF": 10995
+						}, {
+							"nomVille": "LAMBERSART",
+							"codepostal": "59 328",
+							"Redevables": 264,
+							"patrinoime": 2723507,
+							"moyenneISF": 11483
+						}, {
+							"nomVille": "LILLE",
+							"codepostal": "59 350",
+							"Redevables": 973,
+							"patrinoime": 2705935,
+							"moyenneISF": 10728
+						}, {
+							"nomVille": "MARCQ EN BAROEUL",
+							"codepostal": "59 378",
+							"Redevables": 815,
+							"patrinoime": 3379017,
+							"moyenneISF": 14382
+						}, {
+							"nomVille": "ROUBAIX",
+							"codepostal": "59 512",
+							"Redevables": 137,
+							"patrinoime": 3123752,
+							"moyenneISF": 14017
+						}, {
+							"nomVille": "TOURCOING",
+							"codepostal": "59 599",
+							"Redevables": 117,
+							"patrinoime": 2212724,
+							"moyenneISF": 7711
+						}, {
+							"nomVille": "VALENCIENNES",
+							"codepostal": "59 606",
+							"Redevables": 188,
+							"patrinoime": 2364520,
+							"moyenneISF": 9104
+						}, {
+							"nomVille": "VILLENEUVE D'ASCQ",
+							"codepostal": "59 009",
+							"Redevables": 379,
+							"patrinoime": 3471024,
+							"moyenneISF": 15651
+						}, {
+							"nomVille": "WASQUEHAL",
+							"codepostal": "59 646",
+							"Redevables": 234,
+							"patrinoime": 3181588,
+							"moyenneISF": 13831
+						}
+					]
+				}, {
+					"nomDepartement": "OISE",
+					"communes": [
+						{
+							"nomVille": "BEAUVAIS",
+							"codepostal": "60 057",
+							"Redevables": 168,
+							"patrinoime": 2818031,
+							"moyenneISF": 11533
+						}, {
+							"nomVille": "COMPIEGNE",
+							"codepostal": "60 159",
+							"Redevables": 340,
+							"patrinoime": 2769533,
+							"moyenneISF": 10912
+						}
+					]
+				}, {
+					"nomDepartement": "PAS-DE-CALAIS",
+					"communes": [
+						{
+							"nomVille": "ARRAS",
+							"codepostal": "62 041",
+							"Redevables": 178,
+							"patrinoime": 2370878,
+							"moyenneISF": 8108
+						}, {
+							"nomVille": "BETHUNE",
+							"codepostal": "62 119",
+							"Redevables": 107,
+							"patrinoime": 2591497,
+							"moyenneISF": 11518
+						}, {
+							"nomVille": "BOULOGNE SUR MER",
+							"codepostal": "62 160",
+							"Redevables": 73,
+							"patrinoime": 2437449,
+							"moyenneISF": 9229
+						}, {
+							"nomVille": "CALAIS",
+							"codepostal": "62 193",
+							"Redevables": 92,
+							"patrinoime": 2477918,
+							"moyenneISF": 10303
+						}, {
+							"nomVille": "LENS",
+							"codepostal": "62 498",
+							"Redevables": 60,
+							"patrinoime": 2617825,
+							"moyenneISF": 10540
+						}
+					]
+				}, {
+					"nomDepartement": "SOMME",
+					"communes": [
+						{
+							"nomVille": "ABBEVILLE",
+							"codepostal": "80 001",
+							"Redevables": 72,
+							"patrinoime": 2594570,
+							"moyenneISF": 7555
+						}, {
+							"nomVille": "AMIENS",
+							"codepostal": "80 021",
+							"Redevables": 512,
+							"patrinoime": 2774534,
+							"moyenneISF": 11065
+						}
+					]
+				}
+			]
+		}
+	]
+}

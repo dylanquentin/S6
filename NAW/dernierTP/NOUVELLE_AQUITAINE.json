@@ -1,0 +1,256 @@
+{
+	"Region": [
+		{
+			"departement": [
+				{
+					"nomDepartement": "CHARENTE",
+					"communes": [
+						{
+							"nomVille": "ANGOULEME",
+							"codepostal": "16 015",
+							"Redevables": 137,
+							"patrinoime": 2611329,
+							"moyenneISF": 9949
+						}
+					]
+				}, {
+					"nomDepartement": "CHARENTE-MARITIME",
+					"communes": [
+						{
+							"nomVille": "LA ROCHELLE",
+							"codepostal": "17 300",
+							"Redevables": 619,
+							"patrinoime": 2585756,
+							"moyenneISF": 10248
+						}, {
+							"nomVille": "ROCHEFORT",
+							"codepostal": "17 299",
+							"Redevables": 52,
+							"patrinoime": 2328288,
+							"moyenneISF": 8243
+						}, {
+							"nomVille": "SAINTES",
+							"codepostal": "17 415",
+							"Redevables": 112,
+							"patrinoime": 2513451,
+							"moyenneISF": 10671
+						}
+					]
+				}, {
+					"nomDepartement": "CORREZE",
+					"communes": [
+						{
+							"nomVille": "BRIVE",
+							"codepostal": "19 031",
+							"Redevables": 228,
+							"patrinoime": 2692768,
+							"moyenneISF": 11931
+						}
+					]
+				}, {
+					"nomDepartement": "DEUX-SEVRES",
+					"communes": [
+						{
+							"nomVille": "NIORT",
+							"codepostal": "79 191",
+							"Redevables": 222,
+							"patrinoime": 2811166,
+							"moyenneISF": 10774
+						}
+					]
+				}, {
+					"nomDepartement": "DORDOGNE",
+					"communes": [
+						{
+							"nomVille": "BERGERAC",
+							"codepostal": "24 037",
+							"Redevables": 120,
+							"patrinoime": 2091398,
+							"moyenneISF": 7247
+						}, {
+							"nomVille": "PERIGUEUX",
+							"codepostal": "24 322",
+							"Redevables": 110,
+							"patrinoime": 2457359,
+							"moyenneISF": 9708
+						}
+					]
+				}, {
+					"nomDepartement": "GIRONDE",
+					"communes": [
+						{
+							"nomVille": "BEGLES",
+							"codepostal": "33 039",
+							"Redevables": 50,
+							"patrinoime": 1936554,
+							"moyenneISF": 6488
+						}, {
+							"nomVille": "BORDEAUX",
+							"codepostal": "33 063",
+							"Redevables": 2669,
+							"patrinoime": 2763813,
+							"moyenneISF": 11027
+						}, {
+							"nomVille": "EYSINES",
+							"codepostal": "33 162",
+							"Redevables": 100,
+							"patrinoime": 2219534,
+							"moyenneISF": 7336
+						}, {
+							"nomVille": "GRADIGNAN",
+							"codepostal": "33 192",
+							"Redevables": 166,
+							"patrinoime": 2400908,
+							"moyenneISF": 8625
+						}, {
+							"nomVille": "GUJAN-MESTRAS",
+							"codepostal": "33 199",
+							"Redevables": 102,
+							"patrinoime": 2312495,
+							"moyenneISF": 8765
+						}, {
+							"nomVille": "LA TESTE DE BUCH",
+							"codepostal": "33 529",
+							"Redevables": 332,
+							"patrinoime": 2479844,
+							"moyenneISF": 8859
+						}, {
+							"nomVille": "LE BOUSCAT",
+							"codepostal": "33 069",
+							"Redevables": 363,
+							"patrinoime": 3334865,
+							"moyenneISF": 12133
+						}, {
+							"nomVille": "LIBOURNE",
+							"codepostal": "33 243",
+							"Redevables": 125,
+							"patrinoime": 2600354,
+							"moyenneISF": 8958
+						}, {
+							"nomVille": "MERIGNAC",
+							"codepostal": "33 281",
+							"Redevables": 293,
+							"patrinoime": 2387351,
+							"moyenneISF": 9093
+						}, {
+							"nomVille": "PESSAC",
+							"codepostal": "33 318",
+							"Redevables": 266,
+							"patrinoime": 2335014,
+							"moyenneISF": 8610
+						}, {
+							"nomVille": "SAINT-MEDARD-EN-JALLES",
+							"codepostal": "33 449",
+							"Redevables": 110,
+							"patrinoime": 2325787,
+							"moyenneISF": 8014
+						}, {
+							"nomVille": "TALENCE",
+							"codepostal": "33 522",
+							"Redevables": 196,
+							"patrinoime": 2485543,
+							"moyenneISF": 10985
+						}, {
+							"nomVille": "VILLENAVE-D'ORNON",
+							"codepostal": "33 550",
+							"Redevables": 93,
+							"patrinoime": 2196370,
+							"moyenneISF": 7914
+						}
+					]
+				}, {
+					"nomDepartement": "HAUTE-VIENNE",
+					"communes": [
+						{
+							"nomVille": "LIMOGES",
+							"codepostal": "87 085",
+							"Redevables": 500,
+							"patrinoime": 3118850,
+							"moyenneISF": 12400
+						}
+					]
+				}, {
+					"nomDepartement": "LANDES",
+					"communes": [
+						{
+							"nomVille": "DAX",
+							"codepostal": "40 088",
+							"Redevables": 105,
+							"patrinoime": 2639766,
+							"moyenneISF": 9699
+						}, {
+							"nomVille": "MONT-DE-MARSAN",
+							"codepostal": "40 192",
+							"Redevables": 91,
+							"patrinoime": 2325564,
+							"moyenneISF": 8761
+						}
+					]
+				}, {
+					"nomDepartement": "LOT-ET-GARONNE",
+					"communes": [
+						{
+							"nomVille": "AGEN",
+							"codepostal": "47 001",
+							"Redevables": 119,
+							"patrinoime": 2647385,
+							"moyenneISF": 10766
+						}, {
+							"nomVille": "VILLENEUVE SUR LOT",
+							"codepostal": "47 323",
+							"Redevables": 62,
+							"patrinoime": 2318727,
+							"moyenneISF": 8744
+						}
+					]
+				}, {
+					"nomDepartement": "PYRENEES-ATLANTIQUES",
+					"communes": [
+						{
+							"nomVille": "ANGLET",
+							"codepostal": "64 024",
+							"Redevables": 467,
+							"patrinoime": 2491208,
+							"moyenneISF": 9360
+						}, {
+							"nomVille": "BAYONNE",
+							"codepostal": "64 102",
+							"Redevables": 269,
+							"patrinoime": 2609393,
+							"moyenneISF": 10926
+						}, {
+							"nomVille": "BIARRITZ",
+							"codepostal": "64 122",
+							"Redevables": 612,
+							"patrinoime": 2529373,
+							"moyenneISF": 9808
+						}, {
+							"nomVille": "PAU",
+							"codepostal": "64 445",
+							"Redevables": 451,
+							"patrinoime": 2395498,
+							"moyenneISF": 9181
+						}
+					]
+				}, {
+					"nomDepartement": "VIENNE",
+					"communes": [
+						{
+							"nomVille": "CHATELLERAULT",
+							"codepostal": "86 066",
+							"Redevables": 92,
+							"patrinoime": 2545732,
+							"moyenneISF": 9396
+						}, {
+							"nomVille": "POITIERS",
+							"codepostal": "86 194",
+							"Redevables": 310,
+							"patrinoime": 2543188,
+							"moyenneISF": 9671
+						}
+					]
+				}
+			]
+		}
+	]
+}

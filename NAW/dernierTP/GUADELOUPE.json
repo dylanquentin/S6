@@ -1,0 +1,20 @@
+{
+	"Region": [
+		{
+			"departement": [
+				{
+					"nomDepartement": "GUADELOUPE",
+					"communes": [
+						{
+							"nomVille": "LE GOSIER",
+							"codepostal": "97113",
+							"Redevables": 101,
+							"patrinoime": 2603757,
+							"moyenneISF": 10851
+						}
+					]
+				}
+			]
+		}
+	]
+}
